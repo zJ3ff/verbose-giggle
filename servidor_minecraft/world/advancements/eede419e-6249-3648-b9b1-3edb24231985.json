@@ -286,6 +286,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 22:18:43 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -374,6 +380,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-06-05 22:18:43 +0000"
     },
     "done": true
   },
@@ -1390,26 +1402,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-05 22:11:44 +0000",
-      "!bit14": "2025-06-05 22:11:44 +0000",
-      "!bit11": "2025-06-05 22:11:44 +0000",
-      "!bit12": "2025-06-05 22:11:44 +0000",
-      "!bit10": "2025-06-05 22:11:44 +0000",
-      "!bit9": "2025-06-05 22:11:44 +0000",
-      "!bit8": "2025-06-05 22:11:44 +0000",
-      "!bit7": "2025-06-05 22:11:44 +0000",
-      "!bit6": "2025-06-05 22:11:44 +0000",
-      "!bit5": "2025-06-05 22:11:44 +0000",
-      "!bit4": "2025-06-05 22:11:44 +0000",
-      "!bit3": "2025-06-05 22:11:44 +0000",
-      "!bit2": "2025-06-05 22:11:44 +0000",
-      "!bit1": "2025-06-05 22:11:44 +0000",
-      "!bit0": "2025-06-05 22:11:44 +0000"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-05 16:36:53 +0000"
@@ -1596,6 +1588,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-06-05 21:32:18 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-06-05 22:17:43 +0000"
     },
     "done": true
   },

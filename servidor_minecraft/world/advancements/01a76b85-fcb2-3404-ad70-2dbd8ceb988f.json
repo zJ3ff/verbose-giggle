@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-05 22:30:03 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -274,9 +280,16 @@
     "criteria": {
       "apple": "2025-06-05 20:07:43 +0000",
       "bread": "2025-06-05 20:11:26 +0000",
-      "golden_apple": "2025-06-05 21:58:35 +0000"
+      "golden_apple": "2025-06-05 21:58:35 +0000",
+      "cod": "2025-06-05 22:35:05 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 22:18:50 +0000"
+    },
+    "done": true
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -344,6 +357,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-06-05 22:16:44 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "requirement": "2025-06-05 20:07:43 +0000",
@@ -360,6 +379,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-06-05 22:18:50 +0000"
     },
     "done": true
   },
@@ -887,6 +912,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-06-05 22:39:05 +0000",
       "wheat": "2025-06-05 20:16:12 +0000"
     },
     "done": false
@@ -1366,6 +1392,7 @@
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-05 20:03:52 +0000",
       "atmospheric:rainforest": "2025-06-05 20:02:35 +0000",
+      "minecraft:bamboo_jungle": "2025-06-05 22:37:12 +0000",
       "minecraft:sparse_jungle": "2025-06-05 20:02:34 +0000",
       "minecraft:river": "2025-06-05 20:02:32 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:12 +0000",
@@ -1573,6 +1600,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-06-05 21:58:11 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-06-05 22:17:48 +0000"
     },
     "done": true
   },
