@@ -3997,3 +3997,155 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 21:36:01.954] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
 [05Jun2025 21:37:41.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TorturedSoul['Israel'/32572, l='ServerLevel[world]', x=7.44, y=66.00, z=315.59] died: Israel was killed by ChristianR3aper's magic missile
 [05Jun2025 21:37:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has completed the challenge [He Wasn't So Strong]
+[05Jun2025 21:53:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [What a Dream!]
+[05Jun2025 21:55:49.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[05Jun2025 21:56:56.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[05Jun2025 21:57:36.795] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Jun2025 21:57:36.795] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Jun2025 21:57:36.795] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Jun2025 21:57:36.801] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[05Jun2025 21:57:36.801] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[05Jun2025 21:57:36.802] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[05Jun2025 21:57:36.802] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[05Jun2025 21:57:36.803] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[05Jun2025 21:57:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Incendium]
+[05Jun2025 21:57:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [We Need to Go Deeper]
+[05Jun2025 21:57:40.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8934ms or 178 ticks behind
+[05Jun2025 21:57:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Incendium]
+[05Jun2025 21:57:42.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [We Need to Go Deeper]
+[05Jun2025 21:57:47.357] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[05Jun2025 21:57:53.913] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-164, y=-1, z=-74}
+[05Jun2025 21:57:53.914] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-164, y=-1, z=-77}
+[05Jun2025 21:57:53.916] [Worker-Main3/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[05Jun2025 21:57:54.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[05Jun2025 21:57:56.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Into Fire]
+[05Jun2025 21:57:59.539] [Worker-Main2/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 21:58:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Straddle My Ol' Saddle]
+[05Jun2025 21:58:08.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[05Jun2025 21:58:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[05Jun2025 21:58:26.892] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[05Jun2025 21:58:26.933] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[05Jun2025 21:58:26.986] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Jun2025 21:58:27.038] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Jun2025 21:58:27.086] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Jun2025 21:58:27.141] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Jun2025 21:58:27.183] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Jun2025 21:58:27.236] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Jun2025 21:58:27.286] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Jun2025 21:58:27.334] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Jun2025 21:58:27.383] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Jun2025 21:58:27.439] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Jun2025 21:58:27.597] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Jun2025 21:58:27.600] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Jun2025 21:58:27.632] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Jun2025 21:58:27.735] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47299172
+[05Jun2025 21:58:27.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:63660] logged in with entity id 36833 at (33.4626285577, 52.0, 21.65678805270977)
+[05Jun2025 21:58:27.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[05Jun2025 21:58:27.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[05Jun2025 21:58:27.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[05Jun2025 21:58:27.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[05Jun2025 21:58:27.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[05Jun2025 21:58:27.792] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[05Jun2025 21:58:27.792] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[05Jun2025 21:58:27.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[05Jun2025 21:58:27.887] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[05Jun2025 21:58:27.973] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[05Jun2025 21:58:27.973] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[05Jun2025 21:58:27.973] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Jun2025 21:58:27.974] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[05Jun2025 21:58:36.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[05Jun2025 21:58:36.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[05Jun2025 21:58:36.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Magma Cube
+[05Jun2025 21:59:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Magma Cube
+[05Jun2025 21:59:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[05Jun2025 21:59:54.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=49, z=30}
+[05Jun2025 22:00:07.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=50, z=30}
+[05Jun2025 22:00:08.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=49, z=29}
+[05Jun2025 22:00:08.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper moved wrongly!
+[05Jun2025 22:00:23.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=50, z=30}
+[05Jun2025 22:00:23.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=50, z=30}
+[05Jun2025 22:00:31.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=49, z=28}
+[05Jun2025 22:00:40.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=47, z=30} BlockPos{x=29, y=48, z=28}
+[05Jun2025 22:00:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Knight Quest]
+[05Jun2025 22:00:41.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[05Jun2025 22:00:41.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[05Jun2025 22:00:59.283] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[05Jun2025 22:00:59.335] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[05Jun2025 22:00:59.387] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Jun2025 22:00:59.433] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Jun2025 22:00:59.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Jun2025 22:00:59.534] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Jun2025 22:00:59.584] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Jun2025 22:00:59.631] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Jun2025 22:00:59.684] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Jun2025 22:00:59.734] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Jun2025 22:00:59.783] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Jun2025 22:00:59.838] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Jun2025 22:01:00.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Jun2025 22:01:00.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Jun2025 22:01:00.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Jun2025 22:01:00.062] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23a03829
+[05Jun2025 22:01:00.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:63811] logged in with entity id 38056 at (29.61687295543429, 51.0, 30.5)
+[05Jun2025 22:01:00.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[05Jun2025 22:01:00.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[05Jun2025 22:01:00.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[05Jun2025 22:01:00.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[05Jun2025 22:01:00.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[05Jun2025 22:01:00.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[05Jun2025 22:01:00.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[05Jun2025 22:01:00.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[05Jun2025 22:01:00.242] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[05Jun2025 22:01:00.346] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[05Jun2025 22:01:00.346] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[05Jun2025 22:01:00.347] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Jun2025 22:01:00.347] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[05Jun2025 22:01:31.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[05Jun2025 22:01:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[05Jun2025 22:01:50.533] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[05Jun2025 22:01:50.584] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[05Jun2025 22:01:50.632] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Jun2025 22:01:50.686] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Jun2025 22:01:50.735] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Jun2025 22:01:50.786] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Jun2025 22:01:50.833] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Jun2025 22:01:50.882] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Jun2025 22:01:50.932] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Jun2025 22:01:50.989] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Jun2025 22:01:51.034] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Jun2025 22:01:51.085] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Jun2025 22:01:51.300] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Jun2025 22:01:51.301] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Jun2025 22:01:51.303] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Jun2025 22:01:51.364] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@749332a5
+[05Jun2025 22:01:51.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:63870] logged in with entity id 38657 at (111.5, 72.875, 330.5)
+[05Jun2025 22:01:51.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[05Jun2025 22:01:51.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[05Jun2025 22:01:51.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[05Jun2025 22:01:51.404] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[05Jun2025 22:01:51.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[05Jun2025 22:01:51.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[05Jun2025 22:01:51.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[05Jun2025 22:01:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[05Jun2025 22:01:51.495] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[05Jun2025 22:01:51.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[05Jun2025 22:01:51.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[05Jun2025 22:01:51.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Jun2025 22:01:51.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[05Jun2025 22:02:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
+[05Jun2025 22:02:32.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[05Jun2025 22:04:06.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[05Jun2025 22:04:42.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[05Jun2025 22:04:42.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:04:42.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:04:50.878] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[05Jun2025 22:05:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[05Jun2025 22:05:16.224] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:16.316] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:16.316] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:16.412] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:16.412] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:16.505] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:17.092] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:17.092] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:17.092] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:05:17.093] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:

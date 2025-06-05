@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-05 21:57:40 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -610,6 +616,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-05 20:20:19 +0000",
       "minecraft:skeleton": "2025-06-05 20:44:55 +0000",
+      "minecraft:magma_cube": "2025-06-05 22:02:24 +0000",
       "minecraft:spider": "2025-06-05 20:44:56 +0000",
       "minecraft:creeper": "2025-06-05 21:04:48 +0000",
       "minecraft:wither_skeleton": "2025-06-05 21:29:38 +0000",
@@ -617,6 +624,12 @@
       "minecraft:zombie": "2025-06-05 20:58:28 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-05 21:57:40 +0000"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -876,6 +889,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-06-05 21:57:40 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1018,6 +1037,12 @@
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-06-05 21:04:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-05 21:57:40 +0000"
     },
     "done": true
   },
@@ -1334,26 +1359,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-05 21:38:21 +0000",
-      "!bit14": "2025-06-05 21:38:21 +0000",
-      "!bit11": "2025-06-05 21:38:21 +0000",
-      "!bit12": "2025-06-05 21:38:21 +0000",
-      "!bit10": "2025-06-05 21:38:21 +0000",
-      "!bit9": "2025-06-05 21:38:21 +0000",
-      "!bit8": "2025-06-05 21:38:21 +0000",
-      "!bit7": "2025-06-05 21:38:21 +0000",
-      "!bit6": "2025-06-05 21:38:21 +0000",
-      "!bit5": "2025-06-05 21:38:21 +0000",
-      "!bit4": "2025-06-05 21:38:21 +0000",
-      "!bit3": "2025-06-05 21:38:21 +0000",
-      "!bit2": "2025-06-05 21:38:21 +0000",
-      "!bit1": "2025-06-05 21:38:21 +0000",
-      "!bit0": "2025-06-05 21:38:21 +0000"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-05 16:36:53 +0000"
@@ -1555,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-06-05 21:57:40 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1600,6 +1611,12 @@
   "repurposed_structures:fortress_jungle": {
     "criteria": {
       "in_jungle_fortress": "2025-06-05 20:13:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-05 21:57:40 +0000"
     },
     "done": true
   },

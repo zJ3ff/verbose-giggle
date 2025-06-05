@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-05 21:57:42 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -267,7 +273,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-06-05 20:07:43 +0000",
-      "bread": "2025-06-05 20:11:26 +0000"
+      "bread": "2025-06-05 20:11:26 +0000",
+      "golden_apple": "2025-06-05 21:58:35 +0000"
     },
     "done": false
   },
@@ -328,6 +335,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-06-05 21:45:09 +0000"
     },
     "done": true
   },
@@ -461,6 +474,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-06-05 22:02:02 +0000"
     },
     "done": true
   },
@@ -601,17 +620,32 @@
     "criteria": {
       "minecraft:pillager": "2025-06-05 20:23:44 +0000",
       "minecraft:skeleton": "2025-06-05 20:46:37 +0000",
+      "minecraft:magma_cube": "2025-06-05 21:59:55 +0000",
       "minecraft:creeper": "2025-06-05 20:46:26 +0000",
+      "minecraft:zombified_piglin": "2025-06-05 22:02:45 +0000",
       "minecraft:wither_skeleton": "2025-06-05 20:13:09 +0000",
-      "minecraft:zombie": "2025-06-05 20:42:00 +0000"
+      "minecraft:zombie": "2025-06-05 20:42:00 +0000",
+      "quark:foxhound": "2025-06-05 21:58:40 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-05 21:57:42 +0000"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 19:58:31 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-06-05 21:57:56 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
@@ -769,6 +803,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:dream_catcher": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-05 21:53:23 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-06-05 20:20:07 +0000"
@@ -823,6 +863,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "ratatouille": "2025-06-05 21:59:25 +0000",
+      "bacon_and_eggs": "2025-06-05 21:58:11 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2025-06-05 20:16:12 +0000"
@@ -832,6 +879,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-05 21:58:05 +0000"
     },
     "done": true
   },
@@ -856,6 +909,12 @@
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-06-05 21:57:42 +0000"
     },
     "done": true
   },
@@ -983,6 +1042,12 @@
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-06-05 21:27:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-05 21:57:40 +0000"
     },
     "done": true
   },
@@ -1166,6 +1231,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-05 22:00:40 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-06-05 19:58:30 +0000"
@@ -1243,6 +1314,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-05 21:57:56 +0000"
     },
     "done": true
   },
@@ -1465,6 +1542,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-06-05 21:58:11 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2025-06-05 20:25:20 +0000"
@@ -1483,9 +1566,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-06-05 21:57:42 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2025-06-05 21:45:04 +0000"
     },
     "done": true
   },
@@ -1534,6 +1629,12 @@
   "repurposed_structures:fortress_jungle": {
     "criteria": {
       "in_jungle_fortress": "2025-06-05 20:13:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-05 21:57:42 +0000"
     },
     "done": true
   },
