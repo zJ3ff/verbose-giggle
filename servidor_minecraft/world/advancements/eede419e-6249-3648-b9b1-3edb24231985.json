@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 20:00:02 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-05 16:36:53 +0000"
@@ -143,9 +149,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-05 20:00:02 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-06-05 16:42:35 +0000"
     },
     "done": true
   },
@@ -240,6 +258,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-06-05 16:45:09 +0000"
+    },
+    "done": false
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -312,6 +336,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 20:00:02 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/chaos_elytra": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -335,6 +365,12 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 20:00:02 +0000"
+    },
+    "done": false
   },
   "takesapillage:root": {
     "criteria": {
@@ -369,6 +405,12 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 20:00:02 +0000"
     },
     "done": true
   },
@@ -408,6 +450,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-06-05 20:00:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 20:07:38 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
@@ -419,6 +473,12 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 20:00:02 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -522,6 +582,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:tamed_potato_beetle": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-05 16:45:41 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-05 16:36:53 +0000"
@@ -606,6 +672,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-06-05 20:08:37 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
@@ -641,6 +713,12 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-06-05 16:41:52 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
@@ -687,6 +765,12 @@
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 20:08:54 +0000"
     },
     "done": true
   },
@@ -758,9 +842,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-06-05 20:00:02 +0000",
       "has_items": "2025-06-05 16:39:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -834,6 +919,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-05 20:02:35 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -843,6 +934,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-05 20:06:13 +0000"
     },
     "done": true
   },
@@ -873,6 +970,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 20:08:54 +0000"
     },
     "done": true
   },
@@ -1022,6 +1125,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "atmospheric:rainforest_basin": "2025-06-05 16:43:12 +0000",
+      "atmospheric:rainforest": "2025-06-05 16:40:41 +0000",
+      "minecraft:sparse_jungle": "2025-06-05 16:42:41 +0000",
       "minecraft:river": "2025-06-05 16:38:05 +0000"
     },
     "done": false
@@ -1093,6 +1199,12 @@
     },
     "done": false
   },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-06-05 20:09:05 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-06-05 16:36:53 +0000",
@@ -1144,9 +1256,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-05 16:42:48 +0000",
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
@@ -1169,6 +1282,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-05 16:42:35 +0000"
     },
     "done": true
   },
@@ -1235,6 +1354,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-05 20:00:02 +0000"
     },
     "done": true
   },
