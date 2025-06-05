@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-05 03:37:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
@@ -281,6 +287,12 @@
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-05 03:37:50 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -393,6 +405,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-05 03:37:51 +0000"
     },
     "done": true
   },
@@ -570,6 +588,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-06-05 03:37:17 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 03:13:50 +0000"
@@ -609,6 +633,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-05 03:37:50 +0000"
     },
     "done": true
   },
@@ -1084,9 +1114,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-05 03:36:30 +0000",
       "log_spam_fixer": "2025-06-05 03:13:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
@@ -1175,6 +1206,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-06-05 03:37:51 +0000"
     },
     "done": true
   },

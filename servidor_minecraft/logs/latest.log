@@ -3710,3 +3710,60 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 03:27:02.481] [Worker-Main1/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [05Jun2025 03:30:11.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Bony King]
 [05Jun2025 03:30:31.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7be219f6[id=<null>,name=TanatosGX,properties={},legacy=false] (/10.147.17.51:61726) lost connection: Disconnected
+[05Jun2025 03:31:46.168] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[05Jun2025 03:32:10.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[05Jun2025 03:32:10.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[05Jun2025 03:32:10.280] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[05Jun2025 03:32:10.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Direwolf
+[05Jun2025 03:32:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [How'd You Get This?]
+[05Jun2025 03:32:39.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Monster Hunter]
+[05Jun2025 03:32:44.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Darkness Lies Ahead]
+[05Jun2025 03:33:54.528] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 03:34:25.915] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[05Jun2025 03:34:25.946] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[05Jun2025 03:34:25.996] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Jun2025 03:34:26.047] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Jun2025 03:34:26.095] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Jun2025 03:34:26.145] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Jun2025 03:34:26.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Jun2025 03:34:26.247] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Jun2025 03:34:26.294] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Jun2025 03:34:26.344] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Jun2025 03:34:26.395] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Jun2025 03:34:26.443] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Jun2025 03:34:27.412] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Jun2025 03:34:27.415] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Jun2025 03:34:27.421] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Jun2025 03:34:27.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@749f1f29
+[05Jun2025 03:34:27.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TanatosGX[/10.147.17.51:62975] logged in with entity id 2352 at (-189.5, 71.0, -83.5)
+[05Jun2025 03:34:27.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to TanatosGX
+[05Jun2025 03:34:27.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to TanatosGX
+[05Jun2025 03:34:27.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to TanatosGX
+[05Jun2025 03:34:27.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to TanatosGX
+[05Jun2025 03:34:27.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to TanatosGX
+[05Jun2025 03:34:27.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to TanatosGX
+[05Jun2025 03:34:27.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to TanatosGX
+[05Jun2025 03:34:27.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX joined the game
+[05Jun2025 03:34:27.589] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] TanatosGX first spawned. Set First Dragon to 1
+[05Jun2025 03:34:27.674] [Server thread/INFO] [Jade/]: Syncing config to TanatosGX (355a9258-55ca-327a-9183-54003bc6f271)
+[05Jun2025 03:34:27.807] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to TanatosGX...
+[05Jun2025 03:34:27.807] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[05Jun2025 03:34:27.807] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Jun2025 03:34:27.808] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to TanatosGX
+[05Jun2025 03:34:27.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Apothic Affixes]
+[05Jun2025 03:36:33.863] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[05Jun2025 03:36:33.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[05Jun2025 03:36:33.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> c ola
+[05Jun2025 03:36:58.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> sexo
+[05Jun2025 03:37:42.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[05Jun2025 03:37:51.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by ChristianR3aper's magic missile
+[05Jun2025 03:37:51.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -228.53292238597885, Y: 77.0, Z: -118.89219245096213
+[05Jun2025 03:38:01.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XDDDDDDDDDDDDDD
+[05Jun2025 03:38:10.276] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/2821, l='ServerLevel[world]', x=-228.53, y=78.50, z=-118.89]
+[05Jun2025 03:38:10.277] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/2821, l='ServerLevel[world]', x=-228.53, y=78.50, z=-118.89]
+[05Jun2025 03:38:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Monster Hunter]
+[05Jun2025 03:38:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement ['X' Marks the Spot]
+[05Jun2025 03:40:20.482] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[05Jun2025 03:40:47.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [We do a little trolling...]
+[05Jun2025 03:41:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Alex's Mobs]
+[05Jun2025 03:41:21.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [We do a little trolling...]
