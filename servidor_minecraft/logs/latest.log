@@ -3767,3 +3767,145 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 03:40:47.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [We do a little trolling...]
 [05Jun2025 03:41:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Alex's Mobs]
 [05Jun2025 03:41:21.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [We do a little trolling...]
+[05Jun2025 03:41:32.526] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[05Jun2025 03:42:14.168] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[05Jun2025 03:42:51.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[05Jun2025 03:42:53.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[05Jun2025 03:42:58.600] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[05Jun2025 03:43:00.311] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[05Jun2025 03:43:06.171] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[05Jun2025 03:43:06.172] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[05Jun2025 03:43:06.189] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[05Jun2025 03:43:14.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[05Jun2025 03:43:14.434] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting auviotre/enigmatic/addon/contents/entities/goal/CrossbowBlazeAttackGoal$CrossbowState
+[05Jun2025 03:43:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [I Found It Underground]
+[05Jun2025 03:43:30.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Hunt and Gather]
+[05Jun2025 03:43:33.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Acquire Hardware]
+[05Jun2025 03:43:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was slain by Cachalot Whale
+[05Jun2025 03:43:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Monster Hunter]
+[05Jun2025 03:43:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement ['X' Marks the Spot]
+[05Jun2025 03:44:00.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Barrel Booty]
+[05Jun2025 03:44:01.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Vindicator
+[05Jun2025 03:44:01.632] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: 34.12049764221207, Y: 62.073264324665075, Z: 1.9374999999999998
+[05Jun2025 03:44:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was shot by Pillager
+[05Jun2025 03:45:51.828] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/5051, l='ServerLevel[world]', x=34.12, y=63.57, z=1.94]
+[05Jun2025 03:45:51.829] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5051, l='ServerLevel[world]', x=34.12, y=63.57, z=1.94]
+[05Jun2025 03:46:10.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Lionfish
+[05Jun2025 03:46:10.880] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: 21.194329707423577, Y: 62.073264324665104, Z: 13.316361868450741
+[05Jun2025 03:46:20.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Darkness Lies Ahead]
+[05Jun2025 03:46:22.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Lionfish
+[05Jun2025 03:46:24.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was shot by Pillager
+[05Jun2025 03:46:24.040] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ChristianR3aper at X: 31.959856357761247, Y: 64.12160004615784, Z: 4.57180652824599
+[05Jun2025 03:46:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was slain by Cachalot Whale
+[05Jun2025 03:46:51.931] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ChristianR3aper at X: -115.18381279099846, Y: 59.323677525190504, Z: -55.24328701569535
+[05Jun2025 03:47:24.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/6179, l='ServerLevel[world]', x=21.19, y=63.57, z=13.32]
+[05Jun2025 03:47:24.634] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6179, l='ServerLevel[world]', x=21.19, y=63.57, z=13.32]
+[05Jun2025 03:47:35.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper drowned
+[05Jun2025 03:47:35.736] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ChristianR3aper at X: -95.35828338333707, Y: 59.51355875890392, Z: -45.97653012794417
+[05Jun2025 03:48:32.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Not a Diamond]
+[05Jun2025 03:49:03.281] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ChristianR3aper picking up: PermanentItemEntity['Soul Crystal'/6469, l='ServerLevel[world]', x=31.96, y=65.62, z=4.57]
+[05Jun2025 03:49:03.281] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6469, l='ServerLevel[world]', x=31.96, y=65.62, z=4.57]
+[05Jun2025 03:49:20.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Barrel Booty]
+[05Jun2025 03:49:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [This Must be a Sign!]
+[05Jun2025 03:49:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Acquire Hardware]
+[05Jun2025 03:49:45.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [I Found It Underground]
+[05Jun2025 03:49:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Worthy Equipment]
+[05Jun2025 03:49:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Getting an Upgrade]
+[05Jun2025 03:49:56.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Not a Diamond]
+[05Jun2025 03:49:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Flawless Crystals]
+[05Jun2025 03:49:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Royal Zombie
+[05Jun2025 03:50:03.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[05Jun2025 03:50:03.693] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[05Jun2025 03:50:03.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Sweet Dreams]
+[05Jun2025 03:50:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by Royal Zombie using magic
+[05Jun2025 03:50:26.540] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -238.5404788244906, Y: 62.0, Z: -291.83635548738397
+[05Jun2025 03:50:31.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Knight Quest]
+[05Jun2025 03:50:53.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9394, l='ServerLevel[world]', x=-215.50, y=71.00, z=-282.50]
+[05Jun2025 03:50:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by Royal Zombie using magic
+[05Jun2025 03:50:57.184] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -231.41014205095058, Y: 62.131599991965295, Z: -290.39430112444444
+[05Jun2025 03:51:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Sweet Dreams]
+[05Jun2025 03:51:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Boo!]
+[05Jun2025 03:51:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Haunter
+[05Jun2025 03:51:16.731] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jun2025 03:51:16.732] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[05Jun2025 03:51:16.732] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[05Jun2025 03:51:16.732] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[05Jun2025 03:51:16.732] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[05Jun2025 03:51:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Royal Zombie
+[05Jun2025 03:51:17.282] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -225.89011765841119, Y: 63.0, Z: -296.16902786546285
+[05Jun2025 03:51:18.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Far From Perfect]
+[05Jun2025 03:51:20.733] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/9585, l='ServerLevel[world]', x=-225.89, y=64.50, z=-296.17]
+[05Jun2025 03:51:20.733] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9585, l='ServerLevel[world]', x=-225.89, y=64.50, z=-296.17]
+[05Jun2025 03:51:26.531] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/9446, l='ServerLevel[world]', x=-231.41, y=63.63, z=-290.39]
+[05Jun2025 03:51:26.531] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9446, l='ServerLevel[world]', x=-231.41, y=63.63, z=-290.39]
+[05Jun2025 03:51:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Knight Quest]
+[05Jun2025 03:51:36.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[05Jun2025 03:51:42.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[05Jun2025 03:51:43.323] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-378, y=-49, z=-511} but found not block entity block Block{minecraft:air} at location
+[05Jun2025 03:51:43.323] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-378, y=-49, z=-511}
+[05Jun2025 03:51:43.323] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-377, y=-49, z=-511} but found not block entity block Block{minecraft:air} at location
+[05Jun2025 03:51:43.323] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-377, y=-49, z=-511}
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-380, y=-47, z=-511} but found not block entity block Block{iter_rpg:silky_hivestone} at location
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{iter_rpg:silky_hivestone} but failed at location BlockPos{x=-380, y=-47, z=-511}
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-379, y=-48, z=-511} but found not block entity block Block{minecraft:air} at location
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-379, y=-48, z=-511}
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-380, y=-48, z=-510} but found not block entity block Block{minecraft:air} at location
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-380, y=-48, z=-510}
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-379, y=-48, z=-510} but found not block entity block Block{minecraft:air} at location
+[05Jun2025 03:51:43.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-379, y=-48, z=-510}
+[05Jun2025 03:52:11.468] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9800, l='ServerLevel[world]', x=-216.50, y=71.00, z=-282.50]
+[05Jun2025 03:52:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Suit Up]
+[05Jun2025 03:52:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by Royal Zombie using magic
+[05Jun2025 03:52:57.335] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -231.8509290338953, Y: 63.0, Z: -306.13628735694374
+[05Jun2025 03:53:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Suit Up]
+[05Jun2025 03:53:04.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Adventure Time]
+[05Jun2025 03:53:26.231] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/10021, l='ServerLevel[world]', x=-231.85, y=64.50, z=-306.14]
+[05Jun2025 03:53:26.231] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10021, l='ServerLevel[world]', x=-231.85, y=64.50, z=-306.14]
+[05Jun2025 03:53:40.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by Royal Zombie using magic
+[05Jun2025 03:53:40.286] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -226.26966726552988, Y: 63.5625, Z: -300.05357015899796
+[05Jun2025 03:53:42.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/10203, l='ServerLevel[world]', x=-226.27, y=65.06, z=-300.05]
+[05Jun2025 03:53:42.582] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10203, l='ServerLevel[world]', x=-226.27, y=65.06, z=-300.05]
+[05Jun2025 03:53:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Diamonds!]
+[05Jun2025 03:54:15.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was killed by Royal Zombie using magic
+[05Jun2025 03:54:23.921] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10379, l='ServerLevel[world]', x=-176.50, y=78.00, z=-384.50]
+[05Jun2025 03:54:33.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by Royal Zombie using magic
+[05Jun2025 03:54:33.830] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -240.72560268324733, Y: 62.0, Z: -305.88627190163487
+[05Jun2025 03:54:38.129] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/10433, l='ServerLevel[world]', x=-240.73, y=63.50, z=-305.89]
+[05Jun2025 03:54:38.130] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10433, l='ServerLevel[world]', x=-240.73, y=63.50, z=-305.89]
+[05Jun2025 03:54:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Rotten King]
+[05Jun2025 03:55:00.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/3166, l='ServerLevel[world]', x=18.48, y=236.71, z=6.50] died, message: 'Toolsmith tried to swim in lava'
+[05Jun2025 03:55:17.320] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10711, l='ServerLevel[world]', x=-214.50, y=71.00, z=-280.50]
+[05Jun2025 03:55:24.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10800, l='ServerLevel[world]', x=-215.50, y=71.00, z=-280.50]
+[05Jun2025 03:55:59.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11001, l='ServerLevel[world]', x=-205.50, y=77.00, z=-368.50]
+[05Jun2025 03:56:23.723] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/9235, l='ServerLevel[world]', x=-238.54, y=63.50, z=-291.84]
+[05Jun2025 03:56:23.723] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/9235, l='ServerLevel[world]', x=-238.54, y=63.50, z=-291.84]
+[05Jun2025 03:57:20.385] [Worker-Main3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -215 105 -548
+[05Jun2025 03:57:32.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [Hunted]
+[05Jun2025 03:57:36.874] [Worker-Main3/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 03:57:37.182] [Worker-Main3/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 03:57:55.541] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$Interp
+[05Jun2025 03:57:55.542] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$NoiseType
+[05Jun2025 03:57:55.543] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$FractalType
+[05Jun2025 03:57:55.544] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularDistanceFunction
+[05Jun2025 03:57:55.545] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularReturnType
+[05Jun2025 03:57:57.060] [Worker-Main1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -534 110 -291
+[05Jun2025 03:58:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has reached the goal [Flawless Crystals]
+[05Jun2025 03:58:09.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11465, l='ServerLevel[world]', x=-205.50, y=77.00, z=-366.50]
+[05Jun2025 03:58:19.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [Flawless Crystals]
+[05Jun2025 03:58:29.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Far From Perfect]
+[05Jun2025 03:58:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Light Up The World!]
+[05Jun2025 03:58:34.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11530, l='ServerLevel[world]', x=-207.50, y=77.00, z=-366.50]
+[05Jun2025 03:58:45.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [Ancient Remains]
+[05Jun2025 03:58:46.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[05Jun2025 03:59:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [A Little Hot Rod Red]
+[05Jun2025 03:59:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement ['X' Marks the Spot]
+[05Jun2025 03:59:44.106] [Worker-Main3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -531 161 -611
+[05Jun2025 03:59:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Ancient Remains]
+[05Jun2025 03:59:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has reached the goal [Ancient Remains]
+[05Jun2025 04:00:03.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Masquerade]
+[05Jun2025 04:00:41.664] [Worker-Main2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -602 102 -342
+[05Jun2025 04:00:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [It's an Emu!!!]
+[05Jun2025 04:00:58.223] [Worker-Main3/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 04:01:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper fell from a high place
+[05Jun2025 04:01:27.437] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ChristianR3aper at X: -361.25434493623123, Y: 95.0, Z: -474.5138612009562
+[05Jun2025 04:01:28.516] [Worker-Main1/WARN] [ModernFix/]: The namespace awesomedungeonnether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.

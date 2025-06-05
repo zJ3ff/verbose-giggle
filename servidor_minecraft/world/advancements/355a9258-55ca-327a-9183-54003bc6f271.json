@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 03:43:33 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-05 03:34:27 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-05 03:43:33 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -159,6 +171,12 @@
     "criteria": {
       "has_recipe": "2025-06-05 03:34:27 +0000",
       "has_cobweb": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-05 03:43:53 +0000"
     },
     "done": true
   },
@@ -192,6 +210,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-05 03:51:36 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -222,11 +246,23 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-05 03:40:09 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-06-05 03:56:12 +0000"
+    },
+    "done": false
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -264,6 +300,12 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-05 03:57:32 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-06-05 03:34:27 +0000"
@@ -282,11 +324,24 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
+  "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 03:34:28 +0000"
+      "has_scrap": "2025-06-05 03:54:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-05 03:38:17 +0000"
     },
     "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "requirement": "2025-06-05 03:53:56 +0000",
+      "log_spam_fixer": "2025-06-05 03:34:28 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -297,6 +352,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 03:54:59 +0000"
     },
     "done": true
   },
@@ -324,6 +385,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 03:54:59 +0000"
+    },
+    "done": false
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-06-05 03:34:27 +0000"
@@ -342,6 +409,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-05 03:52:29 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -354,9 +427,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 03:43:33 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-05 03:51:01 +0000"
     },
     "done": true
   },
@@ -378,9 +463,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-05 03:41:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-06-05 03:43:30 +0000"
     },
     "done": true
   },
@@ -396,11 +493,30 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-05 03:40:09 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 03:43:33 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-06-05 03:44:00 +0000",
+      "opened_chest": "2025-06-05 03:43:53 +0000"
+    },
+    "done": false
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -443,6 +559,13 @@
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-05 03:43:44 +0000",
+      "minecraft:zombie": "2025-06-05 03:51:11 +0000"
+    },
+    "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -492,6 +615,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-06-05 03:54:59 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-05 03:34:27 +0000"
@@ -534,6 +663,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-05 03:41:20 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -543,6 +678,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-05 03:49:38 +0000"
     },
     "done": true
   },
@@ -567,6 +708,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-05 03:44:00 +0000"
     },
     "done": true
   },
@@ -618,6 +765,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-05 03:38:17 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -657,6 +810,12 @@
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 03:41:39 +0000"
     },
     "done": true
   },
@@ -726,6 +885,13 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-05 03:43:33 +0000",
+      "has_items": "2025-06-05 03:54:59 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-06-05 03:34:27 +0000"
@@ -735,6 +901,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-06-05 03:44:08 +0000"
     },
     "done": true
   },
@@ -774,6 +946,18 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-06-05 03:54:57 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-06-05 03:54:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -798,6 +982,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-05 03:48:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -807,6 +997,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-06-05 03:51:11 +0000"
     },
     "done": true
   },
@@ -837,6 +1033,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-05 03:41:39 +0000"
     },
     "done": true
   },
@@ -900,6 +1102,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-05 03:51:34 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-06-05 03:34:27 +0000",
@@ -916,6 +1124,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-05 03:43:44 +0000"
     },
     "done": true
   },
@@ -973,8 +1187,18 @@
     },
     "done": true
   },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-05 03:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-06-05 03:44:42 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-05 03:42:49 +0000",
+      "minecraft:river": "2025-06-05 03:50:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-05 03:43:06 +0000",
       "minecraft:savanna": "2025-06-05 03:34:28 +0000"
     },
     "done": false
@@ -1090,9 +1314,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-05 03:39:43 +0000",
       "log_spam_fixer": "2025-06-05 03:34:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
@@ -1115,6 +1340,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-05 03:43:30 +0000"
     },
     "done": true
   },
@@ -1178,9 +1409,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-05 03:43:33 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-06-05 03:40:09 +0000"
     },
     "done": true
   },

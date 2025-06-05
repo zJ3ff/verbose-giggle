@@ -2,9 +2,7 @@
 	id: "01a76b85-fcb2-3404-ad70-2dbd8ceb988f"
 	type: "player"
 	player_name: "ChristianR3aper"
-	ranks: {
-		01a76b85-fcb2-3404-ad70-2dbd8ceb988f: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "ChristianR3aper"
 		"ftbteams:description": ""

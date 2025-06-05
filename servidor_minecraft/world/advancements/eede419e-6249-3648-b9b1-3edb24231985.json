@@ -205,6 +205,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-05 03:48:42 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:40 +0000"
@@ -214,6 +220,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-06-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -249,7 +261,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-06-05 03:29:40 +0000"
+      "cooked_porkchop": "2025-06-05 03:29:40 +0000",
+      "rotten_flesh": "2025-06-05 03:52:39 +0000"
     },
     "done": false
   },
@@ -328,9 +341,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-06-05 03:53:47 +0000",
       "log_spam_fixer": "2025-06-05 03:13:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -392,6 +406,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-05 03:53:00 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:40 +0000"
@@ -419,6 +439,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-06-05 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-05 03:50:03 +0000"
     },
     "done": true
   },
@@ -1078,6 +1104,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-05 03:50:31 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-06-05 03:13:40 +0000",
@@ -1172,6 +1204,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-05 03:27:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-05 03:40:46 +0000",
+      "minecraft:river": "2025-06-05 03:57:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-05 03:42:56 +0000",
       "minecraft:savanna": "2025-06-05 03:13:42 +0000"
     },
     "done": false
