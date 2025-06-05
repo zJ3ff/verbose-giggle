@@ -2,9 +2,7 @@
 	id: "eede419e-6249-3648-b9b1-3edb24231985"
 	type: "player"
 	player_name: "zJ3ff"
-	ranks: {
-		eede419e-6249-3648-b9b1-3edb24231985: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "zJ3ff"
 		"ftbteams:description": ""
