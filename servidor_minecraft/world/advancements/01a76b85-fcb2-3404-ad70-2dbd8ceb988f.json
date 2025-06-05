@@ -286,9 +286,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-06-05 04:00:56 +0000",
       "melon_slice": "2025-06-05 03:40:13 +0000"
     },
     "done": false
+  },
+  "dungeons_plus:adventure/find_leviathan": {
+    "criteria": {
+      "in_structure": "2025-06-05 03:59:47 +0000"
+    },
+    "done": true
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -436,6 +443,18 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-05 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-06-05 03:59:22 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
@@ -447,6 +466,12 @@
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-05 04:04:02 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
@@ -463,6 +488,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-06-05 03:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-05 04:06:09 +0000"
     },
     "done": true
   },
@@ -588,6 +619,7 @@
       "minecraft:vindicator": "2025-06-05 03:48:49 +0000",
       "minecraft:spider": "2025-06-05 03:38:23 +0000",
       "minecraft:creeper": "2025-06-05 03:46:55 +0000",
+      "minecraft:phantom": "2025-06-05 04:04:02 +0000",
       "minecraft:zombie": "2025-06-05 03:43:17 +0000",
       "minecraft:drowned": "2025-06-05 03:45:25 +0000"
     },
@@ -949,6 +981,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-05 04:00:03 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-06-05 03:13:50 +0000"
@@ -1234,9 +1272,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-06-05 03:59:46 +0000",
+      "minecraft:badlands": "2025-06-05 04:00:29 +0000",
       "minecraft:beach": "2025-06-05 03:40:39 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 03:42:04 +0000",
       "minecraft:river": "2025-06-05 03:57:23 +0000",
+      "atmospheric:rocky_dunes": "2025-06-05 03:59:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-05 03:42:56 +0000",
       "minecraft:savanna": "2025-06-05 03:13:50 +0000"
     },
@@ -1499,6 +1540,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:50 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-05 04:01:59 +0000"
     },
     "done": true
   },

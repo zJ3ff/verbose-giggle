@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-06-05 04:00:49 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:40 +0000"
@@ -174,6 +180,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-05 03:59:36 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-06-05 03:13:40 +0000",
@@ -265,6 +277,12 @@
       "rotten_flesh": "2025-06-05 03:52:39 +0000"
     },
     "done": false
+  },
+  "dungeons_plus:adventure/find_leviathan": {
+    "criteria": {
+      "in_structure": "2025-06-05 03:59:49 +0000"
+    },
+    "done": true
   },
   "vinery:grapevine_lattice": {
     "criteria": {
@@ -516,7 +534,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2025-06-05 03:21:35 +0000"
+      "opened_barrel": "2025-06-05 03:21:35 +0000",
+      "opened_chest": "2025-06-05 03:59:36 +0000"
     },
     "done": false
   },
@@ -574,6 +593,12 @@
       "log_spam_fixer": "2025-06-05 03:13:42 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-05 03:58:07 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -1203,9 +1228,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-06-05 04:00:21 +0000",
+      "minecraft:badlands": "2025-06-05 04:01:37 +0000",
       "minecraft:beach": "2025-06-05 03:27:01 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 03:40:46 +0000",
       "minecraft:river": "2025-06-05 03:57:07 +0000",
+      "atmospheric:rocky_dunes": "2025-06-05 03:59:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-05 03:42:56 +0000",
       "minecraft:savanna": "2025-06-05 03:13:42 +0000"
     },
@@ -1381,6 +1409,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-05 03:59:19 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:13:40 +0000"
@@ -1410,6 +1444,12 @@
       "has_the_recipe": "2025-06-05 03:13:40 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-06-05 04:00:18 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {

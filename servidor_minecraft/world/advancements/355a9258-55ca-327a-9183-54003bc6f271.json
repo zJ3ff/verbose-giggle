@@ -264,6 +264,12 @@
     },
     "done": false
   },
+  "dungeons_plus:adventure/find_leviathan": {
+    "criteria": {
+      "in_structure": "2025-06-05 03:58:45 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -427,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-05 04:03:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:43:33 +0000"
@@ -563,7 +575,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-05 03:43:44 +0000",
-      "minecraft:zombie": "2025-06-05 03:51:11 +0000"
+      "minecraft:husk": "2025-06-05 03:59:44 +0000",
+      "minecraft:zombie": "2025-06-05 03:51:11 +0000",
+      "savage_and_ravage:skeleton_villager": "2025-06-05 04:05:07 +0000"
     },
     "done": false
   },
@@ -572,6 +586,12 @@
       "log_spam_fixer": "2025-06-05 03:34:28 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-05 03:58:19 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -594,6 +614,12 @@
   "vinery:wine_rack_1": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-05 03:58:29 +0000"
     },
     "done": true
   },
@@ -879,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-05 04:05:06 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
@@ -997,6 +1029,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-05 04:04:38 +0000"
     },
     "done": true
   },
@@ -1195,9 +1233,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-06-05 04:00:28 +0000",
+      "minecraft:badlands": "2025-06-05 04:02:42 +0000",
       "minecraft:beach": "2025-06-05 03:44:42 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 03:42:49 +0000",
       "minecraft:river": "2025-06-05 03:50:49 +0000",
+      "atmospheric:rocky_dunes": "2025-06-05 03:58:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-05 03:43:06 +0000",
       "minecraft:savanna": "2025-06-05 03:34:28 +0000"
     },
@@ -1206,6 +1247,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-06-05 03:58:30 +0000"
     },
     "done": true
   },
@@ -1340,6 +1387,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-06-05 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-05 04:00:43 +0000"
     },
     "done": true
   },

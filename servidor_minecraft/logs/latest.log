@@ -3909,3 +3909,17 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 04:01:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper fell from a high place
 [05Jun2025 04:01:27.437] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ChristianR3aper at X: -361.25434493623123, Y: 95.0, Z: -474.5138612009562
 [05Jun2025 04:01:28.516] [Worker-Main1/WARN] [ModernFix/]: The namespace awesomedungeonnether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 04:01:58.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axeguard['Sofie Sundberg'/87, l='ServerLevel[world]', x=-241.12, y=69.00, z=-219.00] died: Sofie Sundberg was killed by ChristianR3aper's magic missile
+[05Jun2025 04:03:25.773] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ChristianR3aper picking up: PermanentItemEntity['Soul Crystal'/12725, l='ServerLevel[world]', x=-361.25, y=96.50, z=-474.51]
+[05Jun2025 04:03:25.774] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/12725, l='ServerLevel[world]', x=-361.25, y=96.50, z=-474.51]
+[05Jun2025 04:03:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Stone Age]
+[05Jun2025 04:03:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by ChristianR3aper's magic missile
+[05Jun2025 04:03:49.127] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from zJ3ff at X: -366.28254849150403, Y: 95.0, Z: -465.19176744881787
+[05Jun2025 04:03:55.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[05Jun2025 04:04:38.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Isn't It Iron Pick]
+[05Jun2025 04:05:06.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Not Today, Thank You]
+[05Jun2025 04:05:29.324] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player zJ3ff picking up: PermanentItemEntity['Soul Crystal'/14144, l='ServerLevel[world]', x=-366.28, y=96.50, z=-465.19]
+[05Jun2025 04:05:29.324] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/14144, l='ServerLevel[world]', x=-366.28, y=96.50, z=-465.19]
+[05Jun2025 04:05:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Suit Up]
+[05Jun2025 04:06:09.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Sweet Dreams]
+[05Jun2025 04:10:15.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Far From Perfect]
