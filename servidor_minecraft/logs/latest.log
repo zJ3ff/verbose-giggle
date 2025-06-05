@@ -4266,3 +4266,11 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 22:43:28.916] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [05Jun2025 22:46:11.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
 [05Jun2025 22:46:11.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[05Jun2025 22:50:30.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/54335, l='ServerLevel[world]', x=101.50, y=76.00, z=297.97] died: Undead Knight was killed by ChristianR3aper's magic missile
+[05Jun2025 22:50:32.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[05Jun2025 22:50:32.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[05Jun2025 22:50:32.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:53:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Crops of the Wild]
+[05Jun2025 22:56:05.860] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:56:46.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[05Jun2025 22:56:46.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
