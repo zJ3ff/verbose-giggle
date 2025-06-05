@@ -3696,3 +3696,17 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 03:19:44.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Getting an Upgrade]
 [05Jun2025 03:21:01.979] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
 [05Jun2025 03:21:13.284] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[05Jun2025 03:21:22.469] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/1187, l='ServerLevel[world]', x=-163.50, y=77.00, z=-74.50]
+[05Jun2025 03:21:35.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Barrel Booty]
+[05Jun2025 03:21:35.886] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[05Jun2025 03:21:35.886] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdc10f70$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[05Jun2025 03:21:47.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [I Found It Underground]
+[05Jun2025 03:21:58.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Not a Diamond]
+[05Jun2025 03:23:45.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/1390, l='ServerLevel[world]', x=-165.50, y=77.00, z=-74.50]
+[05Jun2025 03:24:59.618] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/1511, l='ServerLevel[world]', x=-164.50, y=77.00, z=-72.50]
+[05Jun2025 03:26:08.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/1648, l='ServerLevel[world]', x=-165.50, y=77.00, z=-72.50]
+[05Jun2025 03:26:12.907] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[05Jun2025 03:26:13.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[05Jun2025 03:27:02.481] [Worker-Main1/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 03:30:11.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Bony King]
+[05Jun2025 03:30:31.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7be219f6[id=<null>,name=TanatosGX,properties={},legacy=false] (/10.147.17.51:61726) lost connection: Disconnected
