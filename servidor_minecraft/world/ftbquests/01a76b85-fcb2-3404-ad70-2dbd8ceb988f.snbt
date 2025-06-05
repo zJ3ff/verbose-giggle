@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "01a76b85fcb23404ad702dbd8ceb988f"
+	name: "ChristianR3aper"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1749093229932L
+		6F010E22CD886969: 1749093229932L
+		0000000000000001: 1749093229932L
+		744084D7C7EA8A6C: 1749093229932L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1749093229932L
+		6F010E22CD886969: 1749093229932L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
