@@ -3931,3 +3931,69 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 21:04:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Close Quarters]
 [05Jun2025 21:04:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Stare Into Despair]
 [05Jun2025 21:04:56.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [The Beginning of An Adventure]
+[05Jun2025 21:12:40.752] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[05Jun2025 21:15:09.594] [Worker-Main3/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 21:16:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Take Aim]
+[05Jun2025 21:17:32.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[05Jun2025 21:21:54.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has reached the goal [Adventurer ]
+[05Jun2025 21:23:48.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zJ3ff a server operator
+[05Jun2025 21:24:18.210] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[05Jun2025 21:24:19.828] [Worker-Main2/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 21:25:13.933] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[05Jun2025 21:25:13.982] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[05Jun2025 21:25:14.031] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Jun2025 21:25:14.078] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Jun2025 21:25:14.128] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Jun2025 21:25:14.180] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Jun2025 21:25:14.229] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Jun2025 21:25:14.280] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Jun2025 21:25:14.330] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Jun2025 21:25:14.379] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Jun2025 21:25:14.429] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Jun2025 21:25:14.482] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Jun2025 21:25:14.782] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Jun2025 21:25:14.782] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Jun2025 21:25:14.823] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Jun2025 21:25:14.912] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57747a9
+[05Jun2025 21:25:14.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:59314] logged in with entity id 29177 at (9.975208932217058, 71.0, 187.62532544601086)
+[05Jun2025 21:25:14.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[05Jun2025 21:25:14.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[05Jun2025 21:25:14.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[05Jun2025 21:25:14.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[05Jun2025 21:25:14.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[05Jun2025 21:25:14.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[05Jun2025 21:25:14.958] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[05Jun2025 21:25:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[05Jun2025 21:25:15.051] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[05Jun2025 21:25:15.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[05Jun2025 21:25:15.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[05Jun2025 21:25:15.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Jun2025 21:25:15.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[05Jun2025 21:25:41.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
+[05Jun2025 21:26:05.126] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[05Jun2025 21:27:57.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Stare Into Despair]
+[05Jun2025 21:28:22.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Barrel Booty]
+[05Jun2025 21:28:51.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Boo!]
+[05Jun2025 21:29:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Spooky Scary Skeleton]
+[05Jun2025 21:29:39.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Spooky Scary Skeleton]
+[05Jun2025 21:30:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Far From Perfect]
+[05Jun2025 21:30:50.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[05Jun2025 21:31:14.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jun2025 21:31:17.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Close Quarters]
+[05Jun2025 21:31:18.917] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[05Jun2025 21:31:23.913] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[05Jun2025 21:31:31.512] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[05Jun2025 21:31:35.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[05Jun2025 21:31:50.893] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[05Jun2025 21:32:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Adventure Time]
+[05Jun2025 21:32:06.448] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jun2025 21:32:18.427] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[05Jun2025 21:32:18.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Penteconter]
+[05Jun2025 21:32:29.713] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[05Jun2025 21:32:44.963] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jun2025 21:33:03.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Penteconter]
+[05Jun2025 21:34:14.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[05Jun2025 21:36:01.954] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[05Jun2025 21:36:01.954] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[05Jun2025 21:37:41.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TorturedSoul['Israel'/32572, l='ServerLevel[world]', x=7.44, y=66.00, z=315.59] died: Israel was killed by ChristianR3aper's magic missile
+[05Jun2025 21:37:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has completed the challenge [He Wasn't So Strong]

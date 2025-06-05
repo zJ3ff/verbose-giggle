@@ -273,7 +273,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-05 20:32:26 +0000",
+      "cooked_beef": "2025-06-05 21:37:15 +0000",
       "bread": "2025-06-05 20:18:06 +0000",
+      "melon_slice": "2025-06-05 21:33:56 +0000",
       "carrot": "2025-06-05 16:45:09 +0000"
     },
     "done": false
@@ -338,6 +340,18 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-06-05 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-05 21:24:31 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "requirement": "2025-06-05 20:21:51 +0000",
@@ -354,6 +368,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-05 21:29:39 +0000"
     },
     "done": true
   },
@@ -539,6 +559,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-06-05 21:28:22 +0000",
       "opened_chest": "2025-06-05 16:38:33 +0000"
     },
     "done": false
@@ -590,6 +611,9 @@
       "minecraft:pillager": "2025-06-05 20:20:19 +0000",
       "minecraft:skeleton": "2025-06-05 20:44:55 +0000",
       "minecraft:spider": "2025-06-05 20:44:56 +0000",
+      "minecraft:creeper": "2025-06-05 21:04:48 +0000",
+      "minecraft:wither_skeleton": "2025-06-05 21:29:38 +0000",
+      "minecraft:silverfish": "2025-06-05 21:35:11 +0000",
       "minecraft:zombie": "2025-06-05 20:58:28 +0000"
     },
     "done": false
@@ -627,6 +651,12 @@
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-05 21:30:27 +0000"
     },
     "done": true
   },
@@ -684,6 +714,12 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 21:04:51 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -732,6 +768,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-05 21:28:22 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:dream_catcher": {
     "criteria": {
       "picked_up_accessory": "2025-06-05 20:17:44 +0000"
@@ -774,6 +816,12 @@
     },
     "done": true
   },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-06-05 21:21:54 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -795,6 +843,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-05 21:24:31 +0000"
     },
     "done": true
   },
@@ -882,6 +936,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-05 21:37:45 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-05 16:36:54 +0000"
@@ -952,6 +1012,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-06-05 21:04:56 +0000"
     },
     "done": true
   },
@@ -1213,6 +1279,7 @@
       "byg:fragment_forest": "2025-06-05 20:52:20 +0000",
       "byg:crag_gardens": "2025-06-05 20:43:36 +0000",
       "byg:forgotten_forest": "2025-06-05 16:36:55 +0000",
+      "byg:baobab_savanna": "2025-06-05 21:24:03 +0000",
       "byg:ebony_woods": "2025-06-05 20:45:18 +0000"
     },
     "done": false
@@ -1248,7 +1315,9 @@
       "minecraft:sparse_jungle": "2025-06-05 16:42:41 +0000",
       "minecraft:river": "2025-06-05 16:38:05 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:43 +0000",
+      "minecraft:forest": "2025-06-05 21:35:54 +0000",
       "minecraft:lush_caves": "2025-06-05 20:52:32 +0000",
+      "minecraft:savanna": "2025-06-05 21:24:54 +0000",
       "minecraft:plains": "2025-06-05 20:14:35 +0000"
     },
     "done": false
@@ -1267,21 +1336,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-06-05 20:59:42 +0000",
-      "!bit14": "2025-06-05 20:59:42 +0000",
-      "!bit11": "2025-06-05 20:59:42 +0000",
-      "!bit12": "2025-06-05 20:59:42 +0000",
-      "!bit10": "2025-06-05 20:59:42 +0000",
-      "!bit9": "2025-06-05 20:59:42 +0000",
-      "!bit8": "2025-06-05 20:59:42 +0000",
-      "!bit7": "2025-06-05 20:59:42 +0000",
-      "!bit6": "2025-06-05 20:59:42 +0000",
-      "!bit5": "2025-06-05 20:59:42 +0000",
-      "!bit4": "2025-06-05 20:59:42 +0000",
-      "!bit3": "2025-06-05 20:59:42 +0000",
-      "!bit2": "2025-06-05 20:59:42 +0000",
-      "!bit1": "2025-06-05 20:59:42 +0000",
-      "!bit0": "2025-06-05 20:59:42 +0000"
+      "!bit13": "2025-06-05 21:38:21 +0000",
+      "!bit14": "2025-06-05 21:38:21 +0000",
+      "!bit11": "2025-06-05 21:38:21 +0000",
+      "!bit12": "2025-06-05 21:38:21 +0000",
+      "!bit10": "2025-06-05 21:38:21 +0000",
+      "!bit9": "2025-06-05 21:38:21 +0000",
+      "!bit8": "2025-06-05 21:38:21 +0000",
+      "!bit7": "2025-06-05 21:38:21 +0000",
+      "!bit6": "2025-06-05 21:38:21 +0000",
+      "!bit5": "2025-06-05 21:38:21 +0000",
+      "!bit4": "2025-06-05 21:38:21 +0000",
+      "!bit3": "2025-06-05 21:38:21 +0000",
+      "!bit2": "2025-06-05 21:38:21 +0000",
+      "!bit1": "2025-06-05 21:38:21 +0000",
+      "!bit0": "2025-06-05 21:38:21 +0000"
     },
     "done": false
   },
@@ -1371,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-05 21:16:37 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
@@ -1453,6 +1528,18 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 21:32:18 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-06-05 21:04:56 +0000"
     },
     "done": true
   },
