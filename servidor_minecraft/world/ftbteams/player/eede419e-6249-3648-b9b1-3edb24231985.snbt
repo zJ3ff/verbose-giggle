@@ -2,11 +2,13 @@
 	id: "eede419e-6249-3648-b9b1-3edb24231985"
 	type: "player"
 	player_name: "zJ3ff"
-	ranks: { }
+	ranks: {
+		eede419e-6249-3648-b9b1-3edb24231985: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "zJ3ff"
 		"ftbteams:description": ""
-		"ftbteams:color": "#CFFF59"
+		"ftbteams:color": "#FF9359"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
