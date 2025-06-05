@@ -4149,3 +4149,56 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [05Jun2025 22:05:17.092] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
 [05Jun2025 22:05:17.092] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
 [05Jun2025 22:05:17.093] [Worker-Main2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[05Jun2025 22:07:18.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[05Jun2025 22:07:18.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:09:08.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Martha'/41485, l='ServerLevel[world]', x=160.53, y=72.00, z=383.53] died: Martha was killed by ChristianR3aper's magic missile
+[05Jun2025 22:09:13.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper moved wrongly!
+[05Jun2025 22:09:20.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [What Was That!?]
+[05Jun2025 22:09:20.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [What Was That!?]
+[05Jun2025 22:09:21.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has completed the challenge [He Wasn't So Strong]
+[05Jun2025 22:09:22.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:09:22.912] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[05Jun2025 22:09:22.912] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[05Jun2025 22:09:22.912] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[05Jun2025 22:09:28.760] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[05Jun2025 22:09:28.761] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:11:11.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has reached the goal [Flawless Crystals]
+[05Jun2025 22:11:41.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Nerves of Steel]
+[05Jun2025 22:11:42.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Nerves of Steel]
+[05Jun2025 22:12:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Into Fire]
+[05Jun2025 22:15:34.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[05Jun2025 22:15:34.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[05Jun2025 22:15:52.534] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[05Jun2025 22:15:52.582] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[05Jun2025 22:15:52.633] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Jun2025 22:15:52.681] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Jun2025 22:15:52.731] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Jun2025 22:15:52.780] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Jun2025 22:15:52.832] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Jun2025 22:15:52.883] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Jun2025 22:15:52.933] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Jun2025 22:15:52.980] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Jun2025 22:15:53.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Jun2025 22:15:53.081] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Jun2025 22:15:53.259] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Jun2025 22:15:53.259] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Jun2025 22:15:53.283] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Jun2025 22:15:53.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@179521c9
+[05Jun2025 22:15:53.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:64725] logged in with entity id 43725 at (102.12369974965239, 72.0, 335.3100049183861)
+[05Jun2025 22:15:53.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[05Jun2025 22:15:53.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[05Jun2025 22:15:53.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[05Jun2025 22:15:53.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[05Jun2025 22:15:53.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[05Jun2025 22:15:53.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[05Jun2025 22:15:53.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[05Jun2025 22:15:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[05Jun2025 22:15:53.525] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[05Jun2025 22:15:53.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[05Jun2025 22:15:53.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[05Jun2025 22:15:53.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Jun2025 22:15:53.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[05Jun2025 22:16:37.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[05Jun2025 22:16:37.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[05Jun2025 22:16:37.564] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[05Jun2025 22:16:44.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Wingin' It]

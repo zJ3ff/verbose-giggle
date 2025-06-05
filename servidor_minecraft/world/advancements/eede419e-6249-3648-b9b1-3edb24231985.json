@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-06-05 22:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-05 20:14:10 +0000"
@@ -636,6 +642,18 @@
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-06-05 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-05 22:11:11 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -760,6 +778,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2025-06-05 22:11:42 +0000"
     },
     "done": true
   },
@@ -1321,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-05 22:12:42 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1339,6 +1369,7 @@
       "atmospheric:rainforest": "2025-06-05 16:40:41 +0000",
       "minecraft:sparse_jungle": "2025-06-05 16:42:41 +0000",
       "minecraft:river": "2025-06-05 16:38:05 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-05 22:05:20 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:43 +0000",
       "minecraft:forest": "2025-06-05 21:35:54 +0000",
       "minecraft:lush_caves": "2025-06-05 20:52:32 +0000",
@@ -1358,6 +1389,26 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-06-05 22:11:44 +0000",
+      "!bit14": "2025-06-05 22:11:44 +0000",
+      "!bit11": "2025-06-05 22:11:44 +0000",
+      "!bit12": "2025-06-05 22:11:44 +0000",
+      "!bit10": "2025-06-05 22:11:44 +0000",
+      "!bit9": "2025-06-05 22:11:44 +0000",
+      "!bit8": "2025-06-05 22:11:44 +0000",
+      "!bit7": "2025-06-05 22:11:44 +0000",
+      "!bit6": "2025-06-05 22:11:44 +0000",
+      "!bit5": "2025-06-05 22:11:44 +0000",
+      "!bit4": "2025-06-05 22:11:44 +0000",
+      "!bit3": "2025-06-05 22:11:44 +0000",
+      "!bit2": "2025-06-05 22:11:44 +0000",
+      "!bit1": "2025-06-05 22:11:44 +0000",
+      "!bit0": "2025-06-05 22:11:44 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -1494,6 +1545,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 22:12:42 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1578,6 +1635,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-05 22:10:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1593,6 +1656,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-06-05 22:12:42 +0000"
     },
     "done": true
   },
