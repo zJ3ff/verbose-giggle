@@ -4486,3 +4486,215 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [06Jun2025 03:57:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> pq no puedo cambiar el orden de mi inv
 [06Jun2025 03:58:56.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was blown up by Creeper
 [06Jun2025 03:59:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
+[06Jun2025 04:00:08.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Knight Quest]
+[06Jun2025 04:00:11.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Primal Catalyst]
+[06Jun2025 04:00:25.972] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Jun2025 04:00:25.972] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Jun2025 04:00:25.973] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:00:25.973] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Jun2025 04:00:49.975] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:00:49.975] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:00:49.975] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:01:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 has made the advancement [Shards of the Past]
+[06Jun2025 04:01:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [Underground Hides No Secrets]
+[06Jun2025 04:01:44.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=72, z=345} BlockPos{x=108, y=71, z=344}
+[06Jun2025 04:01:44.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=72, z=345} BlockPos{x=108, y=71, z=344}
+[06Jun2025 04:02:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Lore Writer]
+[06Jun2025 04:03:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Close Quarters]
+[06Jun2025 04:03:31.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> jaun
+[06Jun2025 04:03:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> que raza eres xd
+[06Jun2025 04:03:43.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Cover Me with Diamonds]
+[06Jun2025 04:03:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> idk
+[06Jun2025 04:03:47.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Shards of the Past]
+[06Jun2025 04:03:49.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [Worthy Equipment]
+[06Jun2025 04:03:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> usa el orbe
+[06Jun2025 04:03:53.229] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Jun2025 04:03:53.230] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:03:53.230] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:04:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> el orbe de origenes
+[06Jun2025 04:04:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> q orbe
+[06Jun2025 04:04:12.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> donde esta
+[06Jun2025 04:04:18.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> dale al 0
+[06Jun2025 04:04:31.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> te muestra algo
+[06Jun2025 04:04:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> se
+[06Jun2025 04:04:56.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Boo!]
+[06Jun2025 04:05:01.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> reclama todo del tutorial
+[06Jun2025 04:05:10.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Into Fire]
+[06Jun2025 04:05:45.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> dale a la izquierda la flecha
+[06Jun2025 04:05:55.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> dale el que esta abajo de tutorial
+[06Jun2025 04:05:58.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Cover Me with Diamonds]
+[06Jun2025 04:06:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Elemental Might]
+[06Jun2025 04:06:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> reclama lo que esta espada esa
+[06Jun2025 04:06:16.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> champions trial
+[06Jun2025 04:07:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> usalo
+[06Jun2025 04:07:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> y ponte ave
+[06Jun2025 04:07:18.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> el que dise ave
+[06Jun2025 04:07:24.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [The Secrets of Enchanting]
+[06Jun2025 04:07:42.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 was kicked for floating too long!
+[06Jun2025 04:07:42.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 lost connection: Flying is not enabled on this server
+[06Jun2025 04:07:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 left the game
+[06Jun2025 04:08:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has reached the goal [Extraterrestrial Substance]
+[06Jun2025 04:08:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Cover Me with Diamonds]
+[06Jun2025 04:09:00.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Diamonds!]
+[06Jun2025 04:09:22.775] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_green] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[06Jun2025 04:09:22.775] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_orange] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[06Jun2025 04:09:22.776] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_red] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[06Jun2025 04:09:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Extraterrestrial Substance]
+[06Jun2025 04:10:03.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[06Jun2025 04:10:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> tttt
+[06Jun2025 04:10:09.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 burned to death
+[06Jun2025 04:10:09.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 103.35835443452619, Y: 75.49520087700593, Z: 376.6569978701814
+[06Jun2025 04:10:15.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> JAJAJA
+[06Jun2025 04:10:16.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> JUAN
+[06Jun2025 04:10:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> USTED ES UN IMBECIL
+[06Jun2025 04:10:24.923] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player jua08 picking up: PermanentItemEntity['Soul Crystal'/49838, l='ServerLevel[world]', x=103.36, y=77.00, z=376.66]
+[06Jun2025 04:10:24.923] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/49838, l='ServerLevel[world]', x=103.36, y=77.00, z=376.66]
+[06Jun2025 04:10:25.754] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Jun2025 04:10:25.773] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Jun2025 04:10:25.822] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Jun2025 04:10:25.873] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Jun2025 04:10:25.925] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Jun2025 04:10:25.974] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Jun2025 04:10:26.019] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Jun2025 04:10:26.072] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Jun2025 04:10:26.121] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Jun2025 04:10:26.172] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Jun2025 04:10:26.221] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Jun2025 04:10:26.272] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Jun2025 04:10:27.869] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Jun2025 04:10:27.873] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Jun2025 04:10:27.884] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Jun2025 04:10:27.979] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ee3a6ea
+[06Jun2025 04:10:27.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaime_A1[/10.147.17.84:55273] logged in with entity id 50426 at (98.87572360182267, 82.32080194555037, 390.66161731398483)
+[06Jun2025 04:10:28.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jaime_A1
+[06Jun2025 04:10:28.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jaime_A1
+[06Jun2025 04:10:28.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jaime_A1
+[06Jun2025 04:10:28.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jaime_A1
+[06Jun2025 04:10:28.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jaime_A1
+[06Jun2025 04:10:28.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jaime_A1
+[06Jun2025 04:10:28.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jaime_A1
+[06Jun2025 04:10:28.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 joined the game
+[06Jun2025 04:10:28.101] [Server thread/INFO] [Jade/]: Syncing config to Jaime_A1 (d712a61a-3914-3e07-b7a6-1f6316bf560e)
+[06Jun2025 04:10:28.166] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Jaime_A1...
+[06Jun2025 04:10:28.166] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Jun2025 04:10:28.166] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Jun2025 04:10:28.167] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Jaime_A1
+[06Jun2025 04:10:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [The Secrets of Enchanting]
+[06Jun2025 04:10:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has reached the goal [Primal Catalyst]
+[06Jun2025 04:11:05.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 was kicked for floating too long!
+[06Jun2025 04:11:05.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 lost connection: Flying is not enabled on this server
+[06Jun2025 04:11:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 left the game
+[06Jun2025 04:11:20.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/32574, l='ServerLevel[world]', x=499.43, y=14.00, z=593.54] died: Klaudius Bloodglare was slain by zJ3ff
+[06Jun2025 04:11:24.918] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[06Jun2025 04:11:24.970] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[06Jun2025 04:11:25.022] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[06Jun2025 04:11:25.074] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[06Jun2025 04:11:25.124] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[06Jun2025 04:11:25.223] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[06Jun2025 04:11:25.255] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[06Jun2025 04:11:25.280] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[06Jun2025 04:11:25.323] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[06Jun2025 04:11:25.368] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[06Jun2025 04:11:25.418] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[06Jun2025 04:11:25.469] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[06Jun2025 04:11:25.689] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[06Jun2025 04:11:25.704] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[06Jun2025 04:11:25.711] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[06Jun2025 04:11:25.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33488c06
+[06Jun2025 04:11:25.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaime_A1[/10.147.17.84:55413] logged in with entity id 50752 at (98.87572360182267, 80.21124939881034, 390.66161731398483)
+[06Jun2025 04:11:25.815] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jaime_A1
+[06Jun2025 04:11:25.815] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jaime_A1
+[06Jun2025 04:11:25.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jaime_A1
+[06Jun2025 04:11:25.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jaime_A1
+[06Jun2025 04:11:25.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jaime_A1
+[06Jun2025 04:11:25.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jaime_A1
+[06Jun2025 04:11:25.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jaime_A1
+[06Jun2025 04:11:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 joined the game
+[06Jun2025 04:11:25.895] [Server thread/INFO] [Jade/]: Syncing config to Jaime_A1 (d712a61a-3914-3e07-b7a6-1f6316bf560e)
+[06Jun2025 04:11:25.951] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Jaime_A1...
+[06Jun2025 04:11:25.951] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[06Jun2025 04:11:25.952] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Jun2025 04:11:25.952] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Jaime_A1
+[06Jun2025 04:11:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 was chopped up by Marissa the Not Very Nice
+[06Jun2025 04:11:30.776] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 103.69999998807907, Y: 70.0, Z: 301.30000001192093
+[06Jun2025 04:11:34.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Jun2025 04:11:34.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Jun2025 04:11:34.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:11:34.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:11:49.080] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player jua08 picking up: PermanentItemEntity['Soul Crystal'/50868, l='ServerLevel[world]', x=103.70, y=71.50, z=301.30]
+[06Jun2025 04:11:49.080] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/50868, l='ServerLevel[world]', x=103.70, y=71.50, z=301.30]
+[06Jun2025 04:11:49.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 was chopped up by Marissa the Not Very Nice
+[06Jun2025 04:11:49.471] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 102.65828512658018, Y: 69.0, Z: 301.6564458377367
+[06Jun2025 04:11:55.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Jun2025 04:11:55.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:11:55.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[06Jun2025 04:11:55.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:11:55.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:12:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 was slain by Spider
+[06Jun2025 04:12:04.922] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 99.30000001192093, Y: 74.0, Z: 300.30000001192093
+[06Jun2025 04:12:15.633] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[06Jun2025 04:12:15.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:12:15.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:12:15.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:12:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 was slain by Spider
+[06Jun2025 04:12:15.673] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 98.54598874393946, Y: 74.0, Z: 303.2103544020839
+[06Jun2025 04:12:31.829] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player jua08 picking up: PermanentItemEntity['Soul Crystal'/51253, l='ServerLevel[world]', x=98.55, y=75.50, z=303.21]
+[06Jun2025 04:12:31.829] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/51253, l='ServerLevel[world]', x=98.55, y=75.50, z=303.21]
+[06Jun2025 04:12:33.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 was slain by Equestrian
+[06Jun2025 04:12:33.330] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 102.16927691926755, Y: 73.0, Z: 307.8166486847636
+[06Jun2025 04:12:44.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:12:44.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:12:44.112] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Jun2025 04:12:59.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> zombie mutante
+[06Jun2025 04:13:14.477] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[06Jun2025 04:13:14.477] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Jun2025 04:13:14.477] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:13:20.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> te pusiste ave juan+
+[06Jun2025 04:13:20.484] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player jua08 picking up: PermanentItemEntity['Soul Crystal'/51151, l='ServerLevel[world]', x=99.30, y=75.50, z=300.30]
+[06Jun2025 04:13:20.484] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/51151, l='ServerLevel[world]', x=99.30, y=75.50, z=300.30]
+[06Jun2025 04:13:21.747] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Jun2025 04:13:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 was slain by Spider
+[06Jun2025 04:13:22.637] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from jua08 at X: 102.94050740533395, Y: 73.0, Z: 303.04174079393425
+[06Jun2025 04:13:25.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Jun2025 04:13:25.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[06Jun2025 04:13:25.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:13:30.534] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player jua08 picking up: PermanentItemEntity['Soul Crystal'/52529, l='ServerLevel[world]', x=102.17, y=74.50, z=307.82]
+[06Jun2025 04:13:30.535] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/52529, l='ServerLevel[world]', x=102.17, y=74.50, z=307.82]
+[06Jun2025 04:13:33.828] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player jua08 picking up: PermanentItemEntity['Soul Crystal'/52457, l='ServerLevel[world]', x=102.94, y=74.50, z=303.04]
+[06Jun2025 04:13:33.828] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/52457, l='ServerLevel[world]', x=102.94, y=74.50, z=303.04]
+[06Jun2025 04:13:35.988] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Jun2025 04:13:35.988] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Jun2025 04:13:44.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[06Jun2025 04:13:47.217] [Worker-Main2/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Jun2025 04:13:49.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[06Jun2025 04:13:49.800] [Worker-Main1/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Jun2025 04:14:02.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jua08> me puse phantom xd
+[06Jun2025 04:14:03.217] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[06Jun2025 04:14:03.217] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[06Jun2025 04:14:08.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> es malo
+[06Jun2025 04:14:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> puedes volar aun que sea xD
+[06Jun2025 04:14:29.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has reached the goal [Underground Hides No Secrets]
+[06Jun2025 04:14:47.732] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[06Jun2025 04:14:47.733] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[06Jun2025 04:14:47.779] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[06Jun2025 04:14:47.780] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[06Jun2025 04:16:40.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jua08 lost connection: Disconnected
+[06Jun2025 04:16:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jua08 left the game
+[06Jun2025 04:16:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Mine? Mine? Mine?]
+[06Jun2025 04:16:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Battle Towers?]
+[06Jun2025 04:16:46.076] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[06Jun2025 04:16:46.076] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:16:46.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:16:46.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:17:04.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Battle Towers?]
+[06Jun2025 04:17:48.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[06Jun2025 04:18:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Spider
+[06Jun2025 04:18:51.629] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[06Jun2025 04:18:51.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:18:51.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[06Jun2025 04:18:57.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Boo!]
+[06Jun2025 04:19:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has reached the goal [Recycling]
+[06Jun2025 04:19:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> jeff que espada usa
+[06Jun2025 04:19:21.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[06Jun2025 04:19:21.078] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[06Jun2025 04:19:21.078] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
