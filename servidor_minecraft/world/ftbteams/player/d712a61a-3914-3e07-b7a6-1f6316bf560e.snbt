@@ -2,9 +2,7 @@
 	id: "d712a61a-3914-3e07-b7a6-1f6316bf560e"
 	type: "player"
 	player_name: "Jaime_A1"
-	ranks: {
-		d712a61a-3914-3e07-b7a6-1f6316bf560e: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Jaime_A1"
 		"ftbteams:description": ""

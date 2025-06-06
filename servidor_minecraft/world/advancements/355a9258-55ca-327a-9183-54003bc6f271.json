@@ -753,6 +753,12 @@
     },
     "done": true
   },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-06-06 03:35:13 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
