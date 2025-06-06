@@ -36,6 +36,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1749181015533L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TanatosGX\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1749181017952L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Jaime_A1\"}]}" }
 		{ from: "eede419e-6249-3648-b9b1-3edb24231985", date: 1749181318925L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"jua08\"}]}" }
+		{ from: "eede419e-6249-3648-b9b1-3edb24231985", date: 1749181514796L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"jua08\"}]}" }
 	]
 	extra: { }
 }

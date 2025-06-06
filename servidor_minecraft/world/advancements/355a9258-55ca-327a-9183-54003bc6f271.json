@@ -267,6 +267,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-06-06 03:49:45 +0000",
       "golden_carrot": "2025-06-06 03:26:16 +0000"
     },
     "done": false
@@ -322,6 +323,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-06-06 03:53:59 +0000"
     },
     "done": true
   },
@@ -632,6 +639,12 @@
       "blastfurnace": "2025-06-06 03:27:36 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-06-06 03:53:59 +0000"
+    },
+    "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -1114,6 +1127,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-06 03:53:07 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-06-06 03:10:24 +0000"
@@ -1170,7 +1189,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
-      "byg:forgotten_forest": "2025-06-06 03:10:25 +0000"
+      "byg:forgotten_forest": "2025-06-06 03:10:25 +0000",
+      "byg:baobab_savanna": "2025-06-06 03:50:03 +0000"
     },
     "done": false
   },
@@ -1183,6 +1203,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-06 03:53:50 +0000"
     },
     "done": true
   },
@@ -1211,6 +1237,8 @@
       "minecraft:sparse_jungle": "2025-06-06 03:19:36 +0000",
       "minecraft:river": "2025-06-06 03:15:00 +0000",
       "minecraft:stony_shore": "2025-06-06 03:32:04 +0000",
+      "minecraft:forest": "2025-06-06 03:53:00 +0000",
+      "minecraft:savanna": "2025-06-06 03:50:41 +0000",
       "minecraft:plains": "2025-06-06 03:33:03 +0000"
     },
     "done": false
@@ -1350,6 +1378,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 03:53:16 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1425,6 +1459,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-06-06 03:53:16 +0000"
     },
     "done": true
   },

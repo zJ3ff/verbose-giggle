@@ -85,9 +85,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-06-05 20:04:54 +0000"
+      "has_parent_recipe": "2025-06-05 20:04:54 +0000",
+      "has_items": "2025-06-06 03:46:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -261,6 +262,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 03:46:54 +0000"
     },
     "done": true
   },
@@ -502,6 +509,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 03:54:21 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-05 20:04:54 +0000"
@@ -647,6 +660,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2025-06-06 03:54:21 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_3": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -755,7 +774,8 @@
   },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
-      "spellstone4": "2025-06-05 20:44:08 +0000"
+      "spellstone4": "2025-06-05 20:44:08 +0000",
+      "spellstone5": "2025-06-06 03:54:21 +0000"
     },
     "done": false
   },
@@ -768,6 +788,12 @@
   "majruszsaccessories:tamed_potato_beetle": {
     "criteria": {
       "picked_up_accessory": "2025-06-05 20:28:00 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "generic_revelation": "2025-06-06 03:52:07 +0000"
     },
     "done": true
   },
@@ -810,6 +836,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-06-05 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-06 03:46:54 +0000"
     },
     "done": true
   },
@@ -928,6 +960,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/lost_engine": {
+    "criteria": {
+      "has_items": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -962,9 +1000,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:37:08 +0000"
+      "has_parent_recipe": "2025-06-06 03:37:08 +0000",
+      "has_items": "2025-06-06 03:54:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -1171,6 +1210,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-06 03:46:54 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1207,6 +1252,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-06-06 03:47:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1228,6 +1279,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2025-06-06 03:54:21 +0000"
     },
     "done": true
   },
@@ -1347,6 +1404,7 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
+      "has_item_5": "2025-06-06 03:54:21 +0000",
       "has_item_4": "2025-06-05 20:44:08 +0000"
     },
     "done": false
@@ -1453,6 +1511,7 @@
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:12 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:42 +0000",
       "minecraft:forest": "2025-06-05 21:35:59 +0000",
+      "minecraft:savanna": "2025-06-06 03:45:38 +0000",
       "minecraft:plains": "2025-06-05 20:14:33 +0000"
     },
     "done": false
@@ -1652,6 +1711,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-06-06 03:49:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1817,6 +1882,12 @@
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 03:54:21 +0000"
     },
     "done": true
   },
