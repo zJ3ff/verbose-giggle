@@ -303,7 +303,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-06 03:24:30 +0000"
+      "bread": "2025-06-06 03:24:30 +0000",
+      "golden_apple": "2025-06-06 04:20:53 +0000"
     },
     "done": false
   },
@@ -366,6 +367,12 @@
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pillager_camp": "2025-06-06 04:16:47 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -620,6 +627,7 @@
       "minecraft:spider": "2025-06-06 03:54:37 +0000",
       "minecraft:witch": "2025-06-06 03:52:36 +0000",
       "minecraft:enderman": "2025-06-06 03:59:47 +0000",
+      "minecraft:vex": "2025-06-06 04:17:25 +0000",
       "minecraft:zombie": "2025-06-06 03:54:50 +0000"
     },
     "done": false
@@ -857,6 +865,12 @@
       "has_parent_recipe": "2025-06-06 03:35:48 +0000"
     },
     "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pillager_camp": "2025-06-06 04:16:47 +0000"
+    },
+    "done": true
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -1099,6 +1113,12 @@
     },
     "done": true
   },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-06-06 04:18:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1272,6 +1292,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-06 04:16:44 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 03:10:43 +0000"
@@ -1342,6 +1368,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-06-06 04:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-06 03:22:01 +0000",
@@ -1353,6 +1385,8 @@
       "minecraft:lukewarm_ocean": "2025-06-06 03:31:31 +0000",
       "minecraft:stony_shore": "2025-06-06 03:31:30 +0000",
       "minecraft:forest": "2025-06-06 03:41:18 +0000",
+      "minecraft:ocean": "2025-06-06 04:20:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-06 04:16:40 +0000",
       "minecraft:meadow": "2025-06-06 04:14:41 +0000",
       "minecraft:savanna": "2025-06-06 03:41:10 +0000",
       "minecraft:plains": "2025-06-06 03:37:51 +0000"
@@ -1395,10 +1429,22 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-06-06 04:17:04 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-06-06 03:10:42 +0000",
       "inv_changed-diamond": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-06 04:24:25 +0000"
     },
     "done": true
   },
@@ -1413,6 +1459,12 @@
       "in_ruins_land_warm": "2025-06-06 03:37:55 +0000"
     },
     "done": false
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-06 04:19:10 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_purple_from_white": {
     "criteria": {
@@ -1448,6 +1500,12 @@
     "criteria": {
       "has_recipe": "2025-06-06 03:10:42 +0000",
       "has_compass": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-06 04:24:14 +0000"
     },
     "done": true
   },
