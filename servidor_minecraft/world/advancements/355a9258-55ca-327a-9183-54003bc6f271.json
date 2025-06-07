@@ -211,6 +211,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-06-07 23:52:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -599,7 +605,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-06 03:25:56 +0000",
-      "opened_chest": "2025-06-06 03:15:11 +0000"
+      "opened_chest": "2025-06-06 03:15:11 +0000",
+      "opened_cart": "2025-06-07 23:52:53 +0000"
     },
     "done": false
   },
@@ -649,6 +656,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-06 04:03:46 +0000",
       "minecraft:spider": "2025-06-06 04:13:00 +0000",
+      "quark:forgotten": "2025-06-07 23:53:40 +0000",
       "minecraft:cave_spider": "2025-06-06 04:04:40 +0000",
       "minecraft:silverfish": "2025-06-06 03:31:20 +0000",
       "minecraft:zombie": "2025-06-06 03:55:25 +0000"
@@ -660,6 +668,12 @@
       "log_spam_fixer": "2025-06-06 03:10:25 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-07 23:53:04 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -1131,6 +1145,12 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-07 23:54:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1373,6 +1393,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-06-07 23:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-06 03:16:22 +0000",
@@ -1557,6 +1583,12 @@
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:53:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-06-07 23:52:55 +0000"
     },
     "done": true
   },
