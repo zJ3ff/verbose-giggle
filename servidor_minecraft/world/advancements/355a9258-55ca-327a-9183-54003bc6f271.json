@@ -382,9 +382,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-06-08 00:09:09 +0000",
       "log_spam_fixer": "2025-06-06 03:10:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -1637,6 +1638,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-08 00:10:45 +0000"
     },
     "done": true
   },
