@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone1": "2025-06-08 00:00:49 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1477,6 +1483,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2025-06-08 00:00:49 +0000"
+    },
+    "done": false
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-05 16:36:54 +0000"
@@ -1614,7 +1626,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-07 23:54:04 +0000"
+      "!bit13": "2025-06-08 00:01:09 +0000",
+      "!bit14": "2025-06-08 00:01:09 +0000",
+      "!bit11": "2025-06-08 00:01:09 +0000",
+      "!bit12": "2025-06-08 00:01:09 +0000",
+      "!bit10": "2025-06-08 00:01:09 +0000",
+      "!bit9": "2025-06-08 00:01:09 +0000",
+      "!bit8": "2025-06-08 00:01:09 +0000",
+      "!bit7": "2025-06-08 00:01:09 +0000",
+      "!bit6": "2025-06-08 00:01:09 +0000",
+      "!bit5": "2025-06-08 00:01:09 +0000",
+      "!bit4": "2025-06-08 00:01:09 +0000",
+      "!bit3": "2025-06-08 00:01:09 +0000",
+      "!bit2": "2025-06-08 00:01:09 +0000",
+      "!bit1": "2025-06-08 00:01:09 +0000",
+      "!bit0": "2025-06-08 00:01:09 +0000"
     },
     "done": false
   },
@@ -1924,6 +1950,12 @@
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-06-08 00:00:49 +0000"
     },
     "done": true
   },

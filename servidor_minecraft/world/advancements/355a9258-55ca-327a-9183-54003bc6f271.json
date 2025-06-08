@@ -404,6 +404,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/revival_leaf": {
+    "criteria": {
+      "has_items": "2025-06-08 00:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-06-06 03:55:27 +0000"
@@ -1029,6 +1035,12 @@
       "has_items": "2025-06-06 04:08:38 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "orange": "2025-06-07 23:56:24 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {

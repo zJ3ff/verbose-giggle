@@ -470,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-07 23:57:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:21:01 +0000"
@@ -992,6 +998,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-08 00:00:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1336,6 +1348,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:allium_fields": "2025-06-07 23:55:34 +0000",
+      "byg:temperate_grove": "2025-06-07 23:55:40 +0000",
       "byg:fragment_forest": "2025-06-06 03:37:00 +0000",
       "byg:crag_gardens": "2025-06-06 03:28:32 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:43 +0000",
@@ -1386,6 +1400,7 @@
       "atmospheric:rainforest": "2025-06-06 03:20:38 +0000",
       "minecraft:bamboo_jungle": "2025-06-06 03:35:32 +0000",
       "minecraft:savanna_plateau": "2025-06-06 04:13:31 +0000",
+      "minecraft:stony_peaks": "2025-06-07 23:56:24 +0000",
       "minecraft:sparse_jungle": "2025-06-06 03:21:25 +0000",
       "minecraft:river": "2025-06-06 03:20:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-06 03:31:31 +0000",
