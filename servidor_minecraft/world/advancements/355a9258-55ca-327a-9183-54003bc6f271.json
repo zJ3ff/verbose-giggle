@@ -198,6 +198,12 @@
     },
     "done": true
   },
+  "unusualend:we_have_a_problem": {
+    "criteria": {
+      "we_have_a_problem": "2025-06-09 03:22:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -208,6 +214,12 @@
     "criteria": {
       "has_recipe": "2025-06-06 03:10:24 +0000",
       "has_cobweb": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2025-06-08 00:44:26 +0000"
     },
     "done": true
   },
@@ -240,6 +252,12 @@
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-08 00:46:48 +0000"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
@@ -274,6 +292,12 @@
   "vinery:red_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2025-06-08 00:34:51 +0000"
     },
     "done": true
   },
@@ -388,7 +412,11 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_hay_storage": "2025-06-06 04:13:18 +0000"
+      "entered_stables": "2025-06-08 00:45:34 +0000",
+      "entered_pillager_camp": "2025-06-08 00:51:53 +0000",
+      "entered_hay_storage": "2025-06-06 04:13:18 +0000",
+      "entered_flying_dutchman": "2025-06-08 00:44:26 +0000",
+      "entered_ruined_building": "2025-06-08 00:29:46 +0000"
     },
     "done": false
   },
@@ -612,6 +640,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-06-09 03:21:03 +0000"
     },
     "done": true
   },
@@ -875,6 +909,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-08 00:50:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -884,6 +924,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-06-06 03:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-08 00:46:48 +0000"
     },
     "done": true
   },
@@ -1338,6 +1384,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-08 00:33:04 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1461,8 +1513,15 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-06-06 04:14:38 +0000",
+      "byg:rainbow_beach": "2025-06-08 00:53:42 +0000",
+      "byg:red_oak_forest": "2025-06-08 00:53:11 +0000",
+      "byg:redwood_thicket": "2025-06-08 00:57:58 +0000",
+      "byg:white_mangrove_marshes": "2025-06-08 00:57:02 +0000",
+      "byg:firecracker_shrubland": "2025-06-08 00:45:33 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:25 +0000",
-      "byg:baobab_savanna": "2025-06-06 03:50:03 +0000"
+      "byg:baobab_savanna": "2025-06-06 03:50:03 +0000",
+      "byg:amaranth_fields": "2025-06-08 00:57:21 +0000",
+      "byg:dacite_shore": "2025-06-08 00:35:48 +0000"
     },
     "done": false
   },
@@ -1523,14 +1582,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-06 03:16:22 +0000",
+      "minecraft:deep_ocean": "2025-06-08 00:42:27 +0000",
       "atmospheric:rainforest": "2025-06-06 03:15:42 +0000",
+      "minecraft:bamboo_jungle": "2025-06-08 00:39:04 +0000",
       "minecraft:savanna_plateau": "2025-06-06 04:10:34 +0000",
       "minecraft:sparse_jungle": "2025-06-06 03:19:36 +0000",
       "minecraft:lukewarm_ocean": "2025-06-06 04:19:21 +0000",
       "minecraft:river": "2025-06-06 03:15:00 +0000",
       "minecraft:stony_shore": "2025-06-06 03:32:04 +0000",
+      "minecraft:dripstone_caves": "2025-06-09 03:19:32 +0000",
       "minecraft:forest": "2025-06-06 03:53:00 +0000",
       "minecraft:ocean": "2025-06-06 04:21:00 +0000",
+      "minecraft:jungle": "2025-06-08 00:38:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-08 00:43:50 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-08 00:41:36 +0000",
       "minecraft:savanna": "2025-06-06 03:50:41 +0000",
       "minecraft:plains": "2025-06-06 03:33:03 +0000"
     },
@@ -1551,6 +1616,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-06-08 00:31:37 +0000"
     },
     "done": true
   },
@@ -1797,6 +1868,12 @@
     },
     "done": true
   },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-06-08 00:58:18 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2025-06-06 03:30:18 +0000"
@@ -1836,6 +1913,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-08 00:41:46 +0000"
     },
     "done": true
   },

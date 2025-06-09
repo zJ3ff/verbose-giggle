@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2025-06-08 00:42:00 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 03:10:42 +0000"
@@ -238,6 +244,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-06-06 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-08 00:41:37 +0000"
     },
     "done": true
   },
@@ -370,7 +382,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_pillager_camp": "2025-06-06 04:16:47 +0000"
+      "entered_pillager_camp": "2025-06-06 04:16:47 +0000",
+      "entered_flying_dutchman": "2025-06-08 00:42:00 +0000",
+      "entered_druid_circle": "2025-06-08 00:57:18 +0000"
     },
     "done": false
   },
@@ -758,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-08 00:40:48 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -826,9 +846,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:35:48 +0000"
+      "has_parent_recipe": "2025-06-06 03:35:48 +0000",
+      "has_items": "2025-06-08 00:42:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -1179,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-08 00:53:50 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1304,6 +1331,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-08 00:42:16 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-06-06 03:35:48 +0000"
@@ -1349,12 +1382,20 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-06-07 23:55:34 +0000",
+      "byg:rainbow_beach": "2025-06-08 00:50:58 +0000",
       "byg:temperate_grove": "2025-06-07 23:55:40 +0000",
+      "byg:orchard": "2025-06-08 00:34:17 +0000",
+      "byg:red_oak_forest": "2025-06-08 00:36:04 +0000",
       "byg:fragment_forest": "2025-06-06 03:37:00 +0000",
+      "byg:firecracker_shrubland": "2025-06-08 00:46:07 +0000",
+      "byg:araucaria_savanna": "2025-06-08 00:46:58 +0000",
       "byg:crag_gardens": "2025-06-06 03:28:32 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:43 +0000",
       "byg:baobab_savanna": "2025-06-06 03:41:33 +0000",
-      "byg:ebony_woods": "2025-06-06 03:30:25 +0000"
+      "byg:amaranth_fields": "2025-06-08 00:47:05 +0000",
+      "byg:ebony_woods": "2025-06-06 03:30:25 +0000",
+      "byg:basalt_barrera": "2025-06-08 00:59:18 +0000",
+      "byg:lush_stacks": "2025-06-08 00:37:34 +0000"
     },
     "done": false
   },
@@ -1396,18 +1437,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-08 00:55:57 +0000",
       "atmospheric:rainforest_basin": "2025-06-06 03:22:01 +0000",
+      "minecraft:deep_ocean": "2025-06-08 00:39:20 +0000",
       "atmospheric:rainforest": "2025-06-06 03:20:38 +0000",
       "minecraft:bamboo_jungle": "2025-06-06 03:35:32 +0000",
       "minecraft:savanna_plateau": "2025-06-06 04:13:31 +0000",
+      "minecraft:beach": "2025-06-08 00:50:51 +0000",
+      "minecraft:dark_forest": "2025-06-08 00:36:44 +0000",
       "minecraft:stony_peaks": "2025-06-07 23:56:24 +0000",
       "minecraft:sparse_jungle": "2025-06-06 03:21:25 +0000",
       "minecraft:river": "2025-06-06 03:20:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-06 03:31:31 +0000",
       "minecraft:stony_shore": "2025-06-06 03:31:30 +0000",
+      "atmospheric:aspen_parkland": "2025-06-08 00:31:34 +0000",
       "minecraft:forest": "2025-06-06 03:41:18 +0000",
       "minecraft:ocean": "2025-06-06 04:20:46 +0000",
+      "minecraft:jungle": "2025-06-08 00:37:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-08 00:38:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-06 04:16:40 +0000",
+      "atmospheric:laurel_forest": "2025-06-08 00:30:27 +0000",
       "minecraft:meadow": "2025-06-06 04:14:41 +0000",
       "minecraft:savanna": "2025-06-06 03:41:10 +0000",
       "minecraft:plains": "2025-06-06 03:37:51 +0000"
@@ -1684,6 +1733,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-08 00:42:31 +0000"
     },
     "done": true
   },

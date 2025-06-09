@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-09 03:34:05 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -393,6 +399,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-09 03:34:05 +0000"
     },
     "done": true
   },
@@ -570,6 +582,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-06-09 03:30:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
@@ -651,6 +669,12 @@
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-06-09 03:33:28 +0000"
     },
     "done": true
   },
@@ -840,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-09 03:33:28 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -950,6 +980,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:fragment_forest": "2025-06-09 03:30:56 +0000",
       "byg:forgotten_forest": "2025-06-06 04:23:29 +0000"
     },
     "done": false
@@ -977,6 +1008,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "atmospheric:rainforest": "2025-06-09 03:33:07 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1090,9 +1127,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-09 03:29:58 +0000",
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
@@ -1181,6 +1219,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-06-09 03:34:05 +0000"
     },
     "done": true
   },
