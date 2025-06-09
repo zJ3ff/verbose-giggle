@@ -1511,6 +1511,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-06-09 04:06:28 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1635,6 +1641,7 @@
     "criteria": {
       "byg:allium_fields": "2025-06-08 00:39:11 +0000",
       "byg:red_oak_forest": "2025-06-05 20:42:12 +0000",
+      "byg:redwood_thicket": "2025-06-09 03:50:42 +0000",
       "byg:fragment_forest": "2025-06-05 20:52:20 +0000",
       "byg:crag_gardens": "2025-06-05 20:43:36 +0000",
       "byg:forgotten_forest": "2025-06-05 16:36:55 +0000",
@@ -1715,6 +1722,7 @@
       "minecraft:river": "2025-06-05 16:38:05 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:20 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:43 +0000",
+      "minecraft:dripstone_caves": "2025-06-09 03:47:46 +0000",
       "minecraft:forest": "2025-06-05 21:35:54 +0000",
       "minecraft:lush_caves": "2025-06-05 20:52:32 +0000",
       "minecraft:ocean": "2025-06-09 03:15:15 +0000",
@@ -1740,7 +1748,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-09 03:34:01 +0000"
+      "not_target": "2025-06-09 04:07:40 +0000"
     },
     "done": false
   },
@@ -2158,6 +2166,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-06-05 20:14:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-09 04:00:40 +0000"
     },
     "done": true
   },

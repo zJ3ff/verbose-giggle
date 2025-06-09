@@ -386,6 +386,12 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-09 03:42:43 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -407,6 +413,12 @@
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2025-06-06 03:53:59 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-06-09 03:53:58 +0000"
     },
     "done": true
   },
@@ -746,6 +758,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-06-09 03:54:10 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-06-07 23:53:04 +0000"
@@ -1029,6 +1047,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-06-09 03:52:35 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1143,6 +1167,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-09 03:53:34 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-06 03:10:24 +0000"
@@ -1225,6 +1255,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-06-09 03:51:39 +0000"
     },
     "done": true
   },
@@ -1312,6 +1348,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-06-09 03:49:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1365,6 +1407,12 @@
       "has_parent_recipe": "2025-06-08 00:20:45 +0000"
     },
     "done": false
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-06-09 03:54:45 +0000"
+    },
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
@@ -1516,11 +1564,14 @@
       "byg:rainbow_beach": "2025-06-08 00:53:42 +0000",
       "byg:red_oak_forest": "2025-06-08 00:53:11 +0000",
       "byg:redwood_thicket": "2025-06-08 00:57:58 +0000",
+      "byg:fragment_forest": "2025-06-09 03:44:10 +0000",
       "byg:white_mangrove_marshes": "2025-06-08 00:57:02 +0000",
       "byg:firecracker_shrubland": "2025-06-08 00:45:33 +0000",
+      "byg:crag_gardens": "2025-06-09 03:44:02 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:25 +0000",
       "byg:baobab_savanna": "2025-06-06 03:50:03 +0000",
       "byg:amaranth_fields": "2025-06-08 00:57:21 +0000",
+      "byg:ebony_woods": "2025-06-09 03:46:32 +0000",
       "byg:dacite_shore": "2025-06-08 00:35:48 +0000"
     },
     "done": false
@@ -1546,6 +1597,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-06 03:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-09 03:54:10 +0000"
     },
     "done": true
   },
@@ -1592,6 +1649,7 @@
       "minecraft:stony_shore": "2025-06-06 03:32:04 +0000",
       "minecraft:dripstone_caves": "2025-06-09 03:19:32 +0000",
       "minecraft:forest": "2025-06-06 03:53:00 +0000",
+      "minecraft:lush_caves": "2025-06-09 03:42:45 +0000",
       "minecraft:ocean": "2025-06-06 04:21:00 +0000",
       "minecraft:jungle": "2025-06-08 00:38:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 00:43:50 +0000",
@@ -1874,6 +1932,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-06-09 03:52:35 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2025-06-06 03:30:18 +0000"
@@ -1907,6 +1971,12 @@
   "enigmaticlegacy:book/brewing/advanced_brewing": {
     "criteria": {
       "has_items": "2025-06-08 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2025-06-09 03:53:58 +0000"
     },
     "done": true
   },
@@ -1973,6 +2043,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-06-06 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortress_jungle": {
+    "criteria": {
+      "in_jungle_fortress": "2025-06-09 03:42:20 +0000"
     },
     "done": true
   },
