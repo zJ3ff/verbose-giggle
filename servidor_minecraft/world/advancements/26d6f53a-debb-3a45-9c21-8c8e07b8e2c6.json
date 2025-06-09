@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-09 04:25:16 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -337,6 +343,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-09 04:17:51 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
@@ -352,6 +364,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-09 04:26:29 +0000"
     },
     "done": true
   },
@@ -379,6 +397,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-09 04:26:29 +0000"
+    },
+    "done": false
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-06-06 04:23:29 +0000"
@@ -396,6 +420,12 @@
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-09 04:13:54 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
@@ -501,6 +531,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-06-09 04:26:05 +0000",
       "opened_chest": "2025-06-09 03:41:59 +0000"
     },
     "done": false
@@ -550,9 +581,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-09 03:55:19 +0000",
+      "minecraft:spider": "2025-06-09 04:11:37 +0000",
+      "minecraft:husk": "2025-06-09 04:13:35 +0000",
       "minecraft:zombie": "2025-06-09 03:54:26 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-09 04:25:16 +0000"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -692,6 +731,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-09 04:26:05 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-06-09 03:30:35 +0000"
@@ -752,6 +797,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2025-06-09 04:17:51 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -773,6 +824,12 @@
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-06-09 04:25:16 +0000"
     },
     "done": true
   },
@@ -836,6 +893,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-09 04:13:54 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-06 04:23:29 +0000"
@@ -868,9 +931,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-06-09 03:59:14 +0000"
+      "has_parent_recipe": "2025-06-09 03:59:14 +0000",
+      "has_items": "2025-06-09 04:26:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -1076,6 +1140,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-09 04:30:20 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-06-06 04:23:29 +0000"
@@ -1135,6 +1205,7 @@
       "byg:fragment_forest": "2025-06-09 03:30:56 +0000",
       "byg:crag_gardens": "2025-06-09 03:43:08 +0000",
       "byg:forgotten_forest": "2025-06-06 04:23:29 +0000",
+      "byg:baobab_savanna": "2025-06-09 04:16:41 +0000",
       "byg:ebony_woods": "2025-06-09 03:44:35 +0000"
     },
     "done": false
@@ -1180,9 +1251,11 @@
       "atmospheric:rainforest_basin": "2025-06-09 04:01:32 +0000",
       "atmospheric:rainforest": "2025-06-09 03:33:07 +0000",
       "minecraft:sparse_jungle": "2025-06-09 03:47:43 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-09 04:25:39 +0000",
       "minecraft:river": "2025-06-09 03:47:41 +0000",
       "minecraft:stony_shore": "2025-06-09 03:48:39 +0000",
       "minecraft:lush_caves": "2025-06-09 03:41:13 +0000",
+      "minecraft:savanna": "2025-06-09 04:17:52 +0000",
       "minecraft:plains": "2025-06-09 03:48:09 +0000"
     },
     "done": false
@@ -1227,6 +1300,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-09 04:31:18 +0000"
     },
     "done": true
   },
@@ -1316,6 +1395,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-06-09 04:30:54 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1376,6 +1461,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-06-09 04:25:17 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1415,6 +1506,12 @@
   "repurposed_structures:fortress_jungle": {
     "criteria": {
       "in_jungle_fortress": "2025-06-09 03:41:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-09 04:25:16 +0000"
     },
     "done": true
   },
