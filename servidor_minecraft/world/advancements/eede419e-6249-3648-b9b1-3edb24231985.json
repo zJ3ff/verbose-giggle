@@ -1676,6 +1676,7 @@
       "byg:red_oak_forest": "2025-06-05 20:42:12 +0000",
       "byg:redwood_thicket": "2025-06-09 03:50:42 +0000",
       "byg:fragment_forest": "2025-06-05 20:52:20 +0000",
+      "byg:firecracker_shrubland": "2025-06-10 23:30:29 +0000",
       "byg:crag_gardens": "2025-06-05 20:43:36 +0000",
       "byg:forgotten_forest": "2025-06-05 16:36:55 +0000",
       "byg:baobab_savanna": "2025-06-05 21:24:03 +0000",
@@ -1785,12 +1786,6 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-10 23:21:02 +0000"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -1911,6 +1906,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-06-05 16:36:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:lucky_rock": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-10 23:26:51 +0000"
     },
     "done": true
   },
