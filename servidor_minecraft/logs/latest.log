@@ -3939,3 +3939,4 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [10Jun2025 23:43:50.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [10Jun2025 23:46:20.118] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
 [10Jun2025 23:46:58.648] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7155761c[id=<null>,name=art,properties={},legacy=false] (/10.147.17.72:59980) lost connection: Disconnected
+[10Jun2025 23:53:34.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
