@@ -4177,3 +4177,63 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [10Jun2025 03:58:53.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ender chest scroll
 [10Jun2025 03:59:02.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tp a donde tana?
 [10Jun2025 03:59:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> hagan tp, ya estoy fuera
+[10Jun2025 03:59:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a
+[10Jun2025 03:59:20.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juan apenas esta dentro XD
+[10Jun2025 03:59:37.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> estoy cheeseando las armaduras esas
+[10Jun2025 03:59:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> yo mientras hago mi casa en algun lado :v
+[10Jun2025 04:00:03.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[10Jun2025 04:00:03.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[10Jun2025 04:00:03.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[10Jun2025 04:00:03.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[10Jun2025 04:00:14.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[10Jun2025 04:00:14.467] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[10Jun2025 04:00:14.467] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[10Jun2025 04:00:14.605] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=107, z=-140}
+[10Jun2025 04:00:14.607] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=107, z=-140}
+[10Jun2025 04:00:14.608] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=117, z=-140}
+[10Jun2025 04:00:14.609] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-332, y=117, z=-142}
+[10Jun2025 04:00:18.249] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[10Jun2025 04:00:18.250] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[10Jun2025 04:00:18.253] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[10Jun2025 04:00:25.871] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[10Jun2025 04:00:25.872] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Jun2025 04:00:28.315] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[10Jun2025 04:00:33.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1915, y=67, z=2213} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[10Jun2025 04:00:33.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=1915, y=67, z=2213}
+[10Jun2025 04:00:33.580] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[10Jun2025 04:00:33.580] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[10Jun2025 04:00:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana te gustan las montañas?
+[10Jun2025 04:00:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> asi estilo medio llanura
+[10Jun2025 04:01:01.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> SI
+[10Jun2025 04:01:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> si*
+[10Jun2025 04:01:05.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> aca hay varias por si quieres
+[10Jun2025 04:01:10.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> t hago tp y miras?
+[10Jun2025 04:01:12.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> va
+[10Jun2025 04:01:18.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported TanatosGX to zJ3ff]
+[10Jun2025 04:01:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> lo hago aca y hacemos un lobby con puente al medio
+[10Jun2025 04:01:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> y ponemos un way coso
+[10Jun2025 04:02:02.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> si
+[10Jun2025 04:02:03.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana meto los mods estos de seguridad ya?
+[10Jun2025 04:02:23.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> y el de los martillos
+[10Jun2025 04:02:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> para recolectar recursos mas rapido
+[10Jun2025 04:02:32.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> va
+[10Jun2025 04:02:36.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> bueno
+[10Jun2025 04:02:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> juan
+[10Jun2025 04:02:37.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> mande las versiones
+[10Jun2025 04:02:40.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> pongase en un lugar seguro
+[10Jun2025 04:02:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que voy a cerrar y abrir el server
+[10Jun2025 04:02:48.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> en un segundo
+[10Jun2025 04:03:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Close Quarters]
+[10Jun2025 04:03:49.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que origen es el suyo jeff
+[10Jun2025 04:04:34.496] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[10Jun2025 04:04:34.496] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[10Jun2025 04:04:34.496] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[10Jun2025 04:04:34.496] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[10Jun2025 04:05:06.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> yo soy
+[10Jun2025 04:05:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> phoenix coso
+[10Jun2025 04:05:13.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> :v
+[10Jun2025 04:08:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [You're too Slow!]
+[10Jun2025 04:08:34.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[10Jun2025 04:08:34.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[10Jun2025 04:08:39.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TanatosGX lost connection: Disconnected
+[10Jun2025 04:08:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX left the game
