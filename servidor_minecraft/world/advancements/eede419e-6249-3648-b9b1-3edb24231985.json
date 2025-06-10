@@ -1755,6 +1755,7 @@
       "atmospheric:rainforest_basin": "2025-06-05 16:43:12 +0000",
       "minecraft:deep_ocean": "2025-06-09 03:22:30 +0000",
       "atmospheric:rainforest": "2025-06-05 16:40:41 +0000",
+      "minecraft:bamboo_jungle": "2025-06-10 23:21:18 +0000",
       "minecraft:savanna_plateau": "2025-06-06 04:16:57 +0000",
       "minecraft:dark_forest": "2025-06-09 03:20:17 +0000",
       "minecraft:sparse_jungle": "2025-06-05 16:42:41 +0000",
@@ -1784,6 +1785,12 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-10 23:21:02 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
