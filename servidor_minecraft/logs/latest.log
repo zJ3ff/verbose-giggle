@@ -3928,3 +3928,152 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [10Jun2025 03:28:03.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has reached the goal [Underground Hides No Secrets]
 [10Jun2025 03:28:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Getting an Upgrade]
 [10Jun2025 03:28:10.803] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60f78c39[id=<null>,name=zJ3ff,properties={},legacy=false] (/10.147.17.225:60015) lost connection: Disconnected
+[10Jun2025 03:28:29.418] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[10Jun2025 03:28:29.474] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[10Jun2025 03:28:29.531] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[10Jun2025 03:28:29.577] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[10Jun2025 03:28:29.624] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[10Jun2025 03:28:29.681] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[10Jun2025 03:28:29.736] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[10Jun2025 03:28:29.788] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[10Jun2025 03:28:29.826] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[10Jun2025 03:28:29.875] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[10Jun2025 03:28:29.925] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[10Jun2025 03:28:29.977] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[10Jun2025 03:28:30.582] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[10Jun2025 03:28:30.583] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[10Jun2025 03:28:30.654] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[10Jun2025 03:28:30.755] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@191b09ec
+[10Jun2025 03:28:30.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:60030] logged in with entity id 8637 at (777.6823877700739, 26.0, 1789.7927365429177)
+[10Jun2025 03:28:30.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[10Jun2025 03:28:30.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[10Jun2025 03:28:30.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[10Jun2025 03:28:30.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[10Jun2025 03:28:30.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[10Jun2025 03:28:30.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[10Jun2025 03:28:30.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[10Jun2025 03:28:30.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[10Jun2025 03:28:30.998] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[10Jun2025 03:28:31.092] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[10Jun2025 03:28:31.092] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[10Jun2025 03:28:31.093] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Jun2025 03:28:31.093] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[10Jun2025 03:28:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Zombie
+[10Jun2025 03:28:59.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> e
+[10Jun2025 03:29:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to TanatosGX]
+[10Jun2025 03:29:04.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Elemental Might]
+[10Jun2025 03:29:09.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> puta madre
+[10Jun2025 03:29:18.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> te hago tp juan?
+[10Jun2025 03:29:21.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> si
+[10Jun2025 03:29:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> juanj
+[10Jun2025 03:29:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported art to zJ3ff]
+[10Jun2025 03:29:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> no hagamos bobadas
+[10Jun2025 03:29:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> dale
+[10Jun2025 03:29:45.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ya explorado
+[10Jun2025 03:29:49.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> vamos a bajo jeff?
+[10Jun2025 03:29:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> espera
+[10Jun2025 03:30:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> hay unos que no abria aca
+[10Jun2025 03:30:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> alguien me da bloqueas_
+[10Jun2025 03:30:13.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> ?
+[10Jun2025 03:30:15.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bloques
+[10Jun2025 03:30:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Magnificence]
+[10Jun2025 03:30:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Cover Me with Diamonds]
+[10Jun2025 03:30:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Vampire
+[10Jun2025 03:30:49.134] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[10Jun2025 03:30:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bruh
+[10Jun2025 03:31:29.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported art to zJ3ff]
+[10Jun2025 03:32:02.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> no puedo equipar esto
+[10Jun2025 03:32:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pq
+[10Jun2025 03:32:20.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> nose
+[10Jun2025 03:32:32.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> vamos al 5to nivel
+[10Jun2025 03:32:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> yo te sigo tana
+[10Jun2025 03:32:36.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> eso si
+[10Jun2025 03:32:40.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ojo me stunea con esa monda
+[10Jun2025 03:32:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[10Jun2025 03:33:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> bruh
+[10Jun2025 03:33:04.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> algo me tpea
+[10Jun2025 03:33:08.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Vampire Slayer]
+[10Jun2025 03:33:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Vampire Slayer]
+[10Jun2025 03:33:16.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Engineer Gaming]
+[10Jun2025 03:33:24.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[10Jun2025 03:33:56.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> bajemos
+[10Jun2025 03:34:16.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has made the advancement [Lore Writer]
+[10Jun2025 03:34:20.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> BRUh
+[10Jun2025 03:34:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Magnificence]
+[10Jun2025 03:34:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> q´ paso
+[10Jun2025 03:34:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> bro algo me tpea
+[10Jun2025 03:35:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has made the advancement [Vampire Slayer]
+[10Jun2025 03:36:26.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Lore Writer]
+[10Jun2025 03:36:31.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> aca estaban las escalas
+[10Jun2025 03:36:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> xd
+[10Jun2025 03:37:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> tana
+[10Jun2025 03:37:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> aqui hay partes del 4to sin explorar
+[10Jun2025 03:37:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> a
+[10Jun2025 03:37:51.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> t tpeo?
+[10Jun2025 03:38:06.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 moved wrongly!
+[10Jun2025 03:38:09.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Dale
+[10Jun2025 03:38:15.567] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[10Jun2025 03:38:28.885] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[10Jun2025 03:38:41.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> estoy a medio corazon
+[10Jun2025 03:38:43.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ay wey
+[10Jun2025 03:39:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Elemental Might]
+[10Jun2025 03:39:01.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[10Jun2025 03:39:22.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[10Jun2025 03:40:18.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[10Jun2025 03:40:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> este duing esta mas dañado
+[10Jun2025 03:40:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> una cursed armor esta donde estaba mi cuerpo
+[10Jun2025 03:40:39.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> |>v
+[10Jun2025 03:41:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> a
+[10Jun2025 03:41:32.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[10Jun2025 03:41:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[10Jun2025 03:41:37.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[10Jun2025 03:41:51.720] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[10Jun2025 03:41:51.773] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[10Jun2025 03:41:51.823] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[10Jun2025 03:41:51.871] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[10Jun2025 03:41:51.918] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[10Jun2025 03:41:51.972] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[10Jun2025 03:41:52.020] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[10Jun2025 03:41:52.067] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[10Jun2025 03:41:52.118] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[10Jun2025 03:41:52.170] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[10Jun2025 03:41:52.220] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[10Jun2025 03:41:52.269] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[10Jun2025 03:41:52.543] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[10Jun2025 03:41:52.544] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[10Jun2025 03:41:52.548] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[10Jun2025 03:41:52.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54908bbf
+[10Jun2025 03:41:52.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:61000] logged in with entity id 13172 at (805.1455851905089, 8.0, 1774.300000011921)
+[10Jun2025 03:41:52.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[10Jun2025 03:41:52.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[10Jun2025 03:41:52.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[10Jun2025 03:41:52.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[10Jun2025 03:41:52.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[10Jun2025 03:41:52.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[10Jun2025 03:41:52.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[10Jun2025 03:41:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[10Jun2025 03:41:52.847] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[10Jun2025 03:41:52.914] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[10Jun2025 03:41:52.915] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[10Jun2025 03:41:52.915] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Jun2025 03:41:52.916] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[10Jun2025 03:43:15.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['art'/8707, l='ServerLevel[world]', x=749.50, y=44.00, z=1827.09] died: art was slain by art
+[10Jun2025 03:43:43.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Cursed Armor
+[10Jun2025 03:43:46.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Cursed Armor
+[10Jun2025 03:43:46.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Dios mio
+[10Jun2025 03:43:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que
+[10Jun2025 03:43:52.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to 755.500000, 8.500000, 1823.500000]
+[10Jun2025 03:43:55.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Cursed Armor
+[10Jun2025 03:44:00.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to 755.500000, 8.500000, 1823.500000]
+[10Jun2025 03:44:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Cursed Armor
+[10Jun2025 03:44:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to 755.500000, 8.500000, 1821.500000]
+[10Jun2025 03:44:12.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[10Jun2025 03:44:12.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[10Jun2025 03:44:24.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported TanatosGX to zJ3ff]
+[10Jun2025 03:45:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> nos vamos a otro?
+[10Jun2025 03:45:43.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> aqui
+[10Jun2025 03:46:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> pura kk
+[10Jun2025 03:47:14.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Warped]
+[10Jun2025 03:47:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has reached the goal [Primal Catalyst]
+[10Jun2025 03:47:45.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 lost connection: Disconnected
+[10Jun2025 03:47:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 left the game

@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/wrench": {
+    "criteria": {
+      "wrench": "2025-06-10 03:33:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -357,9 +363,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-06-10 03:33:39 +0000",
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -370,6 +377,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/revival_leaf": {
+    "criteria": {
+      "has_items": "2025-06-10 03:39:00 +0000"
     },
     "done": true
   },
@@ -427,9 +440,21 @@
     },
     "done": false
   },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2025-06-10 03:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-06-09 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2025-06-10 03:36:26 +0000"
     },
     "done": true
   },
@@ -714,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-10 03:28:07 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -924,6 +955,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-06-10 03:36:26 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-06 04:23:29 +0000"
@@ -1024,6 +1061,12 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-06-10 03:34:29 +0000"
     },
     "done": true
   },
@@ -1239,6 +1282,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:redwood_thicket": "2025-06-10 03:25:40 +0000",
       "byg:fragment_forest": "2025-06-09 03:30:56 +0000",
       "byg:crag_gardens": "2025-06-09 03:43:08 +0000",
       "byg:forgotten_forest": "2025-06-06 04:23:29 +0000",
@@ -1285,6 +1329,7 @@
       "minecraft:lukewarm_ocean": "2025-06-09 04:25:39 +0000",
       "minecraft:river": "2025-06-09 03:47:41 +0000",
       "minecraft:stony_shore": "2025-06-09 03:48:39 +0000",
+      "minecraft:dripstone_caves": "2025-06-10 03:26:44 +0000",
       "minecraft:lush_caves": "2025-06-09 03:41:13 +0000",
       "minecraft:savanna": "2025-06-09 04:17:52 +0000",
       "minecraft:plains": "2025-06-09 03:48:09 +0000"
@@ -1392,6 +1437,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-09 03:54:44 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2025-06-10 03:36:26 +0000"
     },
     "done": true
   },
@@ -1549,6 +1600,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-06-09 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-10 03:27:33 +0000"
     },
     "done": true
   },

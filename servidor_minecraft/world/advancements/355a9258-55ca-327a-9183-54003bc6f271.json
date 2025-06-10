@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-10 03:44:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -298,6 +304,12 @@
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-06-10 03:44:46 +0000"
     },
     "done": true
   },
@@ -1335,9 +1347,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:16:07 +0000"
+      "has_parent_recipe": "2025-06-06 03:16:07 +0000",
+      "has_items": "2025-06-10 03:44:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
@@ -1661,6 +1674,18 @@
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2025-06-06 04:07:24 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-06-10 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-06-10 03:35:13 +0000"
     },
     "done": true
   },
