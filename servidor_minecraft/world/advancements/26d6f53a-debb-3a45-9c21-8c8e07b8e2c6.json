@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-10 03:22:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_stone": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -451,6 +457,12 @@
     },
     "done": true
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-06-10 03:24:29 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-06-06 04:23:29 +0000"
@@ -493,6 +505,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-06-10 03:22:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-10 03:24:31 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
@@ -511,17 +535,17 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/ender_ring": {
-    "criteria": {
-      "has_parent_recipe": "2025-06-09 03:59:14 +0000"
-    },
-    "done": false
-  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-06-09 03:54:27 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-09 03:59:14 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -581,6 +605,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-09 03:55:19 +0000",
+      "minecraft:skeleton": "2025-06-10 03:24:19 +0000",
       "minecraft:spider": "2025-06-09 04:11:37 +0000",
       "minecraft:husk": "2025-06-09 04:13:35 +0000",
       "minecraft:zombie": "2025-06-09 03:54:26 +0000"
@@ -923,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-10 03:23:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -945,6 +976,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-06-10 03:24:28 +0000"
     },
     "done": true
   },
@@ -1240,12 +1277,6 @@
     },
     "done": true
   },
-  "byg:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-09 03:40:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-09 04:01:32 +0000",
@@ -1259,6 +1290,12 @@
       "minecraft:plains": "2025-06-09 03:48:09 +0000"
     },
     "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-09 03:40:12 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1303,17 +1340,17 @@
     },
     "done": true
   },
-  "majruszsaccessories:tool_scraps": {
-    "criteria": {
-      "picked_up_accessory": "2025-06-09 04:31:18 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:ruins": {
     "criteria": {
       "in_ruins_land_warm": "2025-06-09 03:48:55 +0000"
     },
     "done": false
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-09 04:31:18 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_purple_from_white": {
     "criteria": {
