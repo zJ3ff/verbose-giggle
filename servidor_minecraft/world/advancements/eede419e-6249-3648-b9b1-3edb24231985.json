@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 04:04:52 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-05 16:36:53 +0000"
@@ -135,6 +141,12 @@
   "enigmaticaddons:book/tools/ichor_spear": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-06-11 04:02:53 +0000"
     },
     "done": true
   },
@@ -377,6 +389,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/void_pearl": {
+    "criteria": {
+      "has_items": "2025-06-11 04:02:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -477,6 +495,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-06-05 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-06-11 04:04:52 +0000"
     },
     "done": true
   },
@@ -794,6 +818,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/void_pearl": {
+    "criteria": {
+      "spellstone": "2025-06-11 04:02:29 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
@@ -876,6 +906,7 @@
     "criteria": {
       "spellstone1": "2025-06-08 00:00:49 +0000",
       "spellstone4": "2025-06-11 03:29:52 +0000",
+      "spellstone6": "2025-06-11 04:02:29 +0000",
       "spellstone5": "2025-06-09 04:09:05 +0000"
     },
     "done": false
@@ -1121,6 +1152,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2025-06-11 04:02:53 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-06-09 03:31:25 +0000",
@@ -1199,6 +1236,12 @@
       "crafting_table": "2025-06-05 20:08:54 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 04:04:52 +0000"
+    },
+    "done": false
   },
   "toms_storage:unlock_netherite": {
     "criteria": {
@@ -1626,6 +1669,7 @@
     "criteria": {
       "has_item_1": "2025-06-08 00:00:49 +0000",
       "has_item_5": "2025-06-09 04:09:05 +0000",
+      "has_item_6": "2025-06-11 04:02:29 +0000",
       "has_item_4": "2025-06-11 03:29:52 +0000"
     },
     "done": false
@@ -1795,6 +1839,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 04:04:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1803,21 +1853,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-06-11 03:56:24 +0000",
-      "!bit14": "2025-06-11 03:56:24 +0000",
-      "!bit11": "2025-06-11 03:56:24 +0000",
-      "!bit12": "2025-06-11 03:56:24 +0000",
-      "!bit10": "2025-06-11 03:56:24 +0000",
-      "!bit9": "2025-06-11 03:56:24 +0000",
-      "!bit8": "2025-06-11 03:56:24 +0000",
-      "!bit7": "2025-06-11 03:56:24 +0000",
-      "!bit6": "2025-06-11 03:56:24 +0000",
-      "!bit5": "2025-06-11 03:56:24 +0000",
-      "!bit4": "2025-06-11 03:56:24 +0000",
-      "!bit3": "2025-06-11 03:56:24 +0000",
-      "!bit2": "2025-06-11 03:56:24 +0000",
-      "!bit1": "2025-06-11 03:56:24 +0000",
-      "!bit0": "2025-06-11 03:56:24 +0000"
+      "!bit13": "2025-06-11 04:10:21 +0000",
+      "!bit14": "2025-06-11 04:10:21 +0000",
+      "!bit11": "2025-06-11 04:10:21 +0000",
+      "!bit12": "2025-06-11 04:10:21 +0000",
+      "!bit10": "2025-06-11 04:10:21 +0000",
+      "!bit9": "2025-06-11 04:10:21 +0000",
+      "!bit8": "2025-06-11 04:10:21 +0000",
+      "!bit7": "2025-06-11 04:10:21 +0000",
+      "!bit6": "2025-06-11 04:10:21 +0000",
+      "!bit5": "2025-06-11 04:10:21 +0000",
+      "!bit4": "2025-06-11 04:10:21 +0000",
+      "!bit3": "2025-06-11 04:10:21 +0000",
+      "!bit2": "2025-06-11 04:10:21 +0000",
+      "!bit1": "2025-06-11 04:10:21 +0000",
+      "!bit0": "2025-06-11 04:10:21 +0000"
     },
     "done": false
   },

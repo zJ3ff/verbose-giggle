@@ -872,6 +872,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_ingot_from_blasting": {
+    "criteria": {
+      "has_items": "2025-06-11 04:03:01 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-06-09 03:30:35 +0000"
@@ -1483,6 +1489,26 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-06-11 03:56:49 +0000",
+      "!bit14": "2025-06-11 03:56:49 +0000",
+      "!bit11": "2025-06-11 03:56:49 +0000",
+      "!bit12": "2025-06-11 03:56:49 +0000",
+      "!bit10": "2025-06-11 03:56:49 +0000",
+      "!bit9": "2025-06-11 03:56:49 +0000",
+      "!bit8": "2025-06-11 03:56:49 +0000",
+      "!bit7": "2025-06-11 03:56:49 +0000",
+      "!bit6": "2025-06-11 03:56:49 +0000",
+      "!bit5": "2025-06-11 03:56:49 +0000",
+      "!bit4": "2025-06-11 03:56:49 +0000",
+      "!bit3": "2025-06-11 03:56:49 +0000",
+      "!bit2": "2025-06-11 03:56:49 +0000",
+      "!bit1": "2025-06-11 03:56:49 +0000",
+      "!bit0": "2025-06-11 03:56:49 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1669,6 +1695,18 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-06-11 04:10:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_ingot": {
+    "criteria": {
+      "has_items": "2025-06-11 04:03:01 +0000"
     },
     "done": true
   },
