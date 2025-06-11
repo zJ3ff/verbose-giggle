@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-06-11 00:28:05 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1350,6 +1356,7 @@
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-09 04:01:32 +0000",
       "atmospheric:rainforest": "2025-06-09 03:33:07 +0000",
+      "minecraft:savanna_plateau": "2025-06-11 00:28:37 +0000",
       "minecraft:sparse_jungle": "2025-06-09 03:47:43 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 04:25:39 +0000",
       "minecraft:river": "2025-06-09 03:47:41 +0000",
