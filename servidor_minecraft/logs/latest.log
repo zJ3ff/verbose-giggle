@@ -4810,3 +4810,6 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [11Jun2025 05:26:54.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 lost connection: Disconnected
 [11Jun2025 05:26:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 left the game
 [11Jun2025 05:32:04.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[11Jun2025 05:34:39.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[11Jun2025 05:39:44.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Hidden in the Depths]
+[11Jun2025 05:41:02.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Let's Get To Work]
