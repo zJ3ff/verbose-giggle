@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 04:40:57 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/astral_potato": {
     "criteria": {
       "has_the_recipe": "2025-06-11 03:43:10 +0000"
@@ -310,7 +316,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-06-11 00:20:20 +0000",
-      "bread": "2025-06-09 03:42:41 +0000"
+      "bread": "2025-06-09 03:42:41 +0000",
+      "golden_apple": "2025-06-11 04:20:53 +0000"
     },
     "done": false
   },
@@ -414,6 +421,18 @@
   "enigmaticaddons:book/relics/revival_leaf": {
     "criteria": {
       "has_items": "2025-06-10 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-11 04:47:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-06-11 04:40:57 +0000"
     },
     "done": true
   },
@@ -675,6 +694,7 @@
       "minecraft:pillager": "2025-06-09 03:55:19 +0000",
       "minecraft:skeleton": "2025-06-10 03:24:19 +0000",
       "minecraft:spider": "2025-06-09 04:11:37 +0000",
+      "minecraft:creeper": "2025-06-11 04:39:37 +0000",
       "minecraft:husk": "2025-06-09 04:13:35 +0000",
       "minecraft:zombie": "2025-06-09 03:54:26 +0000"
     },
@@ -751,6 +771,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone1": "2025-06-11 04:34:16 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_orange_from_white": {
     "criteria": {
@@ -1021,6 +1047,12 @@
       "crafting_table": "2025-06-09 03:33:28 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 04:40:57 +0000"
+    },
+    "done": false
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
@@ -1293,6 +1325,12 @@
     },
     "done": true
   },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-06-11 04:50:36 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/astral_potato": {
     "criteria": {
       "has_items": "2025-06-11 03:43:10 +0000"
@@ -1377,6 +1415,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2025-06-11 04:34:16 +0000"
+    },
+    "done": false
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-06 04:23:29 +0000"
@@ -1423,6 +1467,7 @@
     "criteria": {
       "byg:redwood_thicket": "2025-06-10 03:25:40 +0000",
       "byg:fragment_forest": "2025-06-09 03:30:56 +0000",
+      "byg:firecracker_shrubland": "2025-06-11 04:27:03 +0000",
       "byg:crag_gardens": "2025-06-09 03:43:08 +0000",
       "byg:forgotten_forest": "2025-06-06 04:23:29 +0000",
       "byg:baobab_savanna": "2025-06-09 04:16:41 +0000",
@@ -1483,31 +1528,17 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 04:40:57 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-11 03:56:49 +0000",
-      "!bit14": "2025-06-11 03:56:49 +0000",
-      "!bit11": "2025-06-11 03:56:49 +0000",
-      "!bit12": "2025-06-11 03:56:49 +0000",
-      "!bit10": "2025-06-11 03:56:49 +0000",
-      "!bit9": "2025-06-11 03:56:49 +0000",
-      "!bit8": "2025-06-11 03:56:49 +0000",
-      "!bit7": "2025-06-11 03:56:49 +0000",
-      "!bit6": "2025-06-11 03:56:49 +0000",
-      "!bit5": "2025-06-11 03:56:49 +0000",
-      "!bit4": "2025-06-11 03:56:49 +0000",
-      "!bit3": "2025-06-11 03:56:49 +0000",
-      "!bit2": "2025-06-11 03:56:49 +0000",
-      "!bit1": "2025-06-11 03:56:49 +0000",
-      "!bit0": "2025-06-11 03:56:49 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1526,6 +1557,12 @@
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2025-06-11 04:33:45 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1587,6 +1624,12 @@
       "log_spam_fixer": "2025-06-06 04:23:29 +0000"
     },
     "done": false
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-06-11 04:41:07 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
@@ -1716,6 +1759,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-11 04:14:06 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2025-06-09 04:00:16 +0000"
@@ -1755,6 +1804,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 04:34:16 +0000"
     },
     "done": true
   },
@@ -1806,6 +1861,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-06-11 04:33:40 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1821,6 +1882,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-06-09 03:34:05 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-11 04:16:20 +0000"
     },
     "done": true
   },

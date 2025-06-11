@@ -364,7 +364,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2025-06-06 03:49:45 +0000",
-      "golden_carrot": "2025-06-06 03:26:16 +0000"
+      "golden_carrot": "2025-06-06 03:26:16 +0000",
+      "enchanted_golden_apple": "2025-06-11 04:43:44 +0000"
     },
     "done": false
   },
@@ -1551,6 +1552,12 @@
   "enigmaticaddons:book/accessories/thunder_scroll": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-06-11 04:22:59 +0000"
     },
     "done": true
   },

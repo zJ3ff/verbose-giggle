@@ -475,6 +475,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/revival_leaf": {
+    "criteria": {
+      "has_items": "2025-06-11 04:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-06-05 21:29:12 +0000"
@@ -1501,6 +1507,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-05 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-06-11 04:33:25 +0000"
     },
     "done": true
   },
