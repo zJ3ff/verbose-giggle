@@ -1,0 +1,10 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: 2184, y: 106, z: 859, time: 1749611021424L, xRot: 9.81353f, yRot: -13.996984f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}
