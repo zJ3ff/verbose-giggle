@@ -2023,6 +2023,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-11 03:13:01 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/golem_heart": {
     "criteria": {
       "has_items": "2025-06-06 04:15:40 +0000"

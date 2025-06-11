@@ -341,7 +341,8 @@
     "criteria": {
       "cooked_beef": "2025-06-10 03:29:42 +0000",
       "bread": "2025-06-06 03:24:30 +0000",
-      "golden_apple": "2025-06-06 04:20:53 +0000"
+      "golden_apple": "2025-06-06 04:20:53 +0000",
+      "golden_carrot": "2025-06-11 03:22:50 +0000"
     },
     "done": false
   },
@@ -446,6 +447,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-06-06 03:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-11 03:24:40 +0000"
     },
     "done": true
   },
@@ -714,6 +721,7 @@
       "minecraft:spider": "2025-06-06 03:54:37 +0000",
       "minecraft:witch": "2025-06-06 03:52:36 +0000",
       "minecraft:enderman": "2025-06-06 03:59:47 +0000",
+      "minecraft:stray": "2025-06-11 03:24:39 +0000",
       "minecraft:vex": "2025-06-06 04:17:25 +0000",
       "minecraft:zombie": "2025-06-06 03:54:50 +0000"
     },
@@ -990,6 +998,13 @@
     },
     "done": false
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-06-11 03:13:59 +0000",
+      "carrot": "2025-06-11 03:11:14 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1213,6 +1228,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-11 03:19:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1277,6 +1298,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-06-11 03:23:00 +0000"
     },
     "done": true
   },
@@ -1554,7 +1581,8 @@
       "byg:amaranth_fields": "2025-06-08 00:47:05 +0000",
       "byg:ebony_woods": "2025-06-06 03:30:25 +0000",
       "byg:basalt_barrera": "2025-06-08 00:59:18 +0000",
-      "byg:lush_stacks": "2025-06-08 00:37:34 +0000"
+      "byg:lush_stacks": "2025-06-08 00:37:34 +0000",
+      "byg:dacite_shore": "2025-06-11 03:16:51 +0000"
     },
     "done": false
   },
@@ -1655,21 +1683,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-06-11 03:05:18 +0000",
-      "!bit14": "2025-06-11 03:05:18 +0000",
-      "!bit11": "2025-06-11 03:05:18 +0000",
-      "!bit12": "2025-06-11 03:05:18 +0000",
-      "!bit10": "2025-06-11 03:05:18 +0000",
-      "!bit9": "2025-06-11 03:05:18 +0000",
-      "!bit8": "2025-06-11 03:05:18 +0000",
-      "!bit7": "2025-06-11 03:05:18 +0000",
-      "!bit6": "2025-06-11 03:05:18 +0000",
-      "!bit5": "2025-06-11 03:05:18 +0000",
-      "!bit4": "2025-06-11 03:05:18 +0000",
-      "!bit3": "2025-06-11 03:05:18 +0000",
-      "!bit2": "2025-06-11 03:05:18 +0000",
-      "!bit1": "2025-06-11 03:05:18 +0000",
-      "!bit0": "2025-06-11 03:05:18 +0000"
+      "direct": "2025-06-11 03:25:05 +0000"
     },
     "done": false
   },
@@ -1910,6 +1924,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-06-11 03:07:05 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-06-06 03:29:47 +0000"
@@ -1925,6 +1945,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-06-06 03:51:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-06-11 03:23:00 +0000"
     },
     "done": true
   },

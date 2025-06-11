@@ -1473,6 +1473,12 @@
     },
     "done": true
   },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-06-11 03:10:53 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/astral_potato": {
     "criteria": {
       "has_items": "2025-06-08 00:20:45 +0000"
@@ -1895,6 +1901,12 @@
     },
     "done": true
   },
+  "cisco_mod:cover_me_in_bright_steel": {
+    "criteria": {
+      "cover_me_in_bright_steel": "2025-06-11 03:11:30 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1959,6 +1971,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-06-11 03:18:56 +0000"
     },
     "done": true
   },
