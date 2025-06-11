@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/astral_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-06 04:23:29 +0000"
@@ -308,6 +314,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 03:43:37 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -390,6 +402,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:37 +0000"
     },
     "done": true
   },
@@ -567,6 +585,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/cosmic_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-09 03:34:05 +0000"
@@ -584,6 +608,12 @@
       "has_parent_recipe": "2025-06-09 03:59:14 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/materials/cosmic_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -662,6 +692,18 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/materials/astral_dust": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_shovel": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -673,6 +715,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/fabulous_scroll": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -709,6 +757,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_sword": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -794,6 +848,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/misc/astral_potion": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -839,6 +899,12 @@
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-11 03:53:40 +0000"
     },
     "done": true
   },
@@ -890,6 +956,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_scythe": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -901,6 +973,12 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_axe": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
   },
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
@@ -1038,6 +1116,12 @@
     "criteria": {
       "has_parent_recipe": "2025-06-09 03:59:14 +0000",
       "has_items": "2025-06-09 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_rod": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
     },
     "done": true
   },
@@ -1191,9 +1275,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_pickaxe": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-09 03:33:28 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/astral_potato": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
     },
     "done": true
   },
@@ -1418,6 +1514,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/astral_breaker": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-06 04:23:29 +0000"
@@ -1433,6 +1535,12 @@
   "majruszsaccessories:tool_scraps": {
     "criteria": {
       "picked_up_accessory": "2025-06-09 04:31:18 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ender_rod": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 03:43:10 +0000"
     },
     "done": true
   },
@@ -1600,6 +1708,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/advanced_brewing": {
+    "criteria": {
+      "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1609,6 +1723,12 @@
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/astral_dust": {
+    "criteria": {
+      "etherium": "2025-06-11 03:43:10 +0000"
     },
     "done": true
   },

@@ -450,6 +450,12 @@
     },
     "done": true
   },
+  "simplyswords:bramblethorn": {
+    "criteria": {
+      "requirement": "2025-06-11 03:55:19 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -531,6 +537,12 @@
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2025-06-06 03:46:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-06-11 03:29:52 +0000"
     },
     "done": true
   },
@@ -863,6 +875,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-06-08 00:00:49 +0000",
+      "spellstone4": "2025-06-11 03:29:52 +0000",
       "spellstone5": "2025-06-09 04:09:05 +0000"
     },
     "done": false
@@ -1612,7 +1625,8 @@
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2025-06-08 00:00:49 +0000",
-      "has_item_5": "2025-06-09 04:09:05 +0000"
+      "has_item_5": "2025-06-09 04:09:05 +0000",
+      "has_item_4": "2025-06-11 03:29:52 +0000"
     },
     "done": false
   },
@@ -1789,7 +1803,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-06-11 03:21:43 +0000"
+      "!bit13": "2025-06-11 03:56:24 +0000",
+      "!bit14": "2025-06-11 03:56:24 +0000",
+      "!bit11": "2025-06-11 03:56:24 +0000",
+      "!bit12": "2025-06-11 03:56:24 +0000",
+      "!bit10": "2025-06-11 03:56:24 +0000",
+      "!bit9": "2025-06-11 03:56:24 +0000",
+      "!bit8": "2025-06-11 03:56:24 +0000",
+      "!bit7": "2025-06-11 03:56:24 +0000",
+      "!bit6": "2025-06-11 03:56:24 +0000",
+      "!bit5": "2025-06-11 03:56:24 +0000",
+      "!bit4": "2025-06-11 03:56:24 +0000",
+      "!bit3": "2025-06-11 03:56:24 +0000",
+      "!bit2": "2025-06-11 03:56:24 +0000",
+      "!bit1": "2025-06-11 03:56:24 +0000",
+      "!bit0": "2025-06-11 03:56:24 +0000"
     },
     "done": false
   },

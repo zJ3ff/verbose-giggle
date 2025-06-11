@@ -345,6 +345,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-06-11 03:54:53 +0000",
       "baked_potato": "2025-06-06 04:37:58 +0000",
       "apple": "2025-06-05 20:07:43 +0000",
       "bread": "2025-06-05 20:11:26 +0000",
@@ -431,6 +432,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-11 03:52:44 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-06-05 22:16:44 +0000"
@@ -441,6 +448,12 @@
     "criteria": {
       "requirement": "2025-06-05 20:07:43 +0000",
       "log_spam_fixer": "2025-06-05 19:58:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:bramblethorn": {
+    "criteria": {
+      "requirement": "2025-06-11 03:55:08 +0000"
     },
     "done": true
   },
@@ -1347,6 +1360,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-11 03:42:18 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1472,6 +1491,12 @@
       "has_parent_recipe": "2025-06-06 04:00:11 +0000"
     },
     "done": false
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-06-11 03:41:46 +0000"
+    },
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
@@ -1751,6 +1776,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-11 03:41:51 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/astral_breaker": {
     "criteria": {
       "has_items": "2025-06-06 04:00:11 +0000"
@@ -1866,6 +1897,12 @@
     },
     "done": true
   },
+  "cisco_mod:cover_me_in_bright_steel": {
+    "criteria": {
+      "cover_me_in_bright_steel": "2025-06-11 03:43:38 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1900,6 +1937,12 @@
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-06-05 21:41:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-06-11 03:47:00 +0000"
     },
     "done": true
   },
@@ -2014,6 +2057,12 @@
   "enigmaticlegacy:book/brewing/advanced_brewing": {
     "criteria": {
       "has_items": "2025-06-06 04:00:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-11 03:38:54 +0000"
     },
     "done": true
   },
