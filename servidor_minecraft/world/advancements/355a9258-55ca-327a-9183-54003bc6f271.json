@@ -2209,6 +2209,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-11 05:24:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"

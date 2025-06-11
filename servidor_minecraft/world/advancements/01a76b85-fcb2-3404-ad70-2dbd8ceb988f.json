@@ -2057,6 +2057,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-06-11 05:24:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_ingot": {
     "criteria": {
       "has_items": "2025-06-06 04:09:31 +0000"
