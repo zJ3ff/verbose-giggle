@@ -4891,3 +4891,22 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [11Jun2025 06:13:23.529] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
 [11Jun2025 06:13:23.529] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [11Jun2025 06:13:23.529] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:13:51.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art moved wrongly!
+[11Jun2025 06:14:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was mauled by Necromancer's undead
+[11Jun2025 06:14:55.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was mauled by Necromancer's undead
+[11Jun2025 06:16:10.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Skeleton
+[11Jun2025 06:19:24.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art was kicked for floating too long!
+[11Jun2025 06:19:24.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art lost connection: Flying is not enabled on this server
+[11Jun2025 06:19:24.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art left the game
+[11Jun2025 06:19:40.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff moved wrongly!
+[11Jun2025 06:21:02.927] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[11Jun2025 06:21:02.927] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[11Jun2025 06:21:02.928] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:21:34.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChristianR3aper> metase a crea y saque linternas de mar
+[11Jun2025 06:21:40.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChristianR3aper> xd
+[11Jun2025 06:21:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[11Jun2025 06:21:51.276] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:21:51.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[11Jun2025 06:21:51.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:22:46.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[11Jun2025 06:23:31.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
