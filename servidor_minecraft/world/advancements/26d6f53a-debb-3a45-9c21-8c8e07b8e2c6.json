@@ -1016,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-11 00:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-06-10 03:23:23 +0000"
