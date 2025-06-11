@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-11 05:14:12 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-05 19:58:30 +0000"
@@ -243,7 +249,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2025-06-05 19:58:30 +0000"
+      "has_parent_recipe": "2025-06-05 19:58:30 +0000",
+      "has_items2": "2025-06-11 05:17:19 +0000"
     },
     "done": false
   },
@@ -423,6 +430,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_ingot": "2025-06-11 05:17:19 +0000"
     },
     "done": true
   },
@@ -606,6 +619,12 @@
       "shards_of_the_past": "2025-06-05 20:46:39 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2025-06-11 05:17:19 +0000"
+    },
+    "done": false
   },
   "morevillagers:root": {
     "criteria": {
@@ -831,6 +850,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2025-06-11 05:17:19 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_shovel": {
     "criteria": {
       "has_parent_recipe": "2025-06-06 04:00:11 +0000"
@@ -904,6 +929,18 @@
       "has_parent_recipe": "2025-06-06 04:00:11 +0000"
     },
     "done": false
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-06-11 05:15:50 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 05:17:19 +0000"
+    },
+    "done": true
   },
   "majruszsaccessories:tamed_potato_beetle": {
     "criteria": {
@@ -1051,7 +1088,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2025-06-05 19:58:30 +0000"
+      "has_parent_recipe": "2025-06-05 19:58:30 +0000",
+      "has_items3": "2025-06-11 05:17:19 +0000"
     },
     "done": false
   },
@@ -1101,6 +1139,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:dark_steel_ad": {
+    "criteria": {
+      "dark_steel_ad": "2025-06-11 05:19:11 +0000"
     },
     "done": true
   },
@@ -1158,6 +1202,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 05:17:19 +0000"
     },
     "done": true
   },
@@ -1775,6 +1825,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2025-06-11 05:17:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1899,7 +1955,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:37:08 +0000"
+      "has_parent_recipe": "2025-06-06 03:37:08 +0000",
+      "has_items2": "2025-06-11 05:17:19 +0000"
     },
     "done": false
   },
@@ -2165,6 +2222,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-06-05 20:13:09 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-06-11 05:15:50 +0000"
     },
     "done": true
   },

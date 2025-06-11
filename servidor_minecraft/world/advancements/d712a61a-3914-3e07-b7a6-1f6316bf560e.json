@@ -198,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-11 05:05:42 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-06 03:10:42 +0000"
@@ -255,7 +261,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:10:42 +0000"
+      "has_parent_recipe": "2025-06-06 03:10:42 +0000",
+      "has_items2": "2025-06-11 05:05:12 +0000"
     },
     "done": false
   },
@@ -459,7 +466,8 @@
     "criteria": {
       "entered_pillager_camp": "2025-06-06 04:16:47 +0000",
       "entered_flying_dutchman": "2025-06-08 00:42:00 +0000",
-      "entered_druid_circle": "2025-06-08 00:57:18 +0000"
+      "entered_druid_circle": "2025-06-08 00:57:18 +0000",
+      "entered_ruined_building": "2025-06-11 05:19:20 +0000"
     },
     "done": false
   },
@@ -606,6 +614,12 @@
       "shards_of_the_past": "2025-06-06 03:57:51 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2025-06-11 05:05:12 +0000"
+    },
+    "done": false
   },
   "morevillagers:root": {
     "criteria": {
@@ -820,6 +834,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2025-06-11 05:05:12 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_shovel": {
     "criteria": {
       "has_parent_recipe": "2025-06-10 03:47:37 +0000"
@@ -895,9 +915,16 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smithingtable": "2025-06-11 05:05:23 +0000",
       "blastfurnace": "2025-06-10 03:26:33 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 05:05:12 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
@@ -962,6 +989,12 @@
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2025-06-11 05:09:44 +0000"
     },
     "done": true
   },
@@ -1033,7 +1066,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:10:42 +0000"
+      "has_parent_recipe": "2025-06-06 03:10:42 +0000",
+      "has_items3": "2025-06-11 05:05:12 +0000"
     },
     "done": false
   },
@@ -1077,6 +1111,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:dark_steel_ad": {
+    "criteria": {
+      "dark_steel_ad": "2025-06-11 05:06:38 +0000"
     },
     "done": true
   },
@@ -1133,6 +1173,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 05:05:12 +0000"
     },
     "done": true
   },
@@ -1807,6 +1853,12 @@
     },
     "done": true
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-06-11 05:20:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -1830,6 +1882,12 @@
       "log_spam_fixer": "2025-06-06 03:10:43 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2025-06-11 05:05:12 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1955,7 +2013,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:35:48 +0000"
+      "has_parent_recipe": "2025-06-06 03:35:48 +0000",
+      "has_items2": "2025-06-11 05:05:12 +0000"
     },
     "done": false
   },
@@ -2113,6 +2172,12 @@
   "enigmaticlegacy:book/brewing/advanced_brewing": {
     "criteria": {
       "has_items": "2025-06-10 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-11 05:04:02 +0000"
     },
     "done": true
   },

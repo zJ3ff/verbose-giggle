@@ -186,6 +186,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-11 05:10:34 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-06 03:10:24 +0000"
@@ -237,7 +243,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:10:24 +0000"
+      "has_parent_recipe": "2025-06-06 03:10:24 +0000",
+      "has_items2": "2025-06-11 05:05:04 +0000"
     },
     "done": false
   },
@@ -626,6 +633,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2025-06-11 05:05:04 +0000"
+    },
+    "done": false
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-06-06 03:10:24 +0000"
@@ -841,6 +854,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2025-06-11 05:05:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_shovel": {
     "criteria": {
       "has_parent_recipe": "2025-06-08 00:20:45 +0000"
@@ -921,6 +940,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 05:05:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
       "has_scrap": "2025-06-06 03:53:59 +0000"
@@ -978,6 +1003,12 @@
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2025-06-11 05:09:38 +0000"
     },
     "done": true
   },
@@ -1067,7 +1098,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:10:24 +0000"
+      "has_parent_recipe": "2025-06-06 03:10:24 +0000",
+      "has_items3": "2025-06-11 05:05:04 +0000"
     },
     "done": false
   },
@@ -1120,6 +1152,12 @@
     },
     "done": true
   },
+  "cisco_mod:dark_steel_ad": {
+    "criteria": {
+      "dark_steel_ad": "2025-06-11 05:06:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "bacon_and_eggs": "2025-06-09 03:52:35 +0000"
@@ -1160,6 +1198,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 05:05:04 +0000"
     },
     "done": true
   },
@@ -1365,6 +1409,12 @@
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-11 05:03:54 +0000"
     },
     "done": true
   },
@@ -1849,6 +1899,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2025-06-11 05:05:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
@@ -1973,7 +2029,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2025-06-11 03:30:02 +0000"
+      "has_parent_recipe": "2025-06-11 03:30:02 +0000",
+      "has_items2": "2025-06-11 05:05:04 +0000"
     },
     "done": false
   },

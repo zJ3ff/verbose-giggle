@@ -84,15 +84,15 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/materials/earth_heart": {
-    "criteria": {
-      "has_items": "2025-06-11 04:40:57 +0000"
-    },
-    "done": true
-  },
   "enigmaticlegacy:book/misc/astral_potato": {
     "criteria": {
       "has_the_recipe": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-06-11 04:40:57 +0000"
     },
     "done": true
   },
@@ -424,15 +424,15 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-06-11 04:47:43 +0000"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/infinimeal": {
     "criteria": {
       "has_items": "2025-06-11 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-11 04:47:43 +0000"
     },
     "done": true
   },
@@ -1355,6 +1355,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-06-11 05:09:02 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1671,6 +1677,12 @@
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:cover_me_in_bright_steel": {
+    "criteria": {
+      "cover_me_in_bright_steel": "2025-06-11 05:18:15 +0000"
     },
     "done": true
   },
