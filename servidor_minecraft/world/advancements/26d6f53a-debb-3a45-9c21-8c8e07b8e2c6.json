@@ -297,6 +297,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-06-11 00:20:20 +0000",
       "bread": "2025-06-09 03:42:41 +0000"
     },
     "done": false
@@ -1354,6 +1355,7 @@
       "minecraft:river": "2025-06-09 03:47:41 +0000",
       "minecraft:stony_shore": "2025-06-09 03:48:39 +0000",
       "minecraft:dripstone_caves": "2025-06-10 03:26:44 +0000",
+      "minecraft:forest": "2025-06-11 00:16:15 +0000",
       "minecraft:lush_caves": "2025-06-09 03:41:13 +0000",
       "minecraft:savanna": "2025-06-09 04:17:52 +0000",
       "minecraft:plains": "2025-06-09 03:48:09 +0000"
