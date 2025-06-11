@@ -4835,3 +4835,46 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [11Jun2025 05:53:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
 [11Jun2025 05:53:12.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art lost connection: Timed out
 [11Jun2025 05:53:12.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art left the game
+[11Jun2025 05:56:08.192] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[11Jun2025 05:56:08.242] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[11Jun2025 05:56:08.293] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[11Jun2025 05:56:08.342] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[11Jun2025 05:56:08.395] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[11Jun2025 05:56:08.444] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[11Jun2025 05:56:08.495] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[11Jun2025 05:56:08.545] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[11Jun2025 05:56:08.594] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[11Jun2025 05:56:08.645] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[11Jun2025 05:56:08.692] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[11Jun2025 05:56:08.742] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[11Jun2025 05:56:20.944] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[11Jun2025 05:56:20.955] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[11Jun2025 05:56:20.958] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[11Jun2025 05:56:21.028] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2010956c
+[11Jun2025 05:56:21.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: art[/10.147.17.72:65193] logged in with entity id 93287 at (2108.45043977999, 122.48762169939083, 884.5181266045324)
+[11Jun2025 05:56:21.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to art
+[11Jun2025 05:56:21.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to art
+[11Jun2025 05:56:21.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to art
+[11Jun2025 05:56:21.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to art
+[11Jun2025 05:56:21.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to art
+[11Jun2025 05:56:21.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to art
+[11Jun2025 05:56:21.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to art
+[11Jun2025 05:56:21.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art joined the game
+[11Jun2025 05:56:21.181] [Server thread/INFO] [Jade/]: Syncing config to art (26d6f53a-debb-3a45-9c21-8c8e07b8e2c6)
+[11Jun2025 05:56:21.260] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to art...
+[11Jun2025 05:56:21.260] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[11Jun2025 05:56:21.261] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Jun2025 05:56:21.261] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to art
+[11Jun2025 05:57:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has completed the challenge [Ancient Craftmanship]
+[11Jun2025 05:57:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has completed the challenge [Ancient Craftmanship]
+[11Jun2025 05:59:33.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> quien me movio de done estaba
+[11Jun2025 05:59:36.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bruh
+[11Jun2025 06:01:42.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:01:42.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[11Jun2025 06:01:42.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[11Jun2025 06:01:44.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jun2025 06:01:44.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:01:44.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:02:36.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[11Jun2025 06:02:36.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[11Jun2025 06:02:36.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond

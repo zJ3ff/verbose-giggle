@@ -1008,6 +1008,12 @@
     },
     "done": true
   },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2025-06-11 05:57:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
