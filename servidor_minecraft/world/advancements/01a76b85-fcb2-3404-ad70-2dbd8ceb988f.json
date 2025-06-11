@@ -1726,6 +1726,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:araucaria_savanna": "2025-06-11 05:43:49 +0000",
       "byg:crag_gardens": "2025-06-05 20:43:34 +0000",
       "byg:forgotten_forest": "2025-06-05 19:58:31 +0000",
       "byg:ebony_woods": "2025-06-05 20:46:32 +0000"

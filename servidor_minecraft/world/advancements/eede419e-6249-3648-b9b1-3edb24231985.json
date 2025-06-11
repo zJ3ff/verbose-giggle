@@ -1669,6 +1669,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "stonecutter": "2025-06-11 05:41:02 +0000"
+    },
+    "done": false
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-05 16:36:53 +0000"
@@ -2372,6 +2378,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-06-05 20:14:10 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "stonecutter": "2025-06-11 05:41:02 +0000"
     },
     "done": true
   },
