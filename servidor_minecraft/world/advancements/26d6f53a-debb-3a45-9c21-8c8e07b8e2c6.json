@@ -1582,6 +1582,7 @@
       "byg:redwood_thicket": "2025-06-10 03:25:40 +0000",
       "byg:fragment_forest": "2025-06-09 03:30:56 +0000",
       "byg:firecracker_shrubland": "2025-06-11 04:27:03 +0000",
+      "byg:araucaria_savanna": "2025-06-13 04:42:13 +0000",
       "byg:crag_gardens": "2025-06-09 03:43:08 +0000",
       "byg:forgotten_forest": "2025-06-06 04:23:29 +0000",
       "byg:baobab_savanna": "2025-06-09 04:16:41 +0000",
@@ -1955,6 +1956,12 @@
   "enigmaticlegacy:book/brewing/advanced_brewing": {
     "criteria": {
       "has_items": "2025-06-11 03:43:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-13 04:36:23 +0000"
     },
     "done": true
   },

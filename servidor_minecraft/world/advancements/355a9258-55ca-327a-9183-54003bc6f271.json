@@ -1986,6 +1986,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-06-13 04:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-06 03:22:10 +0000"
@@ -2068,6 +2074,7 @@
       "byg:fragment_forest": "2025-06-09 03:44:10 +0000",
       "byg:white_mangrove_marshes": "2025-06-08 00:57:02 +0000",
       "byg:firecracker_shrubland": "2025-06-08 00:45:33 +0000",
+      "byg:araucaria_savanna": "2025-06-13 04:42:59 +0000",
       "byg:crag_gardens": "2025-06-09 03:44:02 +0000",
       "byg:forgotten_forest": "2025-06-06 03:10:25 +0000",
       "byg:baobab_savanna": "2025-06-06 03:50:03 +0000",
