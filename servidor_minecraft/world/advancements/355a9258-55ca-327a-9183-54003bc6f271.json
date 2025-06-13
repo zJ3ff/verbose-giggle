@@ -1110,6 +1110,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-06-13 05:13:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-06-08 00:18:23 +0000"

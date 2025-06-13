@@ -366,6 +366,12 @@
     },
     "done": true
   },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-06-13 05:11:39 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2025-06-05 22:09:20 +0000"
@@ -1312,6 +1318,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:livyatan": {
+    "criteria": {
+      "requirement": "2025-06-13 05:11:25 +0000"
     },
     "done": true
   },
