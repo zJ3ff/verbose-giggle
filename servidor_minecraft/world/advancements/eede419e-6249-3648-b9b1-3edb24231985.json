@@ -409,6 +409,12 @@
     },
     "done": true
   },
+  "simplyswords:dormant_relic": {
+    "criteria": {
+      "requirement": "2025-06-13 03:09:02 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
@@ -1181,6 +1187,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-06-06 03:52:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-06-13 03:16:43 +0000"
     },
     "done": true
   },
@@ -2198,7 +2210,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-11 06:54:21 +0000"
+      "not_target": "2025-06-13 03:17:41 +0000"
     },
     "done": false
   },

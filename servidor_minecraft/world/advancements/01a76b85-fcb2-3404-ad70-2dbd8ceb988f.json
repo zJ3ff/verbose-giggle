@@ -1389,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-06-13 02:57:56 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-06-05 20:04:54 +0000",
@@ -2248,6 +2254,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-06-05 21:57:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-06-13 03:17:03 +0000"
     },
     "done": true
   },
