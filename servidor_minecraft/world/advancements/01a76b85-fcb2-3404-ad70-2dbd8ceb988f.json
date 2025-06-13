@@ -721,6 +721,12 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-13 04:26:57 +0000"
+    },
+    "done": true
+  },
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2025-06-06 03:47:02 +0000"

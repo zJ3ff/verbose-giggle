@@ -1294,6 +1294,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-13 04:26:33 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1413,6 +1419,12 @@
       "has_parent_recipe": "2025-06-11 03:43:10 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-06-13 04:26:33 +0000"
+    },
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
