@@ -464,6 +464,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-13 02:17:39 +0000",
       "entered_pillager_camp": "2025-06-06 04:16:47 +0000",
       "entered_flying_dutchman": "2025-06-08 00:42:00 +0000",
       "entered_druid_circle": "2025-06-08 00:57:18 +0000",
@@ -713,9 +714,10 @@
   },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-06-06 03:21:01 +0000"
+      "has_parent_recipe": "2025-06-06 03:21:01 +0000",
+      "has_items": "2025-06-13 02:19:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:affix/random": {
     "criteria": {
@@ -1836,6 +1838,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-13 02:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-08 00:55:57 +0000",
@@ -1879,7 +1887,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-13 02:09:08 +0000"
+      "target": "2025-06-13 02:20:16 +0000"
     },
     "done": false
   },

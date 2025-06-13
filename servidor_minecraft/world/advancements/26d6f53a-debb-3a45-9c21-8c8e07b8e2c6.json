@@ -1009,6 +1009,12 @@
     },
     "done": true
   },
+  "cisco_mod:dark_steel_ad": {
+    "criteria": {
+      "dark_steel_ad": "2025-06-13 02:16:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2025-06-09 03:40:12 +0000"
