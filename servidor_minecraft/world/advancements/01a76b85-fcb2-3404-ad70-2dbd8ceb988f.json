@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_druid_circle": "2025-06-13 05:30:37 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -415,6 +421,12 @@
     },
     "done": false
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2025-06-13 05:33:07 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -600,6 +612,12 @@
       "has_recall_potion": "2025-06-06 04:20:37 +0000"
     },
     "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_druid_circle": "2025-06-13 05:30:37 +0000"
+    },
+    "done": true
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -906,6 +924,7 @@
       "atmospheric:rainforest_basin": "2025-06-05 20:03:52 +0000",
       "atmospheric:rainforest": "2025-06-05 20:02:35 +0000",
       "minecraft:bamboo_jungle": "2025-06-05 22:37:12 +0000",
+      "minecraft:savanna_plateau": "2025-06-13 05:33:50 +0000",
       "minecraft:beach": "2025-06-13 02:29:41 +0000",
       "minecraft:sparse_jungle": "2025-06-05 20:02:34 +0000",
       "minecraft:river": "2025-06-05 20:02:32 +0000",

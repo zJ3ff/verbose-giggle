@@ -409,6 +409,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-13 02:31:10 +0000",
+      "entered_stables": "2025-06-13 05:27:27 +0000",
       "entered_hay_storage": "2025-06-09 04:17:51 +0000"
     },
     "done": false
@@ -585,6 +586,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2025-06-13 05:36:02 +0000"
     },
     "done": true
   },
@@ -1667,6 +1674,26 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-06-13 05:34:26 +0000",
+      "!bit14": "2025-06-13 05:34:26 +0000",
+      "!bit11": "2025-06-13 05:34:26 +0000",
+      "!bit12": "2025-06-13 05:34:26 +0000",
+      "!bit10": "2025-06-13 05:34:26 +0000",
+      "!bit9": "2025-06-13 05:34:26 +0000",
+      "!bit8": "2025-06-13 05:34:26 +0000",
+      "!bit7": "2025-06-13 05:34:26 +0000",
+      "!bit6": "2025-06-13 05:34:26 +0000",
+      "!bit5": "2025-06-13 05:34:26 +0000",
+      "!bit4": "2025-06-13 05:34:26 +0000",
+      "!bit3": "2025-06-13 05:34:26 +0000",
+      "!bit2": "2025-06-13 05:34:26 +0000",
+      "!bit1": "2025-06-13 05:34:26 +0000",
+      "!bit0": "2025-06-13 05:34:26 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {

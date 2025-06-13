@@ -6152,3 +6152,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Jun2025 05:29:01.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [13Jun2025 05:29:01.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [13Jun2025 05:29:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[13Jun2025 05:30:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff fell from a high place
+[13Jun2025 05:30:49.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:30:49.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 05:30:49.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:30:49.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:31:03.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> UN BOSS
+[13Jun2025 05:31:05.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> AAAAAAAAAA
+[13Jun2025 05:31:08.284] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 05:31:08.284] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:31:22.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bengan
+[13Jun2025 05:31:31.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:31:31.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:31:31.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:31:31.380] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:32:19.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Economy]
+[13Jun2025 05:33:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Economy]
+[13Jun2025 05:33:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> SVS
+[13Jun2025 05:33:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ACA
+[13Jun2025 05:33:16.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ACA
+[13Jun2025 05:33:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> TP
+[13Jun2025 05:33:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to art]
+[13Jun2025 05:33:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:34:46.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was struck by lightning
+[13Jun2025 05:34:49.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:34:49.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:34:49.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:34:49.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:34:58.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Iron Golem
+[13Jun2025 05:35:15.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff moved wrongly!
+[13Jun2025 05:35:16.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:35:18.746] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:35:18.746] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:35:18.746] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:35:32.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was struck by lightning whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:35:35.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:35:35.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:35:35.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:36:02.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/175922, l='ServerLevel[world]', x=1030.85, y=122.00, z=3274.14] was struck by lightning LightningEntity['Lightning'/181976, l='ServerLevel[world]', x=1028.00, y=126.00, z=3271.00].
+[13Jun2025 05:36:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Very Very Frightening]
+[13Jun2025 05:36:33.227] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:36:33.227] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 05:36:33.227] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:36:33.227] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:37:27.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:37:35.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:37:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:37:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:38:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:38:40.389] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:38:40.389] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:38:40.389] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:38:40.389] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:38:55.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was slain by Iron Golem
+[13Jun2025 05:39:01.637] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:39:01.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:39:01.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:39:01.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:39:46.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175957, l='ServerLevel[world]', x=1052.55, y=96.00, z=3276.17] died, message: 'Unemployed was devoured by darkness'
+[13Jun2025 05:40:11.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
