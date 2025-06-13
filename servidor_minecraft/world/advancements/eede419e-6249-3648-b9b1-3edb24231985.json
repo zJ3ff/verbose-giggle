@@ -956,14 +956,17 @@
       "atmospheric:rainforest_basin": "2025-06-05 16:43:12 +0000",
       "minecraft:deep_ocean": "2025-06-09 03:22:30 +0000",
       "atmospheric:rainforest": "2025-06-05 16:40:41 +0000",
+      "atmospheric:spiny_thicket": "2025-06-13 06:13:35 +0000",
       "minecraft:bamboo_jungle": "2025-06-10 23:21:18 +0000",
       "minecraft:savanna_plateau": "2025-06-06 04:16:57 +0000",
       "minecraft:dark_forest": "2025-06-09 03:20:17 +0000",
+      "atmospheric:flourishing_dunes": "2025-06-13 06:14:47 +0000",
       "minecraft:sparse_jungle": "2025-06-05 16:42:41 +0000",
       "minecraft:river": "2025-06-05 16:38:05 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:20 +0000",
       "minecraft:stony_shore": "2025-06-05 20:14:43 +0000",
       "minecraft:dripstone_caves": "2025-06-09 03:47:46 +0000",
+      "atmospheric:dunes": "2025-06-13 06:14:54 +0000",
       "minecraft:forest": "2025-06-05 21:35:54 +0000",
       "minecraft:lush_caves": "2025-06-05 20:52:32 +0000",
       "minecraft:ocean": "2025-06-09 03:15:15 +0000",
@@ -1190,6 +1193,13 @@
       "loot_stat": "2025-06-06 04:19:54 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-06-13 06:13:54 +0000",
+      "barrel_cactus": "2025-06-13 06:16:11 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
@@ -2278,7 +2288,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-06-13 06:11:09 +0000"
+      "!bit13": "2025-06-13 06:19:22 +0000",
+      "!bit14": "2025-06-13 06:19:22 +0000",
+      "!bit11": "2025-06-13 06:19:22 +0000",
+      "!bit12": "2025-06-13 06:19:22 +0000",
+      "!bit10": "2025-06-13 06:19:22 +0000",
+      "!bit9": "2025-06-13 06:19:22 +0000",
+      "!bit8": "2025-06-13 06:19:22 +0000",
+      "!bit7": "2025-06-13 06:19:22 +0000",
+      "!bit6": "2025-06-13 06:19:22 +0000",
+      "!bit5": "2025-06-13 06:19:22 +0000",
+      "!bit4": "2025-06-13 06:19:22 +0000",
+      "!bit3": "2025-06-13 06:19:22 +0000",
+      "!bit2": "2025-06-13 06:19:22 +0000",
+      "!bit1": "2025-06-13 06:19:22 +0000",
+      "!bit0": "2025-06-13 06:19:22 +0000"
     },
     "done": false
   },

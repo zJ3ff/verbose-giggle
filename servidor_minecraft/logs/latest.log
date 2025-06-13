@@ -6281,3 +6281,45 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Jun2025 06:10:59.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> lo que te gusta tivu
 [13Jun2025 06:11:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pues la hizo tana
 [13Jun2025 06:11:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pero yo estoy aca
+[13Jun2025 06:11:40.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[13Jun2025 06:11:44.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> se
+[13Jun2025 06:13:27.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> ./rtp
+[13Jun2025 06:13:35.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[13Jun2025 06:14:19.113] [Worker-Main1/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Jun2025 06:14:44.821] [Worker-Main36/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Jun2025 06:14:45.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[13Jun2025 06:14:46.099] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=8651, y=67, z=9483} but found not block entity block Block{minecraft:air} at location
+[13Jun2025 06:14:46.099] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=8651, y=67, z=9483}
+[13Jun2025 06:14:50.794] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 06:14:50.794] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 06:14:55.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 06:14:55.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 06:14:55.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 06:14:55.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 06:15:15.102] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[13Jun2025 06:15:18.766] [Worker-Main11/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jun2025 06:15:18.766] [Worker-Main11/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jun2025 06:15:18.766] [Worker-Main11/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jun2025 06:15:18.826] [Worker-Main11/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jun2025 06:15:22.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[13Jun2025 06:15:23.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 06:15:23.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 06:15:23.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 06:15:23.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 06:15:30.589] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 06:16:19.482] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 06:16:19.482] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 06:17:06.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [Captured!]
+[13Jun2025 06:17:19.526] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 06:17:19.526] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 06:17:19.526] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 06:17:19.526] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 06:18:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was shot by Blüd
+[13Jun2025 06:18:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[13Jun2025 06:18:27.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Spectator Mode]
+[13Jun2025 06:18:46.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[13Jun2025 06:18:52.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was devoured by darkness
+[13Jun2025 06:19:04.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was shot by Blüd
+[13Jun2025 06:19:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Spectator Mode]
+[13Jun2025 06:20:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[13Jun2025 06:20:30.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> que dropeo
