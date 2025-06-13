@@ -4959,3 +4959,72 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [13Jun2025 04:06:34.951] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [13Jun2025 04:06:34.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [13Jun2025 04:06:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Listen Close]
+[13Jun2025 04:07:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
+[13Jun2025 04:07:41.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['art'/127917, l='ServerLevel[world]', x=807.66, y=12.00, z=3228.30] died: art was slain by Jaime_A1
+[13Jun2025 04:07:53.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[13Jun2025 04:08:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> encontre anillo de 70% de boost al rayo XD
+[13Jun2025 04:08:18.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper lost connection: Disconnected
+[13Jun2025 04:08:18.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper left the game
+[13Jun2025 04:08:33.353] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 04:08:33.403] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 04:08:33.460] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 04:08:33.507] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 04:08:33.554] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 04:08:33.637] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 04:08:33.655] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 04:08:33.704] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 04:08:33.759] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 04:08:33.810] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 04:08:33.866] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 04:08:33.905] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 04:08:34.389] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 04:08:34.390] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 04:08:34.461] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 04:08:34.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a67811f
+[13Jun2025 04:08:34.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:58287] logged in with entity id 140775 at (858.6999999880791, 2.0, 3221.3344116988465)
+[13Jun2025 04:08:34.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[13Jun2025 04:08:34.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[13Jun2025 04:08:34.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[13Jun2025 04:08:34.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[13Jun2025 04:08:34.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[13Jun2025 04:08:34.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[13Jun2025 04:08:34.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[13Jun2025 04:08:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[13Jun2025 04:08:34.682] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[13Jun2025 04:08:34.726] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[13Jun2025 04:08:34.726] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 04:08:34.726] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 04:08:34.726] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[13Jun2025 04:08:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 withered away
+[13Jun2025 04:08:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Wake Up!]
+[13Jun2025 04:08:57.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was devoured by darkness
+[13Jun2025 04:09:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was devoured by darkness
+[13Jun2025 04:09:08.391] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:09:08.391] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:09:08.391] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:09:08.391] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:09:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Wake Up!]
+[13Jun2025 04:09:40.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was devoured by darkness
+[13Jun2025 04:09:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was devoured by darkness
+[13Jun2025 04:10:33.728] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:10:33.729] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:10:33.729] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:11:08.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:11:08.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:11:08.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:11:08.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:11:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was devoured by darkness
+[13Jun2025 04:14:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> pontelo juan
+[13Jun2025 04:14:44.467] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[13Jun2025 04:14:44.467] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[13Jun2025 04:14:54.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ya tengo xd
+[13Jun2025 04:15:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> a xd
+[13Jun2025 04:15:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Eyes Open]
+[13Jun2025 04:15:27.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Eyes Open]
+[13Jun2025 04:16:22.428] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 04:16:22.428] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 04:16:22.428] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:17:35.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:17:35.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 04:17:35.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:17:35.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond

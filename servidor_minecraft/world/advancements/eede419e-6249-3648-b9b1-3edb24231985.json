@@ -442,6 +442,12 @@
     },
     "done": false
   },
+  "simplyswords:watching_warglaive": {
+    "criteria": {
+      "requirement": "2025-06-13 04:15:27 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-06-05 16:36:55 +0000"
@@ -1498,6 +1504,12 @@
     },
     "done": true
   },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-06-13 04:06:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2025-06-05 16:36:54 +0000"
@@ -1821,6 +1833,12 @@
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
       "has_items": "2025-06-09 03:31:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-06-13 04:09:16 +0000"
     },
     "done": true
   },
@@ -2213,6 +2231,26 @@
       "has_the_recipe": "2025-06-05 16:36:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-06-13 04:15:53 +0000",
+      "!bit14": "2025-06-13 04:15:53 +0000",
+      "!bit11": "2025-06-13 04:15:53 +0000",
+      "!bit12": "2025-06-13 04:15:53 +0000",
+      "!bit10": "2025-06-13 04:15:53 +0000",
+      "!bit9": "2025-06-13 04:15:53 +0000",
+      "!bit8": "2025-06-13 04:15:53 +0000",
+      "!bit7": "2025-06-13 04:15:53 +0000",
+      "!bit6": "2025-06-13 04:15:53 +0000",
+      "!bit5": "2025-06-13 04:15:53 +0000",
+      "!bit4": "2025-06-13 04:15:53 +0000",
+      "!bit3": "2025-06-13 04:15:53 +0000",
+      "!bit2": "2025-06-13 04:15:53 +0000",
+      "!bit1": "2025-06-13 04:15:53 +0000",
+      "!bit0": "2025-06-13 04:15:53 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
