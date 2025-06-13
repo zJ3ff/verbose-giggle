@@ -6211,3 +6211,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Jun2025 05:39:01.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [13Jun2025 05:39:46.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175957, l='ServerLevel[world]', x=1052.55, y=96.00, z=3276.17] died, message: 'Unemployed was devoured by darkness'
 [13Jun2025 05:40:11.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:41:35.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:41:39.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:41:39.723] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[13Jun2025 05:41:41.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:41:41.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff moved wrongly!
+[13Jun2025 05:42:02.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was struck by lightning
+[13Jun2025 05:42:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was doomed to fall
+[13Jun2025 05:42:11.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:42:11.045] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:42:11.045] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:42:11.045] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:43:22.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was struck by lightning whilst fighting Air Elemental
+[13Jun2025 05:43:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:44:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> NO SOY YO
+[13Jun2025 05:44:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:45:12.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:45:12.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:45:12.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:45:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:46:15.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was struck by lightning whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:46:23.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/175958, l='ServerLevel[world]', x=1028.66, y=100.00, z=3280.12] died, message: 'Shepherd was slain by Zombie'
+[13Jun2025 05:46:55.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:48:03.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:48:03.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:48:03.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:48:19.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was killed by art using    [Aurellia's Bite Storm]
+[13Jun2025 05:49:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
+[13Jun2025 05:50:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> QUE NO SOY YO
+[13Jun2025 05:50:23.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
