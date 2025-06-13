@@ -6240,3 +6240,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Jun2025 05:49:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was slain by Umvuthi, the Sunbird
 [13Jun2025 05:50:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> QUE NO SOY YO
 [13Jun2025 05:50:23.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[13Jun2025 05:50:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff died because of Umvuthi, the Sunbird
+[13Jun2025 05:51:10.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper died because of Umvuthi, the Sunbird
+[13Jun2025 05:51:27.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:51:27.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:51:27.087] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:51:27.088] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:52:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was struck by lightning whilst fighting Umvuthana Crane
+[13Jun2025 05:52:08.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:52:13.142] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:52:13.142] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:52:13.142] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:52:13.143] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:52:58.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was burnt to a crisp whilst fighting Air Elemental
+[13Jun2025 05:54:47.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[13Jun2025 05:55:53.831] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 05:55:53.831] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:55:53.831] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:58:13.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art moved wrongly!
+[13Jun2025 05:58:28.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: art moved wrongly!
+[13Jun2025 05:58:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has completed the challenge [Praise the Sun]
+[13Jun2025 05:58:52.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:58:52.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:58:52.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:59:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> si
+[13Jun2025 05:59:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XDDD
+[13Jun2025 05:59:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> puedes invocar minions
