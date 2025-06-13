@@ -1759,6 +1759,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:firecracker_shrubland": "2025-06-13 02:26:50 +0000",
       "byg:araucaria_savanna": "2025-06-11 05:43:49 +0000",
       "byg:crag_gardens": "2025-06-05 20:43:34 +0000",
       "byg:forgotten_forest": "2025-06-05 19:58:31 +0000",
@@ -1813,6 +1814,7 @@
       "atmospheric:rainforest_basin": "2025-06-05 20:03:52 +0000",
       "atmospheric:rainforest": "2025-06-05 20:02:35 +0000",
       "minecraft:bamboo_jungle": "2025-06-05 22:37:12 +0000",
+      "minecraft:beach": "2025-06-13 02:29:41 +0000",
       "minecraft:sparse_jungle": "2025-06-05 20:02:34 +0000",
       "minecraft:river": "2025-06-05 20:02:32 +0000",
       "minecraft:lukewarm_ocean": "2025-06-05 22:05:12 +0000",

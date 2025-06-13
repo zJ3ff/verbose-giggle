@@ -380,7 +380,9 @@
       "apple": "2025-06-11 03:45:38 +0000",
       "bread": "2025-06-06 03:24:30 +0000",
       "golden_apple": "2025-06-06 04:20:53 +0000",
-      "golden_carrot": "2025-06-11 03:22:50 +0000"
+      "melon_slice": "2025-06-13 02:34:17 +0000",
+      "golden_carrot": "2025-06-11 03:22:50 +0000",
+      "enchanted_golden_apple": "2025-06-13 02:34:17 +0000"
     },
     "done": false
   },
@@ -1771,6 +1773,7 @@
       "byg:red_oak_forest": "2025-06-08 00:36:04 +0000",
       "byg:redwood_thicket": "2025-06-10 03:25:32 +0000",
       "byg:fragment_forest": "2025-06-06 03:37:00 +0000",
+      "byg:white_mangrove_marshes": "2025-06-13 02:32:54 +0000",
       "byg:firecracker_shrubland": "2025-06-08 00:46:07 +0000",
       "byg:araucaria_savanna": "2025-06-08 00:46:58 +0000",
       "byg:crag_gardens": "2025-06-06 03:28:32 +0000",
@@ -1887,7 +1890,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-13 02:20:16 +0000"
+      "not_target": "2025-06-13 02:39:30 +0000"
     },
     "done": false
   },

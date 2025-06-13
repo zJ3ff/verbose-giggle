@@ -936,7 +936,8 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smithingtable": "2025-06-06 03:27:36 +0000",
-      "blastfurnace": "2025-06-06 03:27:36 +0000"
+      "blastfurnace": "2025-06-06 03:27:36 +0000",
+      "lectern": "2025-06-13 02:32:19 +0000"
     },
     "done": false
   },

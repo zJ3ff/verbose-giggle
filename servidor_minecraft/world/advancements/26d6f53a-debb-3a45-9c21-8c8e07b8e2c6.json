@@ -402,6 +402,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-13 02:31:10 +0000",
       "entered_hay_storage": "2025-06-09 04:17:51 +0000"
     },
     "done": false
@@ -620,6 +621,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-06-13 02:36:01 +0000"
     },
     "done": true
   },

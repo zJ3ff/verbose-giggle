@@ -4078,3 +4078,151 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [13Jun2025 02:23:33.255] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2571, y=78, z=1323}
 [13Jun2025 02:23:34.013] [Worker-Main11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
 [13Jun2025 02:23:34.015] [Worker-Main11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Jun2025 02:23:48.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5069ms or 101 ticks behind
+[13Jun2025 02:24:22.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[13Jun2025 02:24:24.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Jun2025 02:24:24.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Jun2025 02:24:46.580] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:24:46.581] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:24:46.581] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:24:46.581] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:25:04.229] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:25:04.230] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:25:04.230] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:25:13.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:25:13.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:25:13.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:25:13.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:25:37.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy XD
+[13Jun2025 02:25:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> perdon jaime
+[13Jun2025 02:25:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> queria ver
+[13Jun2025 02:25:56.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[13Jun2025 02:26:09.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[13Jun2025 02:26:15.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> te di un scroll sin querer
+[13Jun2025 02:26:19.684] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[13Jun2025 02:26:35.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me lo pasas XD
+[13Jun2025 02:26:42.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jaime
+[13Jun2025 02:26:49.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> que
+[13Jun2025 02:27:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> te di un scroll de skill point sin querer
+[13Jun2025 02:27:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> me lo pasas pls XD
+[13Jun2025 02:27:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ty
+[13Jun2025 02:27:39.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:27:39.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:27:39.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:27:39.184] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:27:58.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> vamo a buscar dung
+[13Jun2025 02:27:59.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> tengo el autotrader
+[13Jun2025 02:28:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> pa encontrar encantamiento reparacion
+[13Jun2025 02:28:34.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[13Jun2025 02:28:39.438] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:28:39.439] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:28:39.439] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:28:39.439] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:29:09.629] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[13Jun2025 02:29:12.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/21735, l='ServerLevel[world]', x=2491.50, y=74.00, z=715.50]
+[13Jun2025 02:29:18.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/21920, l='ServerLevel[world]', x=2397.50, y=76.00, z=690.50]
+[13Jun2025 02:29:22.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/22399, l='ServerLevel[world]', x=2441.50, y=71.00, z=741.50]
+[13Jun2025 02:29:41.984] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:29:41.984] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:29:41.985] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:29:41.985] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 02:29:46.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/22771, l='ServerLevel[world]', x=2451.50, y=71.00, z=742.50]
+[13Jun2025 02:30:09.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> no te acerques jaun xD
+[13Jun2025 02:30:09.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[13Jun2025 02:30:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> haime busquemos dung
+[13Jun2025 02:30:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> bueno xd
+[13Jun2025 02:31:09.400] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:31:09.400] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:31:36.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:31:36.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:31:36.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:31:36.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:31:36.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:31:43.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26538, l='ServerLevel[world]', x=2435.50, y=71.00, z=759.50]
+[13Jun2025 02:31:48.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> avisa si encuentras
+[13Jun2025 02:31:53.920] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/26970, l='ServerLevel[world]', x=2440.50, y=71.00, z=739.50]
+[13Jun2025 02:32:03.769] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/27163, l='ServerLevel[world]', x=2440.50, y=71.00, z=741.50]
+[13Jun2025 02:32:04.501] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:32:07.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:32:07.190] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:32:07.190] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:32:07.190] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 02:32:11.320] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[13Jun2025 02:32:11.320] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[13Jun2025 02:33:03.650] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:33:03.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:33:03.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:33:03.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 02:33:05.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:33:05.607] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:33:05.607] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:33:14.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31921, l='ServerLevel[world]', x=2415.50, y=73.00, z=707.50]
+[13Jun2025 02:33:21.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[13Jun2025 02:33:31.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:33:31.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:33:31.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:33:31.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:33:54.919] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/34728, l='ServerLevel[world]', x=2442.50, y=71.00, z=741.50]
+[13Jun2025 02:34:05.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/713, l='ServerLevel[world]', x=2267.70, y=-19.00, z=1004.70] died: Yomach the Toxic was slain by Enraged Troll
+[13Jun2025 02:34:08.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/35361, l='ServerLevel[world]', x=2492.50, y=74.00, z=715.50]
+[13Jun2025 02:34:11.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/35398, l='ServerLevel[world]', x=2435.50, y=71.00, z=758.50]
+[13Jun2025 02:34:22.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Maw['Vandav'/27644, l='ServerLevel[world]', x=2281.00, y=79.00, z=1056.60] died: Vandav was struck by lightning whilst fighting art
+[13Jun2025 02:35:00.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:35:00.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:35:00.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:35:00.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:35:16.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:35:16.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:35:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> encontre xd
+[13Jun2025 02:35:26.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/38094, l='ServerLevel[world]', x=2417.50, y=73.00, z=706.50]
+[13Jun2025 02:35:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> tpa te jaun
+[13Jun2025 02:35:29.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:35:29.987] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 02:35:51.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:35:51.926] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:35:51.927] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:36:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [What Was That!?]
+[13Jun2025 02:36:05.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> e
+[13Jun2025 02:36:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[13Jun2025 02:36:07.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:36:07.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:36:07.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:36:07.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 02:36:24.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 moved wrongly!
+[13Jun2025 02:36:46.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/39287, l='ServerLevel[world]', x=2493.50, y=74.00, z=713.50]
+[13Jun2025 02:37:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was struck by lightning
+[13Jun2025 02:37:12.631] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:37:12.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:37:12.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 02:37:12.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:37:24.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> ya XD
+[13Jun2025 02:37:26.717] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40770, l='ServerLevel[world]', x=2489.50, y=74.00, z=756.50]
+[13Jun2025 02:37:30.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/api/item/inv/InteractType
+[13Jun2025 02:37:30.619] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/items/ItemScroll$SortPref
+[13Jun2025 02:38:00.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40944, l='ServerLevel[world]', x=2453.50, y=71.00, z=743.50]
+[13Jun2025 02:38:01.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40951, l='ServerLevel[world]', x=2415.50, y=73.00, z=706.50]
+[13Jun2025 02:38:08.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 02:38:08.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:38:08.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 02:38:08.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:39:26.017] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[13Jun2025 02:39:26.017] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[13Jun2025 02:39:39.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:39:39.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 02:39:39.791] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 02:39:39.791] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:40:05.767] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41783, l='ServerLevel[world]', x=2491.50, y=74.00, z=757.50]
+[13Jun2025 02:40:14.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> donde se baja jaime
+[13Jun2025 02:40:14.517] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41823, l='ServerLevel[world]', x=2436.50, y=71.00, z=759.50]
+[13Jun2025 02:40:46.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 02:40:46.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:40:46.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 02:40:48.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41990, l='ServerLevel[world]', x=2437.50, y=71.00, z=759.50]
+[13Jun2025 02:41:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> tpa te jaun
+[13Jun2025 02:41:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> muertos
+[13Jun2025 02:41:39.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[13Jun2025 02:41:41.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42820, l='ServerLevel[world]', x=2417.50, y=73.00, z=707.50]
+[13Jun2025 02:41:57.318] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42887, l='ServerLevel[world]', x=2493.50, y=74.00, z=715.50]
+[13Jun2025 02:42:00.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> ten xD
+[13Jun2025 02:42:18.067] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/42980, l='ServerLevel[world]', x=2441.50, y=71.00, z=739.50]
+[13Jun2025 02:43:21.200] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f67714c
