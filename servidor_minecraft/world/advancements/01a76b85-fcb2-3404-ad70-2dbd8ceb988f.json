@@ -1080,6 +1080,12 @@
     },
     "done": false
   },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-06-13 04:47:23 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
