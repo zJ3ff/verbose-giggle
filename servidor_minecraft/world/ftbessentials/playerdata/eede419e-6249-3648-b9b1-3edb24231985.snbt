@@ -1,6 +1,6 @@
 {
 	muted: false
-	fly: false
+	fly: true
 	god: false
 	nick: ""
 	last_seen: { dim: "minecraft:overworld", x: 2433, y: 28, z: 769, time: 1749784725364L, xRot: 13.511064f, yRot: -12.374573f }

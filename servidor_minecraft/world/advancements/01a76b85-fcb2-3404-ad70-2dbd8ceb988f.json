@@ -651,6 +651,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-06-13 03:39:14 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:58:30 +0000"
@@ -1872,6 +1878,12 @@
   "enigmaticlegacy:recipes/generic/monster_charm": {
     "criteria": {
       "has_items": "2025-06-11 05:17:19 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2025-06-13 03:42:47 +0000"
     },
     "done": true
   },

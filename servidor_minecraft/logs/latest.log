@@ -4732,3 +4732,136 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [13Jun2025 03:34:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
 [13Jun2025 03:35:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Skeleton
 [13Jun2025 03:35:43.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Skeleton
+[13Jun2025 03:36:26.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Wither Skeleton
+[13Jun2025 03:37:20.997] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 03:37:20.997] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 03:37:20.997] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 03:38:33.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=873, y=4, z=3231} BlockPos{x=871, y=4, z=3228}
+[13Jun2025 03:39:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que lag
+[13Jun2025 03:39:08.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[13Jun2025 03:39:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [He Was Number One!]
+[13Jun2025 03:39:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[13Jun2025 03:39:39.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TanatosGX lost connection: Disconnected
+[13Jun2025 03:39:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX left the game
+[13Jun2025 03:39:57.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 lost connection: Disconnected
+[13Jun2025 03:39:57.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 left the game
+[13Jun2025 03:40:22.531] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4542dc9d[id=<null>,name=TanatosGX,properties={},legacy=false] (/10.147.17.51:50514) lost connection: Disconnected
+[13Jun2025 03:40:51.650] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 03:40:51.651] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 03:40:51.652] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 03:40:51.654] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 03:40:51.654] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 03:40:51.654] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 03:40:51.655] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 03:40:51.655] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 03:40:51.655] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 03:40:51.655] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 03:40:51.656] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 03:40:51.656] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 03:41:06.254] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 03:41:07.730] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 03:41:10.752] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 03:41:10.829] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@351befe6
+[13Jun2025 03:41:10.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaime_A1[/10.147.17.84:62094] logged in with entity id 121109 at (858.4631678506237, 2.0, 3229.817895766293)
+[13Jun2025 03:41:10.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jaime_A1
+[13Jun2025 03:41:10.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jaime_A1
+[13Jun2025 03:41:10.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jaime_A1
+[13Jun2025 03:41:10.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jaime_A1
+[13Jun2025 03:41:10.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jaime_A1
+[13Jun2025 03:41:10.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jaime_A1
+[13Jun2025 03:41:10.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jaime_A1
+[13Jun2025 03:41:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 joined the game
+[13Jun2025 03:41:10.957] [Server thread/INFO] [Jade/]: Syncing config to Jaime_A1 (d712a61a-3914-3e07-b7a6-1f6316bf560e)
+[13Jun2025 03:41:11.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Jaime_A1...
+[13Jun2025 03:41:11.011] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 03:41:11.011] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 03:41:11.012] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Jaime_A1
+[13Jun2025 03:41:11.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jeff hpta
+[13Jun2025 03:41:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que
+[13Jun2025 03:41:17.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> re malpardio
+[13Jun2025 03:41:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> lo odio
+[13Jun2025 03:41:21.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> que quiere gonorrea
+[13Jun2025 03:41:39.754] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 03:41:39.754] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 03:41:39.754] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 03:41:39.754] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 03:41:39.755] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 03:41:39.755] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 03:41:39.755] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 03:41:39.755] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 03:41:39.755] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 03:41:39.755] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 03:41:39.756] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 03:41:39.756] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 03:41:58.361] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 03:41:59.395] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 03:41:59.686] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@857d59d[id=<null>,name=TanatosGX,properties={},legacy=false] (/10.147.17.51:50554) lost connection: Disconnected
+[13Jun2025 03:42:30.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 03:42:30.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 03:42:30.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 03:42:47.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Ignoring the Advices]
+[13Jun2025 03:43:00.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 03:43:00.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 03:43:00.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 03:43:00.203] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 03:43:00.203] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 03:43:00.204] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 03:43:20.640] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 03:43:23.568] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 03:43:26.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 03:43:26.092] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@415fa2de
+[13Jun2025 03:43:26.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TanatosGX[/10.147.17.51:50700] logged in with entity id 122898 at (873.9518320789349, 3.0, 3231.241526177216)
+[13Jun2025 03:43:26.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to TanatosGX
+[13Jun2025 03:43:26.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to TanatosGX
+[13Jun2025 03:43:26.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to TanatosGX
+[13Jun2025 03:43:26.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to TanatosGX
+[13Jun2025 03:43:26.140] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to TanatosGX
+[13Jun2025 03:43:26.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to TanatosGX
+[13Jun2025 03:43:26.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to TanatosGX
+[13Jun2025 03:43:26.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX joined the game
+[13Jun2025 03:43:26.243] [Server thread/INFO] [Jade/]: Syncing config to TanatosGX (355a9258-55ca-327a-9183-54003bc6f271)
+[13Jun2025 03:43:26.287] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to TanatosGX...
+[13Jun2025 03:43:26.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 03:43:26.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 03:43:26.288] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to TanatosGX
+[13Jun2025 03:43:36.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Ignoring the Advices]
+[13Jun2025 03:43:53.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 lost connection: Timed out
+[13Jun2025 03:43:53.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 left the game
+[13Jun2025 03:44:17.273] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 03:44:17.313] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 03:44:17.371] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 03:44:17.416] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 03:44:17.466] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 03:44:17.516] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 03:44:17.565] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 03:44:17.622] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 03:44:17.669] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 03:44:17.719] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 03:44:17.768] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 03:44:17.816] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 03:44:18.172] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 03:44:18.173] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 03:44:18.177] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 03:44:18.237] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25da67d3
+[13Jun2025 03:44:18.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaime_A1[/10.147.17.84:62621] logged in with entity id 123178 at (858.4631678506237, 2.0, 3229.817895766293)
+[13Jun2025 03:44:18.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jaime_A1
+[13Jun2025 03:44:18.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jaime_A1
+[13Jun2025 03:44:18.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jaime_A1
+[13Jun2025 03:44:18.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jaime_A1
+[13Jun2025 03:44:18.286] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jaime_A1
+[13Jun2025 03:44:18.287] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jaime_A1
+[13Jun2025 03:44:18.287] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jaime_A1
+[13Jun2025 03:44:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 joined the game
+[13Jun2025 03:44:18.401] [Server thread/INFO] [Jade/]: Syncing config to Jaime_A1 (d712a61a-3914-3e07-b7a6-1f6316bf560e)
+[13Jun2025 03:44:18.447] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Jaime_A1...
+[13Jun2025 03:44:18.447] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 03:44:18.448] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 03:44:18.448] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Jaime_A1
+[13Jun2025 03:45:09.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=856, y=4, z=3222} BlockPos{x=862, y=5, z=3224}
+[13Jun2025 03:45:36.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 moved wrongly!
