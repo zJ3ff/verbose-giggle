@@ -1,40 +1,40 @@
-[03:00:01.942][INFO]: Successfully injected RecipeFS file system
-[03:00:02.007][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[03:00:02.008][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[03:00:02.014][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[03:00:02.908][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[03:00:02.911][INFO]: - 'aether' at version '1.19.2-1.4.2-forge'
-[03:00:02.912][INFO]: - 'aquaculture' at version '1.19.2-2.4.17'
-[03:00:02.912][INFO]: - 'crafttweaker' at version '10.1.56'
-[03:00:02.915][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
-[03:00:02.915][INFO]: - 'gamestages' at version '11.1.4'
-[03:00:02.915][INFO]: - 'itemstages' at version '5.1.4'
-[03:00:19.539][INFO]: Started loading scripts for loader 'initialize'
-[03:00:20.255][INFO]: Compiling and executing scripts
-[03:00:20.343][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[03:00:20.458][INFO]: Execution for loader 'initialize' completed successfully
-[03:00:31.424][INFO]: Started loading scripts for loader 'tags'
-[03:00:31.464][INFO]: Compiling and executing scripts
-[03:00:31.484][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[03:00:31.497][INFO]: Execution for loader 'tags' completed successfully
-[03:00:37.080][INFO]: Started loading scripts for loader 'crafttweaker'
-[03:00:37.107][INFO]: Compiling and executing scripts
-[03:00:37.459][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[03:00:37.462][INFO]: Loading file 'Cisco.zs' with priority 0
-[03:00:37.483][INFO]: Hello world!
-[03:00:37.486][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_chestplate' that outputs: '<item:dreadsteel:dreadsteel_chestplate>'
-[03:00:37.487][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_helmet' that outputs: '<item:dreadsteel:dreadsteel_helmet>'
-[03:00:37.487][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_boots' that outputs: '<item:dreadsteel:dreadsteel_boots>'
-[03:00:37.487][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_leggings' that outputs: '<item:dreadsteel:dreadsteel_leggings>'
-[03:00:37.488][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_ingot_recipe' that outputs: '<item:dreadsteel:dreadsteel_ingot>'
-[03:00:37.488][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_scythe_recipe' that outputs: '<item:dreadsteel:dreadsteel_scythe>'
-[03:00:37.488][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_shield_recipe' that outputs: '<item:dreadsteel:dreadsteel_shield>'
-[03:00:37.489][INFO]: Removing "minecraft:crafting" recipes with modid: "dreadsteel"
-[03:00:37.491][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amnesia_scroll' that outputs: '<item:skilltree:amnesia_scroll>'
-[03:00:37.491][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:true_dragons_breath' that outputs: '<item:cisco_mod:true_dragons_breath>'
-[03:00:37.494][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rogue_eye' that outputs: '<item:endrem:rogue_eye>.withTag({Damage: 0})'
-[03:00:37.494][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:undead_soul' that outputs: '<item:endrem:undead_soul>'
-[03:00:37.494][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:demonium_ingot_recipe' that outputs: '<item:cisco_mod:demonium_ingot>'
-[03:00:37.494][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:frigidium_ingot_recipe' that outputs: '<item:cisco_mod:frigidiumingot>'
-[03:00:37.495][INFO]: Execution for loader 'crafttweaker' completed successfully
-[03:00:37.496][INFO]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[01:54:05.659][INFO]: Successfully injected RecipeFS file system
+[01:54:05.708][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[01:54:05.709][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[01:54:05.712][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[01:54:06.428][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[01:54:06.428][INFO]: - 'aether' at version '1.19.2-1.4.2-forge'
+[01:54:06.429][INFO]: - 'aquaculture' at version '1.19.2-2.4.17'
+[01:54:06.429][INFO]: - 'crafttweaker' at version '10.1.56'
+[01:54:06.429][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
+[01:54:06.429][INFO]: - 'gamestages' at version '11.1.4'
+[01:54:06.429][INFO]: - 'itemstages' at version '5.1.4'
+[01:54:19.755][INFO]: Started loading scripts for loader 'initialize'
+[01:54:20.629][INFO]: Compiling and executing scripts
+[01:54:20.723][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[01:54:20.956][INFO]: Execution for loader 'initialize' completed successfully
+[01:55:20.862][INFO]: Started loading scripts for loader 'tags'
+[01:55:20.901][INFO]: Compiling and executing scripts
+[01:55:20.920][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[01:55:20.934][INFO]: Execution for loader 'tags' completed successfully
+[01:55:29.302][INFO]: Started loading scripts for loader 'crafttweaker'
+[01:55:29.323][INFO]: Compiling and executing scripts
+[01:55:29.680][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[01:55:29.683][INFO]: Loading file 'Cisco.zs' with priority 0
+[01:55:29.712][INFO]: Hello world!
+[01:55:29.715][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_chestplate' that outputs: '<item:dreadsteel:dreadsteel_chestplate>'
+[01:55:29.716][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_helmet' that outputs: '<item:dreadsteel:dreadsteel_helmet>'
+[01:55:29.716][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_boots' that outputs: '<item:dreadsteel:dreadsteel_boots>'
+[01:55:29.716][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_leggings' that outputs: '<item:dreadsteel:dreadsteel_leggings>'
+[01:55:29.717][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_ingot_recipe' that outputs: '<item:dreadsteel:dreadsteel_ingot>'
+[01:55:29.717][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_scythe_recipe' that outputs: '<item:dreadsteel:dreadsteel_scythe>'
+[01:55:29.717][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_shield_recipe' that outputs: '<item:dreadsteel:dreadsteel_shield>'
+[01:55:29.718][INFO]: Removing "minecraft:crafting" recipes with modid: "dreadsteel"
+[01:55:29.720][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amnesia_scroll' that outputs: '<item:skilltree:amnesia_scroll>'
+[01:55:29.721][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:true_dragons_breath' that outputs: '<item:cisco_mod:true_dragons_breath>'
+[01:55:29.723][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rogue_eye' that outputs: '<item:endrem:rogue_eye>.withTag({Damage: 0})'
+[01:55:29.724][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:undead_soul' that outputs: '<item:endrem:undead_soul>'
+[01:55:29.724][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:demonium_ingot_recipe' that outputs: '<item:cisco_mod:demonium_ingot>'
+[01:55:29.724][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:frigidium_ingot_recipe' that outputs: '<item:cisco_mod:frigidiumingot>'
+[01:55:29.724][INFO]: Execution for loader 'crafttweaker' completed successfully
+[01:55:29.726][INFO]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

@@ -1436,6 +1436,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-06-13 02:02:17 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2025-06-06 03:28:44 +0000"
@@ -1452,6 +1458,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-06-13 02:02:17 +0000"
     },
     "done": true
   },

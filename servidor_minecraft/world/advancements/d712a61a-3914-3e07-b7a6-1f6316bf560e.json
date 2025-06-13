@@ -717,6 +717,12 @@
     },
     "done": false
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-13 02:08:44 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/cosmic_heart": {
     "criteria": {
       "has_the_recipe": "2025-06-10 03:47:37 +0000"
@@ -1308,6 +1314,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2025-06-13 02:01:21 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-06-08 00:00:01 +0000"
@@ -1399,6 +1411,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-06-13 02:08:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2025-06-10 03:30:27 +0000"
@@ -1415,6 +1433,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-06-13 02:08:43 +0000"
     },
     "done": true
   },
@@ -1855,7 +1879,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-06-11 05:24:50 +0000"
+      "not_target": "2025-06-13 02:09:08 +0000"
     },
     "done": false
   },
@@ -1999,6 +2023,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:lucky_rock": {
+    "criteria": {
+      "picked_up_accessory": "2025-06-13 02:05:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"
@@ -2100,6 +2130,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-06-06 03:21:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-13 02:08:44 +0000"
     },
     "done": true
   },
