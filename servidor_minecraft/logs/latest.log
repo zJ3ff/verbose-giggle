@@ -4865,3 +4865,97 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [13Jun2025 03:44:18.448] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Jaime_A1
 [13Jun2025 03:45:09.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=856, y=4, z=3222} BlockPos{x=862, y=5, z=3224}
 [13Jun2025 03:45:36.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaime_A1 moved wrongly!
+[13Jun2025 03:47:09.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[13Jun2025 03:47:46.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was shot by Stray
+[13Jun2025 03:48:18.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Skeleton
+[13Jun2025 03:48:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was blown up by Creeper
+[13Jun2025 03:49:49.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=879, y=-7, z=3209} BlockPos{x=878, y=-7, z=3208}
+[13Jun2025 03:49:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Zombie
+[13Jun2025 03:50:05.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Zombie
+[13Jun2025 03:50:12.190] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 03:50:14.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> oh bruh
+[13Jun2025 03:50:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Zombie
+[13Jun2025 03:50:36.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Zombie
+[13Jun2025 03:51:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Zombie
+[13Jun2025 03:51:39.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> camper de mierda
+[13Jun2025 03:51:54.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJ3ff lost connection: Disconnected
+[13Jun2025 03:51:54.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff left the game
+[13Jun2025 03:52:13.160] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 03:52:13.205] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 03:52:13.307] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 03:52:13.307] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 03:52:13.359] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 03:52:13.416] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 03:52:13.465] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 03:52:13.514] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 03:52:13.563] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 03:52:13.608] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 03:52:13.660] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 03:52:13.706] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 03:52:13.867] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 03:52:13.910] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 03:52:13.912] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 03:52:13.987] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69ff239b
+[13Jun2025 03:52:13.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJ3ff[/10.147.17.225:59203] logged in with entity id 130099 at (856.2772172158958, -6.0, 3246.997509661492)
+[13Jun2025 03:52:14.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zJ3ff
+[13Jun2025 03:52:14.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zJ3ff
+[13Jun2025 03:52:14.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zJ3ff
+[13Jun2025 03:52:14.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zJ3ff
+[13Jun2025 03:52:14.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zJ3ff
+[13Jun2025 03:52:14.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zJ3ff
+[13Jun2025 03:52:14.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zJ3ff
+[13Jun2025 03:52:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff joined the game
+[13Jun2025 03:52:14.129] [Server thread/INFO] [Jade/]: Syncing config to zJ3ff (eede419e-6249-3648-b9b1-3edb24231985)
+[13Jun2025 03:52:14.175] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to zJ3ff...
+[13Jun2025 03:52:14.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 03:52:14.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 03:52:14.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to zJ3ff
+[13Jun2025 03:53:44.134] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 03:53:44.134] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 03:53:44.134] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 03:53:44.134] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 03:53:50.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['art'/128447, l='ServerLevel[world]', x=831.42, y=21.00, z=3231.50] died: art was burnt to a crisp whilst fighting art
+[13Jun2025 03:54:10.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> voy a tirar
+[13Jun2025 03:54:12.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['art'/129426, l='ServerLevel[world]', x=820.16, y=22.00, z=3262.55] died: art burned to death
+[13Jun2025 03:55:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Apothic Spawners]
+[13Jun2025 04:00:47.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
+[13Jun2025 04:01:02.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was devoured by darkness
+[13Jun2025 04:02:03.878] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:02:03.878] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:02:03.878] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 04:02:05.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was devoured by darkness
+[13Jun2025 04:02:05.826] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:02:05.826] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:02:11.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 04:02:11.188] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 04:02:11.188] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:02:18.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was devoured by darkness
+[13Jun2025 04:02:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was devoured by darkness
+[13Jun2025 04:02:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper was devoured by darkness
+[13Jun2025 04:02:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was devoured by darkness
+[13Jun2025 04:02:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> bro
+[13Jun2025 04:02:48.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> que es eso
+[13Jun2025 04:02:51.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XDDD
+[13Jun2025 04:02:57.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> wtf
+[13Jun2025 04:03:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy tivu
+[13Jun2025 04:03:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> arobar a su madre
+[13Jun2025 04:03:19.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChristianR3aper> juan
+[13Jun2025 04:05:00.675] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:05:00.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 04:05:00.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 04:05:00.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:05:42.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[13Jun2025 04:05:42.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:05:42.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:05:42.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 04:06:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was devoured by darkness
+[13Jun2025 04:06:25.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Listen Close]
+[13Jun2025 04:06:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was devoured by darkness
+[13Jun2025 04:06:34.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:06:34.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:06:34.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 04:06:34.225] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:06:34.951] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 04:06:34.951] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:06:34.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 04:06:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Listen Close]

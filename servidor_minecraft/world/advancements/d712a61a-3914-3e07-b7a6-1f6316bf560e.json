@@ -489,9 +489,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-06-13 03:52:20 +0000",
       "log_spam_fixer": "2025-06-06 03:10:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "simplyswords:bramblethorn": {
     "criteria": {
