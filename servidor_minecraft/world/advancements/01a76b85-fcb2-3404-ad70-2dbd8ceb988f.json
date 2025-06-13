@@ -2196,6 +2196,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-06-13 05:25:37 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-06-05 19:58:30 +0000",

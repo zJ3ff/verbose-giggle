@@ -6095,3 +6095,60 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Jun2025 05:19:07.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [13Jun2025 05:19:07.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [13Jun2025 05:19:07.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:20:17.970] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 05:20:18.006] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 05:20:18.066] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 05:20:18.146] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 05:20:18.161] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 05:20:18.206] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 05:20:18.255] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 05:20:18.304] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 05:20:18.355] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 05:20:18.407] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 05:20:18.455] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 05:20:18.503] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 05:20:19.988] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 05:20:19.990] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 05:20:19.997] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 05:20:20.084] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f30fcbe
+[13Jun2025 05:20:20.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:59438] logged in with entity id 170092 at (798.152222075028, 30.0, 3229.909677654906)
+[13Jun2025 05:20:20.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[13Jun2025 05:20:20.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[13Jun2025 05:20:20.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[13Jun2025 05:20:20.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[13Jun2025 05:20:20.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[13Jun2025 05:20:20.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[13Jun2025 05:20:20.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[13Jun2025 05:20:20.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[13Jun2025 05:20:20.221] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[13Jun2025 05:20:20.275] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[13Jun2025 05:20:20.275] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 05:20:20.275] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 05:20:20.276] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[13Jun2025 05:21:46.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:21:46.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:21:46.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:21:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> loco, los creeper spawnean a tus espaldas bien marica
+[13Jun2025 05:22:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:22:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:22:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:22:01.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:24:43.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Spectator Mode]
+[13Jun2025 05:25:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[13Jun2025 05:25:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJ3ff has made the advancement [Battle Towers?]
+[13Jun2025 05:25:37.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper has made the advancement [Battle Towers?]
+[13Jun2025 05:25:38.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:25:38.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:25:38.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:25:38.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:26:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> MALDITO GATO, CUANDO LO AGARRE LO VOY A ASAR
+[13Jun2025 05:27:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> yamevoy
+[13Jun2025 05:27:30.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TanatosGX lost connection: Disconnected
+[13Jun2025 05:27:30.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX left the game
+[13Jun2025 05:27:48.030] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:27:48.030] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:27:48.030] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:28:40.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Spectator Mode]
+[13Jun2025 05:29:01.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:29:01.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 05:29:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]

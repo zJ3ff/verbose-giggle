@@ -1886,7 +1886,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "ratatouille": "2025-06-13 03:21:57 +0000"
+      "ratatouille": "2025-06-13 03:21:57 +0000",
+      "bacon_and_eggs": "2025-06-13 05:16:50 +0000"
     },
     "done": false
   },
@@ -2264,7 +2265,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-06-13 05:08:20 +0000"
+      "target": "2025-06-13 05:25:49 +0000"
     },
     "done": false
   },
@@ -2289,6 +2290,12 @@
   "enigmaticlegacy:main/unholy_grail": {
     "criteria": {
       "spellstone": "2025-06-13 03:43:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-06-13 05:25:33 +0000"
     },
     "done": true
   },

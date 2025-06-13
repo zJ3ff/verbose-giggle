@@ -751,6 +751,12 @@
     },
     "done": false
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-13 05:16:31 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/astral_dust": {
     "criteria": {
       "has_items": "2025-06-11 03:43:10 +0000"
@@ -1974,6 +1980,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-06-13 03:00:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-06-13 05:16:24 +0000"
     },
     "done": true
   },
