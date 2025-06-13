@@ -5813,3 +5813,161 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Jun2025 04:55:56.936] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [13Jun2025 04:55:56.936] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [13Jun2025 04:57:39.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX has completed the challenge [Descent Into Madness]
+[13Jun2025 05:00:18.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper lost connection: Disconnected
+[13Jun2025 05:00:18.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper left the game
+[13Jun2025 05:00:33.503] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 05:00:33.553] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 05:00:33.603] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 05:00:33.676] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 05:00:33.702] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 05:00:33.755] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 05:00:33.819] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 05:00:33.853] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 05:00:33.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 05:00:33.951] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 05:00:34.002] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 05:00:34.051] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 05:00:34.615] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 05:00:34.658] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 05:00:34.741] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 05:00:34.832] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@250909f2
+[13Jun2025 05:00:34.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:58888] logged in with entity id 163775 at (853.6999999880791, 22.00133597911215, 3267.3913563027277)
+[13Jun2025 05:00:34.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[13Jun2025 05:00:34.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[13Jun2025 05:00:34.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[13Jun2025 05:00:34.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[13Jun2025 05:00:34.868] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[13Jun2025 05:00:34.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[13Jun2025 05:00:34.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[13Jun2025 05:00:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[13Jun2025 05:00:34.960] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[13Jun2025 05:00:35.034] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[13Jun2025 05:00:35.035] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 05:00:35.035] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 05:00:35.036] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[13Jun2025 05:00:44.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> como funciona esto
+[13Jun2025 05:00:48.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[13Jun2025 05:01:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jaime
+[13Jun2025 05:01:06.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> tienes netherite juan
+[13Jun2025 05:01:11.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> nao XD
+[13Jun2025 05:02:18.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper lost connection: Disconnected
+[13Jun2025 05:02:18.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper left the game
+[13Jun2025 05:02:18.681] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jun2025 05:02:33.154] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 05:02:33.206] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 05:02:33.253] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 05:02:33.305] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 05:02:33.354] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 05:02:33.404] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 05:02:33.454] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 05:02:33.506] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 05:02:33.557] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 05:02:33.609] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 05:02:33.655] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 05:02:33.713] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 05:02:34.092] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 05:02:34.093] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 05:02:34.150] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 05:02:34.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@686c8204
+[13Jun2025 05:02:34.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:58934] logged in with entity id 164125 at (815.7739052904699, 21.0, 3295.0707873044335)
+[13Jun2025 05:02:34.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[13Jun2025 05:02:34.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[13Jun2025 05:02:34.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[13Jun2025 05:02:34.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[13Jun2025 05:02:34.290] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[13Jun2025 05:02:34.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[13Jun2025 05:02:34.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[13Jun2025 05:02:34.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[13Jun2025 05:02:34.403] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[13Jun2025 05:02:34.466] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[13Jun2025 05:02:34.466] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 05:02:34.466] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 05:02:34.467] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[13Jun2025 05:02:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> como funciona estooo
+[13Jun2025 05:03:09.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> jaime
+[13Jun2025 05:03:17.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 has reached the goal [Sleeping Giant]
+[13Jun2025 05:03:27.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pa que es esto
+[13Jun2025 05:03:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> mejora pareze
+[13Jun2025 05:03:41.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> pero necesita una cosa para eso
+[13Jun2025 05:03:46.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> para ponerle las gem
+[13Jun2025 05:03:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> a
+[13Jun2025 05:04:42.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> pide demasiado lvl
+[13Jun2025 05:04:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> Dios
+[13Jun2025 05:04:47.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> XD
+[13Jun2025 05:04:58.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y eso que tengo la clase para encantar
+[13Jun2025 05:05:01.582] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 05:05:01.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 05:05:01.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:05:06.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> y los skill points ahi
+[13Jun2025 05:06:18.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper lost connection: Disconnected
+[13Jun2025 05:06:18.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper left the game
+[13Jun2025 05:06:28.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:06:28.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 05:06:28.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:06:34.421] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 05:06:34.472] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 05:06:34.521] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 05:06:34.572] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 05:06:34.622] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 05:06:34.672] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 05:06:34.721] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 05:06:34.771] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 05:06:34.823] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 05:06:34.872] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 05:06:34.926] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 05:06:34.991] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 05:06:35.277] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 05:06:35.277] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 05:06:35.291] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 05:06:35.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fdd42f2
+[13Jun2025 05:06:35.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:58981] logged in with entity id 165233 at (801.0443824737401, 21.0, 3319.8600053060404)
+[13Jun2025 05:06:35.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[13Jun2025 05:06:35.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[13Jun2025 05:06:35.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[13Jun2025 05:06:35.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[13Jun2025 05:06:35.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[13Jun2025 05:06:35.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[13Jun2025 05:06:35.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[13Jun2025 05:06:35.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[13Jun2025 05:06:35.507] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[13Jun2025 05:06:35.553] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[13Jun2025 05:06:35.554] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 05:06:35.554] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 05:06:35.554] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper
+[13Jun2025 05:07:12.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 05:07:12.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 05:07:12.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 05:07:12.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[13Jun2025 05:08:18.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChristianR3aper lost connection: Disconnected
+[13Jun2025 05:08:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper left the game
+[13Jun2025 05:08:20.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['art'/128895, l='ServerLevel[world]', x=831.68, y=30.00, z=3286.57] died: art was slain by zJ3ff
+[13Jun2025 05:08:33.122] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[13Jun2025 05:08:33.170] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[13Jun2025 05:08:33.223] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[13Jun2025 05:08:33.273] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[13Jun2025 05:08:33.324] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[13Jun2025 05:08:33.370] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[13Jun2025 05:08:33.422] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[13Jun2025 05:08:33.477] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[13Jun2025 05:08:33.524] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[13Jun2025 05:08:33.610] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[13Jun2025 05:08:33.621] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[13Jun2025 05:08:33.671] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[13Jun2025 05:08:34.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[13Jun2025 05:08:34.004] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[13Jun2025 05:08:34.106] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[13Jun2025 05:08:34.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c0fe6dc
+[13Jun2025 05:08:34.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChristianR3aper[/10.147.17.175:58995] logged in with entity id 165869 at (816.5528352149405, 31.0, 3284.047190696726)
+[13Jun2025 05:08:34.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ChristianR3aper
+[13Jun2025 05:08:34.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ChristianR3aper
+[13Jun2025 05:08:34.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ChristianR3aper
+[13Jun2025 05:08:34.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ChristianR3aper
+[13Jun2025 05:08:34.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ChristianR3aper
+[13Jun2025 05:08:34.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ChristianR3aper
+[13Jun2025 05:08:34.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ChristianR3aper
+[13Jun2025 05:08:34.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChristianR3aper joined the game
+[13Jun2025 05:08:34.317] [Server thread/INFO] [Jade/]: Syncing config to ChristianR3aper (01a76b85-fcb2-3404-ad70-2dbd8ceb988f)
+[13Jun2025 05:08:34.359] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ChristianR3aper...
+[13Jun2025 05:08:34.360] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[13Jun2025 05:08:34.360] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 05:08:34.360] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ChristianR3aper

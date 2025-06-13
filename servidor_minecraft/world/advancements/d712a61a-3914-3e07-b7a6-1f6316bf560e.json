@@ -2202,6 +2202,12 @@
     },
     "done": true
   },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-06-13 05:03:17 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:42 +0000"

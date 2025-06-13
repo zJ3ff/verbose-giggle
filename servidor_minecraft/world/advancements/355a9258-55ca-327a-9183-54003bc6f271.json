@@ -1134,6 +1134,12 @@
     },
     "done": true
   },
+  "cisco_mod:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2025-06-13 04:57:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:10:24 +0000"
