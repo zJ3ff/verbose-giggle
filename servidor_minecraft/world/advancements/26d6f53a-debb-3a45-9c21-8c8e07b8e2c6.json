@@ -132,6 +132,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/etherium_ore": {
+    "criteria": {
+      "generic_revelation": "2025-06-13 03:26:27 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
@@ -1215,6 +1221,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/corrupted_tome": {
+    "criteria": {
+      "has_items": "2025-06-13 03:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-06-10 03:23:23 +0000"
@@ -1595,6 +1607,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-06-13 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "atmospheric:rainforest_basin": "2025-06-09 04:01:32 +0000",
@@ -1630,26 +1648,6 @@
       "has_the_recipe": "2025-06-06 04:23:29 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-06-13 03:20:32 +0000",
-      "!bit14": "2025-06-13 03:20:32 +0000",
-      "!bit11": "2025-06-13 03:20:32 +0000",
-      "!bit12": "2025-06-13 03:20:32 +0000",
-      "!bit10": "2025-06-13 03:20:32 +0000",
-      "!bit9": "2025-06-13 03:20:32 +0000",
-      "!bit8": "2025-06-13 03:20:32 +0000",
-      "!bit7": "2025-06-13 03:20:32 +0000",
-      "!bit6": "2025-06-13 03:20:32 +0000",
-      "!bit5": "2025-06-13 03:20:32 +0000",
-      "!bit4": "2025-06-13 03:20:32 +0000",
-      "!bit3": "2025-06-13 03:20:32 +0000",
-      "!bit2": "2025-06-13 03:20:32 +0000",
-      "!bit1": "2025-06-13 03:20:32 +0000",
-      "!bit0": "2025-06-13 03:20:32 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1752,6 +1750,12 @@
     "criteria": {
       "has_recipe": "2025-06-06 04:23:29 +0000",
       "has_compass": "2025-06-06 04:23:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-13 03:32:35 +0000"
     },
     "done": true
   },

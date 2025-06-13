@@ -1944,6 +1944,12 @@
     },
     "done": true
   },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-06-13 03:21:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-06-06 03:10:24 +0000"

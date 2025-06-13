@@ -4687,3 +4687,48 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [13Jun2025 03:24:27.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
 [13Jun2025 03:24:59.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> quita jaime
 [13Jun2025 03:25:25.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> toca romper el spawner
+[13Jun2025 03:25:39.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> loco
+[13Jun2025 03:25:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> que mierda con ese spawn
+[13Jun2025 03:25:59.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Cursed Armor
+[13Jun2025 03:25:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaime_A1> }ds
+[13Jun2025 03:26:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was frozen to death by TanatosGX
+[13Jun2025 03:26:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Skeleton
+[13Jun2025 03:26:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Skeleton
+[13Jun2025 03:27:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> SON MUCHOS DIOS
+[13Jun2025 03:27:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Skeleton
+[13Jun2025 03:27:17.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> como a usted le gusta que le den juan
+[13Jun2025 03:27:18.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJ3ff> muchos
+[13Jun2025 03:27:22.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was slain by Skeleton
+[13Jun2025 03:28:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art was struck by lightning whilst fighting art
+[13Jun2025 03:28:13.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was struck by lightning
+[13Jun2025 03:28:18.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> missclick
+[13Jun2025 03:28:18.803] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 03:28:18.804] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 03:28:18.804] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 03:29:28.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tengo 4 lootbag
+[13Jun2025 03:29:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> uy q
+[13Jun2025 03:29:46.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> XD
+[13Jun2025 03:29:48.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[13Jun2025 03:29:48.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 03:29:48.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[13Jun2025 03:29:48.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 03:29:48.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 03:29:48.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> este es bueno juan
+[13Jun2025 03:29:59.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> Te crea esta burbuja XD
+[13Jun2025 03:30:15.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TanatosGX> dale 1 a jaime
+[13Jun2025 03:32:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: art has made the advancement [The Secrets of Enchanting]
+[13Jun2025 03:32:46.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was frozen to death by Skeleton
+[13Jun2025 03:33:11.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Creative Mode]
+[13Jun2025 03:33:29.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[13Jun2025 03:33:39.629] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[13Jun2025 03:33:39.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 03:33:39.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[13Jun2025 03:33:39.630] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[13Jun2025 03:34:04.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Spectator Mode]
+[13Jun2025 03:34:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> quitense
+[13Jun2025 03:34:15.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> a
+[13Jun2025 03:34:17.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <art> tana
+[13Jun2025 03:34:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Set own game mode to Survival Mode]
+[13Jun2025 03:34:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zJ3ff: Teleported zJ3ff to ChristianR3aper]
+[13Jun2025 03:35:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaime_A1 was slain by Skeleton
+[13Jun2025 03:35:43.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TanatosGX was slain by Skeleton
